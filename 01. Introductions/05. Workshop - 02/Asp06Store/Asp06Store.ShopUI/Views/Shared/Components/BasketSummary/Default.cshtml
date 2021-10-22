@@ -1,0 +1,34 @@
+﻿@model Basket
+<div class="m-1 p-1">
+    <table class="table table-bordered table-striped table-alert-secondary">
+        <tr>
+            <td>
+                Items in Basket:
+            </td>
+            <td>
+                @if (Model.Items.Any())
+                {
+                    <span>@Model.Items.Sum(c => c.Quantity)</span>
+                }
+                else
+                {
+                    <span>0</span>
+                }
+            </td>
+        </tr>
+
+        <tr>
+            <td>
+                Total Price:
+            </td>
+            <td>
+                @Model.TotalPrice()
+            </td>
+        </tr>
+        <tr>
+            <td colspan="2">
+                <a class="btn btn-success" asp-controller="Basket" asp-action="Index">Basket</a>
+            </td>
+        </tr>
+    </table>
+</div>
