@@ -1,0 +1,38 @@
+﻿@model BasketPageViewModel
+
+<table class="table table-bordered table-info table-striped ">
+    <tr>
+        <th>Name</th>
+        <th>Price</th>
+        <th>Quantity</th>
+        <th>Subtotal</th>
+        <th>
+            Remove
+        </th>
+    </tr>
+    @foreach (var item in Model.Basket.Items)
+    {
+        <tr>
+            <td>@item.Product.Name</td>
+            <td>@item.Product.Price</td>
+            <td>@item.Quantity</td>
+            <td>@(item.Quantity * item.Product.Price)</td>
+            <td>
+                <form asp-action="RemoveFromBasket" asp-controller="Basket" method="post">
+                    <input type="hidden" name="productId" value="@item.Product.Id">
+                    <input type="hidden" name="returnUrl" value="@Model.ReturnUrl">
+                    <input type="submit" value="Remove" class="btn btn-danger">
+                </form>
+            </td>
+        </tr>
+    }
+    <tr>
+        <td colspan="4">TotalPrice: </td>
+        <td >@Model.Basket.TotalPrice() </td>
+    </tr>
+</table>
+<div class="text-center">
+    <a class="btn alert-info" href="@Model.ReturnUrl">Continue Shopping</a>
+
+      <a class="btn alert-success" asp-action="Checkout" asp-controller="Order">Checkout</a>
+</div>

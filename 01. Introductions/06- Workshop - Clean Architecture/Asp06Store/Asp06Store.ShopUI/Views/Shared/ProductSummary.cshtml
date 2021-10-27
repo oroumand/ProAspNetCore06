@@ -1,0 +1,15 @@
+﻿@model Product
+
+<div class="card cardbtn-outline-secondary m-1 p-1">
+    <h4>
+        @Model.Name <span><small>@Model.Price</small></span>
+
+
+    </h4>
+    <form asp-controller="Basket" asp-action="AddToBasket" method="post">
+        <input type="hidden" value="@Model.Id" name="productId" />
+        <input type="hidden" value="@ViewContext.HttpContext.Request.Path" name="returnUrl" />
+        <input type="submit" value="AddToBasket" />
+    </form>
+    <p>@Model.Description</p>
+</div>
