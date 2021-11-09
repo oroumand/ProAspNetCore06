@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>02Begingin.CommentsTest</name>
+    </assembly>
+    <members>
+        <member name="T:_02Begingin.CommentsTest.Person">
+            <summary>
+            This is a person Class
+            </summary>
+        </member>
+        <member name="P:_02Begingin.CommentsTest.Person.FirstName">
+            <summary>
+            First Name Of Person
+            </summary>
+        </member>
+        <member name="M:_02Begingin.CommentsTest.Person.GetFullName">
+            <summary>
+            Calculate Full Name
+            </summary>
+            <returns>Full Name String </returns>
+        </member>
+    </members>
+</doc>

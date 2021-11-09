@@ -1,0 +1,15 @@
+E:\Source\ProAspNetCore06\02. C# and DotNet\01. Introduction\bin\Debug\net6.0\01. Introduction.exe
+E:\Source\ProAspNetCore06\02. C# and DotNet\01. Introduction\bin\Debug\net6.0\01. Introduction.deps.json
+E:\Source\ProAspNetCore06\02. C# and DotNet\01. Introduction\bin\Debug\net6.0\01. Introduction.runtimeconfig.json
+E:\Source\ProAspNetCore06\02. C# and DotNet\01. Introduction\bin\Debug\net6.0\01. Introduction.dll
+E:\Source\ProAspNetCore06\02. C# and DotNet\01. Introduction\bin\Debug\net6.0\ref\01. Introduction.dll
+E:\Source\ProAspNetCore06\02. C# and DotNet\01. Introduction\bin\Debug\net6.0\01. Introduction.pdb
+E:\Source\ProAspNetCore06\02. C# and DotNet\01. Introduction\obj\Debug\net6.0\01. Introduction.csproj.AssemblyReference.cache
+E:\Source\ProAspNetCore06\02. C# and DotNet\01. Introduction\obj\Debug\net6.0\01. Introduction.GeneratedMSBuildEditorConfig.editorconfig
+E:\Source\ProAspNetCore06\02. C# and DotNet\01. Introduction\obj\Debug\net6.0\01. Introduction.AssemblyInfoInputs.cache
+E:\Source\ProAspNetCore06\02. C# and DotNet\01. Introduction\obj\Debug\net6.0\01. Introduction.AssemblyInfo.cs
+E:\Source\ProAspNetCore06\02. C# and DotNet\01. Introduction\obj\Debug\net6.0\01. Introduction.csproj.CoreCompileInputs.cache
+E:\Source\ProAspNetCore06\02. C# and DotNet\01. Introduction\obj\Debug\net6.0\01. Introduction.dll
+E:\Source\ProAspNetCore06\02. C# and DotNet\01. Introduction\obj\Debug\net6.0\ref\01. Introduction.dll
+E:\Source\ProAspNetCore06\02. C# and DotNet\01. Introduction\obj\Debug\net6.0\01. Introduction.pdb
+E:\Source\ProAspNetCore06\02. C# and DotNet\01. Introduction\obj\Debug\net6.0\01. Introduction.genruntimeconfig.cache

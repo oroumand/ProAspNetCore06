@@ -1,0 +1,15 @@
+C:\Users\Alireza\source\repos\02.Begining\02.Begining.Constants\bin\Debug\net6.0\02.Begining.Constants.exe
+C:\Users\Alireza\source\repos\02.Begining\02.Begining.Constants\bin\Debug\net6.0\02.Begining.Constants.deps.json
+C:\Users\Alireza\source\repos\02.Begining\02.Begining.Constants\bin\Debug\net6.0\02.Begining.Constants.runtimeconfig.json
+C:\Users\Alireza\source\repos\02.Begining\02.Begining.Constants\bin\Debug\net6.0\02.Begining.Constants.dll
+C:\Users\Alireza\source\repos\02.Begining\02.Begining.Constants\bin\Debug\net6.0\ref\02.Begining.Constants.dll
+C:\Users\Alireza\source\repos\02.Begining\02.Begining.Constants\bin\Debug\net6.0\02.Begining.Constants.pdb
+C:\Users\Alireza\source\repos\02.Begining\02.Begining.Constants\obj\Debug\net6.0\02.Begining.Constants.csproj.AssemblyReference.cache
+C:\Users\Alireza\source\repos\02.Begining\02.Begining.Constants\obj\Debug\net6.0\02.Begining.Constants.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alireza\source\repos\02.Begining\02.Begining.Constants\obj\Debug\net6.0\02.Begining.Constants.AssemblyInfoInputs.cache
+C:\Users\Alireza\source\repos\02.Begining\02.Begining.Constants\obj\Debug\net6.0\02.Begining.Constants.AssemblyInfo.cs
+C:\Users\Alireza\source\repos\02.Begining\02.Begining.Constants\obj\Debug\net6.0\02.Begining.Constants.csproj.CoreCompileInputs.cache
+C:\Users\Alireza\source\repos\02.Begining\02.Begining.Constants\obj\Debug\net6.0\02.Begining.Constants.dll
+C:\Users\Alireza\source\repos\02.Begining\02.Begining.Constants\obj\Debug\net6.0\ref\02.Begining.Constants.dll
+C:\Users\Alireza\source\repos\02.Begining\02.Begining.Constants\obj\Debug\net6.0\02.Begining.Constants.pdb
+C:\Users\Alireza\source\repos\02.Begining\02.Begining.Constants\obj\Debug\net6.0\02.Begining.Constants.genruntimeconfig.cache

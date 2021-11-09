@@ -1,0 +1,15 @@
+C:\Users\Alireza\source\repos\02.Begining\02.Begining.NullableSample\obj\Debug\net6.0\02.Begining.NullableSample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alireza\source\repos\02.Begining\02.Begining.NullableSample\obj\Debug\net6.0\02.Begining.NullableSample.AssemblyInfoInputs.cache
+C:\Users\Alireza\source\repos\02.Begining\02.Begining.NullableSample\obj\Debug\net6.0\02.Begining.NullableSample.AssemblyInfo.cs
+C:\Users\Alireza\source\repos\02.Begining\02.Begining.NullableSample\obj\Debug\net6.0\02.Begining.NullableSample.csproj.CoreCompileInputs.cache
+C:\Users\Alireza\source\repos\02.Begining\02.Begining.NullableSample\bin\Debug\net6.0\02.Begining.NullableSample.exe
+C:\Users\Alireza\source\repos\02.Begining\02.Begining.NullableSample\bin\Debug\net6.0\02.Begining.NullableSample.deps.json
+C:\Users\Alireza\source\repos\02.Begining\02.Begining.NullableSample\bin\Debug\net6.0\02.Begining.NullableSample.runtimeconfig.json
+C:\Users\Alireza\source\repos\02.Begining\02.Begining.NullableSample\bin\Debug\net6.0\02.Begining.NullableSample.dll
+C:\Users\Alireza\source\repos\02.Begining\02.Begining.NullableSample\bin\Debug\net6.0\ref\02.Begining.NullableSample.dll
+C:\Users\Alireza\source\repos\02.Begining\02.Begining.NullableSample\bin\Debug\net6.0\02.Begining.NullableSample.pdb
+C:\Users\Alireza\source\repos\02.Begining\02.Begining.NullableSample\obj\Debug\net6.0\02.Begining.NullableSample.dll
+C:\Users\Alireza\source\repos\02.Begining\02.Begining.NullableSample\obj\Debug\net6.0\ref\02.Begining.NullableSample.dll
+C:\Users\Alireza\source\repos\02.Begining\02.Begining.NullableSample\obj\Debug\net6.0\02.Begining.NullableSample.pdb
+C:\Users\Alireza\source\repos\02.Begining\02.Begining.NullableSample\obj\Debug\net6.0\02.Begining.NullableSample.genruntimeconfig.cache
+C:\Users\Alireza\source\repos\02.Begining\02.Begining.NullableSample\obj\Debug\net6.0\02.Begining.NullableSample.csproj.AssemblyReference.cache

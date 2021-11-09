@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "9d4cc6fa-f2a7-4fd9-b32e-b061213d200f": {
+      "ProjectGuid": "9d4cc6fa-f2a7-4fd9-b32e-b061213d200f",
+      "DisplayName": "02.Begining.TopLevelStatement",
+      "ColorIndex": 0
+    },
+    "9a0e03e7-1b18-4a06-8494-84aeb1851e4a": {
+      "ProjectGuid": "9a0e03e7-1b18-4a06-8494-84aeb1851e4a",
+      "DisplayName": "02.Begining.Variables",
+      "ColorIndex": 1
+    },
+    "9d0d4394-02b6-43da-8b2e-b78b44d63fed": {
+      "ProjectGuid": "9d0d4394-02b6-43da-8b2e-b78b44d63fed",
+      "DisplayName": "02.Begining.Constants",
+      "ColorIndex": 2
+    },
+    "d4f956db-6560-4eb5-8cdd-398ae7f4cc32": {
+      "ProjectGuid": "d4f956db-6560-4eb5-8cdd-398ae7f4cc32",
+      "DisplayName": "02.Begining.NullableSample",
+      "ColorIndex": 3
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "750c3eb3-42ac-4fc4-90e2-af69bc02d8fa": {
+      "ProjectGuid": "750c3eb3-42ac-4fc4-90e2-af69bc02d8fa",
+      "DisplayName": "02.Begining.IntNumbers",
+      "ColorIndex": 4
+    },
+    "e34cd11a-c6f8-4007-9d4c-ba47d3616913": {
+      "ProjectGuid": "e34cd11a-c6f8-4007-9d4c-ba47d3616913",
+      "DisplayName": "02.Begining.FloatingPointNumbers",
+      "ColorIndex": 5
+    },
+    "209f7676-4601-4117-8bba-152a41591d56": {
+      "ProjectGuid": "209f7676-4601-4117-8bba-152a41591d56",
+      "DisplayName": "02.Begining.Strings",
+      "ColorIndex": 6
+    },
+    "c92fa60d-333d-4bc0-91d5-3927ec26b9c7": {
+      "ProjectGuid": "c92fa60d-333d-4bc0-91d5-3927ec26b9c7",
+      "DisplayName": "02.Begining.ControlFlow",
+      "ColorIndex": 7
+    },
+    "6aba879d-4abc-46b9-af62-1b4d5a65e9fe": {
+      "ProjectGuid": "6aba879d-4abc-46b9-af62-1b4d5a65e9fe",
+      "DisplayName": "02.Begining.Loops",
+      "ColorIndex": 8
+    },
+    "8a9de8eb-6f66-4d20-ba19-9fe1a25f551a": {
+      "ProjectGuid": "8a9de8eb-6f66-4d20-ba19-9fe1a25f551a",
+      "DisplayName": "02.Begining.NamespaceTest",
+      "ColorIndex": 9
+    },
+    "fd6210ba-0d7b-439e-82b8-fa4e507b9e4a": {
+      "ProjectGuid": "fd6210ba-0d7b-439e-82b8-fa4e507b9e4a",
+      "DisplayName": "02.Begining.TestImp",
+      "ColorIndex": 10
+    },
+    "de9a7372-26a4-42fc-9634-cd3b4a4ffc0a": {
+      "ProjectGuid": "de9a7372-26a4-42fc-9634-cd3b4a4ffc0a",
+      "DisplayName": "02Begingin.CommentsTest",
+      "ColorIndex": 11
+    }
+  },
+  "NextColorIndex": 12
+}

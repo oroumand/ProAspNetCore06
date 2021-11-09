@@ -1,0 +1,15 @@
+C:\Users\Alireza\source\repos\02.Begining\02.Begining.Strings\bin\Debug\net6.0\02.Begining.Strings.exe
+C:\Users\Alireza\source\repos\02.Begining\02.Begining.Strings\bin\Debug\net6.0\02.Begining.Strings.deps.json
+C:\Users\Alireza\source\repos\02.Begining\02.Begining.Strings\bin\Debug\net6.0\02.Begining.Strings.runtimeconfig.json
+C:\Users\Alireza\source\repos\02.Begining\02.Begining.Strings\bin\Debug\net6.0\02.Begining.Strings.dll
+C:\Users\Alireza\source\repos\02.Begining\02.Begining.Strings\bin\Debug\net6.0\ref\02.Begining.Strings.dll
+C:\Users\Alireza\source\repos\02.Begining\02.Begining.Strings\bin\Debug\net6.0\02.Begining.Strings.pdb
+C:\Users\Alireza\source\repos\02.Begining\02.Begining.Strings\obj\Debug\net6.0\02.Begining.Strings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alireza\source\repos\02.Begining\02.Begining.Strings\obj\Debug\net6.0\02.Begining.Strings.AssemblyInfoInputs.cache
+C:\Users\Alireza\source\repos\02.Begining\02.Begining.Strings\obj\Debug\net6.0\02.Begining.Strings.AssemblyInfo.cs
+C:\Users\Alireza\source\repos\02.Begining\02.Begining.Strings\obj\Debug\net6.0\02.Begining.Strings.csproj.CoreCompileInputs.cache
+C:\Users\Alireza\source\repos\02.Begining\02.Begining.Strings\obj\Debug\net6.0\02.Begining.Strings.dll
+C:\Users\Alireza\source\repos\02.Begining\02.Begining.Strings\obj\Debug\net6.0\ref\02.Begining.Strings.dll
+C:\Users\Alireza\source\repos\02.Begining\02.Begining.Strings\obj\Debug\net6.0\02.Begining.Strings.pdb
+C:\Users\Alireza\source\repos\02.Begining\02.Begining.Strings\obj\Debug\net6.0\02.Begining.Strings.genruntimeconfig.cache
+C:\Users\Alireza\source\repos\02.Begining\02.Begining.Strings\obj\Debug\net6.0\02.Begining.Strings.csproj.AssemblyReference.cache
