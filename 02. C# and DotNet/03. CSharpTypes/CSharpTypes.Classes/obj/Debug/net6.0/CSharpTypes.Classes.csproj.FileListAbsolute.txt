@@ -1,0 +1,15 @@
+C:\Users\Alireza\source\repos\CSharpTypes\CSharpTypes.Classes\obj\Debug\net6.0\CSharpTypes.Classes.csproj.AssemblyReference.cache
+C:\Users\Alireza\source\repos\CSharpTypes\CSharpTypes.Classes\obj\Debug\net6.0\CSharpTypes.Classes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alireza\source\repos\CSharpTypes\CSharpTypes.Classes\obj\Debug\net6.0\CSharpTypes.Classes.AssemblyInfoInputs.cache
+C:\Users\Alireza\source\repos\CSharpTypes\CSharpTypes.Classes\obj\Debug\net6.0\CSharpTypes.Classes.AssemblyInfo.cs
+C:\Users\Alireza\source\repos\CSharpTypes\CSharpTypes.Classes\obj\Debug\net6.0\CSharpTypes.Classes.csproj.CoreCompileInputs.cache
+C:\Users\Alireza\source\repos\CSharpTypes\CSharpTypes.Classes\bin\Debug\net6.0\CSharpTypes.Classes.exe
+C:\Users\Alireza\source\repos\CSharpTypes\CSharpTypes.Classes\bin\Debug\net6.0\CSharpTypes.Classes.deps.json
+C:\Users\Alireza\source\repos\CSharpTypes\CSharpTypes.Classes\bin\Debug\net6.0\CSharpTypes.Classes.runtimeconfig.json
+C:\Users\Alireza\source\repos\CSharpTypes\CSharpTypes.Classes\bin\Debug\net6.0\CSharpTypes.Classes.dll
+C:\Users\Alireza\source\repos\CSharpTypes\CSharpTypes.Classes\bin\Debug\net6.0\ref\CSharpTypes.Classes.dll
+C:\Users\Alireza\source\repos\CSharpTypes\CSharpTypes.Classes\bin\Debug\net6.0\CSharpTypes.Classes.pdb
+C:\Users\Alireza\source\repos\CSharpTypes\CSharpTypes.Classes\obj\Debug\net6.0\CSharpTypes.Classes.dll
+C:\Users\Alireza\source\repos\CSharpTypes\CSharpTypes.Classes\obj\Debug\net6.0\ref\CSharpTypes.Classes.dll
+C:\Users\Alireza\source\repos\CSharpTypes\CSharpTypes.Classes\obj\Debug\net6.0\CSharpTypes.Classes.pdb
+C:\Users\Alireza\source\repos\CSharpTypes\CSharpTypes.Classes\obj\Debug\net6.0\CSharpTypes.Classes.genruntimeconfig.cache

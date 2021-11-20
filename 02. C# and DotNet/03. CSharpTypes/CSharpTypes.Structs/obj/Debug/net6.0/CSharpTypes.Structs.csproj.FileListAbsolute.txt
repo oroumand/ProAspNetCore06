@@ -1,0 +1,15 @@
+C:\Users\Alireza\source\repos\CSharpTypes\CSharpTypes.Structs\bin\Debug\net6.0\CSharpTypes.Structs.exe
+C:\Users\Alireza\source\repos\CSharpTypes\CSharpTypes.Structs\bin\Debug\net6.0\CSharpTypes.Structs.deps.json
+C:\Users\Alireza\source\repos\CSharpTypes\CSharpTypes.Structs\bin\Debug\net6.0\CSharpTypes.Structs.runtimeconfig.json
+C:\Users\Alireza\source\repos\CSharpTypes\CSharpTypes.Structs\bin\Debug\net6.0\CSharpTypes.Structs.dll
+C:\Users\Alireza\source\repos\CSharpTypes\CSharpTypes.Structs\bin\Debug\net6.0\ref\CSharpTypes.Structs.dll
+C:\Users\Alireza\source\repos\CSharpTypes\CSharpTypes.Structs\bin\Debug\net6.0\CSharpTypes.Structs.pdb
+C:\Users\Alireza\source\repos\CSharpTypes\CSharpTypes.Structs\obj\Debug\net6.0\CSharpTypes.Structs.csproj.AssemblyReference.cache
+C:\Users\Alireza\source\repos\CSharpTypes\CSharpTypes.Structs\obj\Debug\net6.0\CSharpTypes.Structs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alireza\source\repos\CSharpTypes\CSharpTypes.Structs\obj\Debug\net6.0\CSharpTypes.Structs.AssemblyInfoInputs.cache
+C:\Users\Alireza\source\repos\CSharpTypes\CSharpTypes.Structs\obj\Debug\net6.0\CSharpTypes.Structs.AssemblyInfo.cs
+C:\Users\Alireza\source\repos\CSharpTypes\CSharpTypes.Structs\obj\Debug\net6.0\CSharpTypes.Structs.csproj.CoreCompileInputs.cache
+C:\Users\Alireza\source\repos\CSharpTypes\CSharpTypes.Structs\obj\Debug\net6.0\CSharpTypes.Structs.dll
+C:\Users\Alireza\source\repos\CSharpTypes\CSharpTypes.Structs\obj\Debug\net6.0\ref\CSharpTypes.Structs.dll
+C:\Users\Alireza\source\repos\CSharpTypes\CSharpTypes.Structs\obj\Debug\net6.0\CSharpTypes.Structs.pdb
+C:\Users\Alireza\source\repos\CSharpTypes\CSharpTypes.Structs\obj\Debug\net6.0\CSharpTypes.Structs.genruntimeconfig.cache

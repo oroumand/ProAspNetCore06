@@ -1,0 +1,15 @@
+C:\Users\Alireza\source\repos\CSharpTypes\CSharpTypes.RefInOut\bin\Debug\net6.0\CSharpTypes.RefInOut.exe
+C:\Users\Alireza\source\repos\CSharpTypes\CSharpTypes.RefInOut\bin\Debug\net6.0\CSharpTypes.RefInOut.deps.json
+C:\Users\Alireza\source\repos\CSharpTypes\CSharpTypes.RefInOut\bin\Debug\net6.0\CSharpTypes.RefInOut.runtimeconfig.json
+C:\Users\Alireza\source\repos\CSharpTypes\CSharpTypes.RefInOut\bin\Debug\net6.0\CSharpTypes.RefInOut.dll
+C:\Users\Alireza\source\repos\CSharpTypes\CSharpTypes.RefInOut\bin\Debug\net6.0\ref\CSharpTypes.RefInOut.dll
+C:\Users\Alireza\source\repos\CSharpTypes\CSharpTypes.RefInOut\bin\Debug\net6.0\CSharpTypes.RefInOut.pdb
+C:\Users\Alireza\source\repos\CSharpTypes\CSharpTypes.RefInOut\obj\Debug\net6.0\CSharpTypes.RefInOut.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alireza\source\repos\CSharpTypes\CSharpTypes.RefInOut\obj\Debug\net6.0\CSharpTypes.RefInOut.AssemblyInfoInputs.cache
+C:\Users\Alireza\source\repos\CSharpTypes\CSharpTypes.RefInOut\obj\Debug\net6.0\CSharpTypes.RefInOut.AssemblyInfo.cs
+C:\Users\Alireza\source\repos\CSharpTypes\CSharpTypes.RefInOut\obj\Debug\net6.0\CSharpTypes.RefInOut.csproj.CoreCompileInputs.cache
+C:\Users\Alireza\source\repos\CSharpTypes\CSharpTypes.RefInOut\obj\Debug\net6.0\CSharpTypes.RefInOut.dll
+C:\Users\Alireza\source\repos\CSharpTypes\CSharpTypes.RefInOut\obj\Debug\net6.0\ref\CSharpTypes.RefInOut.dll
+C:\Users\Alireza\source\repos\CSharpTypes\CSharpTypes.RefInOut\obj\Debug\net6.0\CSharpTypes.RefInOut.pdb
+C:\Users\Alireza\source\repos\CSharpTypes\CSharpTypes.RefInOut\obj\Debug\net6.0\CSharpTypes.RefInOut.genruntimeconfig.cache
+C:\Users\Alireza\source\repos\CSharpTypes\CSharpTypes.RefInOut\obj\Debug\net6.0\CSharpTypes.RefInOut.csproj.AssemblyReference.cache

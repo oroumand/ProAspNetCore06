@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "3d208a50-89d3-4f73-b74c-d2b255c662b9": {
+      "ProjectGuid": "3d208a50-89d3-4f73-b74c-d2b255c662b9",
+      "DisplayName": "CSharpTypes.Classes",
+      "ColorIndex": 0
+    },
+    "e53e899c-c2bd-404c-b6dc-63cacfdbddd7": {
+      "ProjectGuid": "e53e899c-c2bd-404c-b6dc-63cacfdbddd7",
+      "DisplayName": "CSharpTypes.Records",
+      "ColorIndex": 1
+    },
+    "1070e9ba-e0b8-4bd4-a193-e95f9f431d2b": {
+      "ProjectGuid": "1070e9ba-e0b8-4bd4-a193-e95f9f431d2b",
+      "DisplayName": "CSharpTypes.Structs",
+      "ColorIndex": 2
+    },
+    "d8371901-9f06-4489-a4da-317cf2a1f558": {
+      "ProjectGuid": "d8371901-9f06-4489-a4da-317cf2a1f558",
+      "DisplayName": "CSharpTypes.Enums",
+      "ColorIndex": 3
+    },
+    "361b57e1-6014-46bb-a1c6-8f8a032acd91": {
+      "ProjectGuid": "361b57e1-6014-46bb-a1c6-8f8a032acd91",
+      "DisplayName": "CSharpTypes.RefInOut",
+      "ColorIndex": 4
+    },
+    "06395706-9ed0-41ac-8926-e4ac03b40372": {
+      "ProjectGuid": "06395706-9ed0-41ac-8926-e4ac03b40372",
+      "DisplayName": "CSharpTypes.Tupples",
+      "ColorIndex": 5
+    },
+    "4eac09ce-7435-40db-a391-559bacbc7d99": {
+      "ProjectGuid": "4eac09ce-7435-40db-a391-559bacbc7d99",
+      "DisplayName": "CSharpTypes.Patials",
+      "ColorIndex": 6
+    }
+  },
+  "NextColorIndex": 7
+}
