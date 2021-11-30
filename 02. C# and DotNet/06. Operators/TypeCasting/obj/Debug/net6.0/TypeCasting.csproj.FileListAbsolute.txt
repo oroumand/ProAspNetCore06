@@ -1,0 +1,15 @@
+C:\Users\Alireza\source\repos\Operators\TypeCasting\bin\Debug\net6.0\TypeCasting.exe
+C:\Users\Alireza\source\repos\Operators\TypeCasting\bin\Debug\net6.0\TypeCasting.deps.json
+C:\Users\Alireza\source\repos\Operators\TypeCasting\bin\Debug\net6.0\TypeCasting.runtimeconfig.json
+C:\Users\Alireza\source\repos\Operators\TypeCasting\bin\Debug\net6.0\TypeCasting.dll
+C:\Users\Alireza\source\repos\Operators\TypeCasting\bin\Debug\net6.0\ref\TypeCasting.dll
+C:\Users\Alireza\source\repos\Operators\TypeCasting\bin\Debug\net6.0\TypeCasting.pdb
+C:\Users\Alireza\source\repos\Operators\TypeCasting\obj\Debug\net6.0\TypeCasting.csproj.AssemblyReference.cache
+C:\Users\Alireza\source\repos\Operators\TypeCasting\obj\Debug\net6.0\TypeCasting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alireza\source\repos\Operators\TypeCasting\obj\Debug\net6.0\TypeCasting.AssemblyInfoInputs.cache
+C:\Users\Alireza\source\repos\Operators\TypeCasting\obj\Debug\net6.0\TypeCasting.AssemblyInfo.cs
+C:\Users\Alireza\source\repos\Operators\TypeCasting\obj\Debug\net6.0\TypeCasting.csproj.CoreCompileInputs.cache
+C:\Users\Alireza\source\repos\Operators\TypeCasting\obj\Debug\net6.0\TypeCasting.dll
+C:\Users\Alireza\source\repos\Operators\TypeCasting\obj\Debug\net6.0\ref\TypeCasting.dll
+C:\Users\Alireza\source\repos\Operators\TypeCasting\obj\Debug\net6.0\TypeCasting.pdb
+C:\Users\Alireza\source\repos\Operators\TypeCasting\obj\Debug\net6.0\TypeCasting.genruntimeconfig.cache
