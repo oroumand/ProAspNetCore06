@@ -1,0 +1,15 @@
+C:\Users\Alireza\source\repos\MyCollectionSample\CollectionFirstLook\bin\Debug\net6.0\CollectionFirstLook.exe
+C:\Users\Alireza\source\repos\MyCollectionSample\CollectionFirstLook\bin\Debug\net6.0\CollectionFirstLook.deps.json
+C:\Users\Alireza\source\repos\MyCollectionSample\CollectionFirstLook\bin\Debug\net6.0\CollectionFirstLook.runtimeconfig.json
+C:\Users\Alireza\source\repos\MyCollectionSample\CollectionFirstLook\bin\Debug\net6.0\CollectionFirstLook.dll
+C:\Users\Alireza\source\repos\MyCollectionSample\CollectionFirstLook\bin\Debug\net6.0\ref\CollectionFirstLook.dll
+C:\Users\Alireza\source\repos\MyCollectionSample\CollectionFirstLook\bin\Debug\net6.0\CollectionFirstLook.pdb
+C:\Users\Alireza\source\repos\MyCollectionSample\CollectionFirstLook\obj\Debug\net6.0\CollectionFirstLook.csproj.AssemblyReference.cache
+C:\Users\Alireza\source\repos\MyCollectionSample\CollectionFirstLook\obj\Debug\net6.0\CollectionFirstLook.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alireza\source\repos\MyCollectionSample\CollectionFirstLook\obj\Debug\net6.0\CollectionFirstLook.AssemblyInfoInputs.cache
+C:\Users\Alireza\source\repos\MyCollectionSample\CollectionFirstLook\obj\Debug\net6.0\CollectionFirstLook.AssemblyInfo.cs
+C:\Users\Alireza\source\repos\MyCollectionSample\CollectionFirstLook\obj\Debug\net6.0\CollectionFirstLook.csproj.CoreCompileInputs.cache
+C:\Users\Alireza\source\repos\MyCollectionSample\CollectionFirstLook\obj\Debug\net6.0\CollectionFirstLook.dll
+C:\Users\Alireza\source\repos\MyCollectionSample\CollectionFirstLook\obj\Debug\net6.0\ref\CollectionFirstLook.dll
+C:\Users\Alireza\source\repos\MyCollectionSample\CollectionFirstLook\obj\Debug\net6.0\CollectionFirstLook.pdb
+C:\Users\Alireza\source\repos\MyCollectionSample\CollectionFirstLook\obj\Debug\net6.0\CollectionFirstLook.genruntimeconfig.cache
