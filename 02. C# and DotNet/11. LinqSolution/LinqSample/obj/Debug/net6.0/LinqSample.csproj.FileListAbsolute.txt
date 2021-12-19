@@ -1,0 +1,15 @@
+C:\Users\Alireza\source\repos\LinqSolution\LinqSample\bin\Debug\net6.0\LinqSample.exe
+C:\Users\Alireza\source\repos\LinqSolution\LinqSample\bin\Debug\net6.0\LinqSample.deps.json
+C:\Users\Alireza\source\repos\LinqSolution\LinqSample\bin\Debug\net6.0\LinqSample.runtimeconfig.json
+C:\Users\Alireza\source\repos\LinqSolution\LinqSample\bin\Debug\net6.0\LinqSample.dll
+C:\Users\Alireza\source\repos\LinqSolution\LinqSample\bin\Debug\net6.0\ref\LinqSample.dll
+C:\Users\Alireza\source\repos\LinqSolution\LinqSample\bin\Debug\net6.0\LinqSample.pdb
+C:\Users\Alireza\source\repos\LinqSolution\LinqSample\obj\Debug\net6.0\LinqSample.csproj.AssemblyReference.cache
+C:\Users\Alireza\source\repos\LinqSolution\LinqSample\obj\Debug\net6.0\LinqSample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alireza\source\repos\LinqSolution\LinqSample\obj\Debug\net6.0\LinqSample.AssemblyInfoInputs.cache
+C:\Users\Alireza\source\repos\LinqSolution\LinqSample\obj\Debug\net6.0\LinqSample.AssemblyInfo.cs
+C:\Users\Alireza\source\repos\LinqSolution\LinqSample\obj\Debug\net6.0\LinqSample.csproj.CoreCompileInputs.cache
+C:\Users\Alireza\source\repos\LinqSolution\LinqSample\obj\Debug\net6.0\LinqSample.dll
+C:\Users\Alireza\source\repos\LinqSolution\LinqSample\obj\Debug\net6.0\ref\LinqSample.dll
+C:\Users\Alireza\source\repos\LinqSolution\LinqSample\obj\Debug\net6.0\LinqSample.pdb
+C:\Users\Alireza\source\repos\LinqSolution\LinqSample\obj\Debug\net6.0\LinqSample.genruntimeconfig.cache
