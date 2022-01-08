@@ -1,0 +1,108 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "AttributeSample.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "AttributeSamples.CustomAttributes": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/AttributeSample.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/AttributeSample.Domain.dll": {}
+        }
+      },
+      "AttributeSamples.CustomAttributes/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/AttributeSamples.CustomAttributes.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/AttributeSamples.CustomAttributes.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AttributeSample.Domain/1.0.0": {
+      "type": "project",
+      "path": "../AttributeSample.Domain/AttributeSample.Domain.csproj",
+      "msbuildProject": "../AttributeSample.Domain/AttributeSample.Domain.csproj"
+    },
+    "AttributeSamples.CustomAttributes/1.0.0": {
+      "type": "project",
+      "path": "../AttributeSamples.CustomAttributes/AttributeSamples.CustomAttributes.csproj",
+      "msbuildProject": "../AttributeSamples.CustomAttributes/AttributeSamples.CustomAttributes.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "AttributeSample.Domain >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Alireza\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "E:\\Source\\kafka-dotnet-getting-started\\AttributeSamples\\AttributeSamples.UI\\AttributeSamples.UI.csproj",
+      "projectName": "AttributeSamples.UI",
+      "projectPath": "E:\\Source\\kafka-dotnet-getting-started\\AttributeSamples\\AttributeSamples.UI\\AttributeSamples.UI.csproj",
+      "packagesPath": "C:\\Users\\Alireza\\.nuget\\packages\\",
+      "outputPath": "E:\\Source\\kafka-dotnet-getting-started\\AttributeSamples\\AttributeSamples.UI\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Alireza\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {
+            "E:\\Source\\kafka-dotnet-getting-started\\AttributeSamples\\AttributeSample.Domain\\AttributeSample.Domain.csproj": {
+              "projectPath": "E:\\Source\\kafka-dotnet-getting-started\\AttributeSamples\\AttributeSample.Domain\\AttributeSample.Domain.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Alireza\\source\\repos\\LinqSolution\\LinqSample\\LinqSample.csproj": {}
+    "E:\\Source\\ProAspNetCore06\\02. C# and DotNet\\11. LinqSolution\\LinqSample\\LinqSample.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Alireza\\source\\repos\\LinqSolution\\LinqSample\\LinqSample.csproj": {
+    "E:\\Source\\ProAspNetCore06\\02. C# and DotNet\\11. LinqSolution\\LinqSample\\LinqSample.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Alireza\\source\\repos\\LinqSolution\\LinqSample\\LinqSample.csproj",
+        "projectUniqueName": "E:\\Source\\ProAspNetCore06\\02. C# and DotNet\\11. LinqSolution\\LinqSample\\LinqSample.csproj",
         "projectName": "LinqSample",
-        "projectPath": "C:\\Users\\Alireza\\source\\repos\\LinqSolution\\LinqSample\\LinqSample.csproj",
+        "projectPath": "E:\\Source\\ProAspNetCore06\\02. C# and DotNet\\11. LinqSolution\\LinqSample\\LinqSample.csproj",
         "packagesPath": "C:\\Users\\Alireza\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Alireza\\source\\repos\\LinqSolution\\LinqSample\\obj\\",
+        "outputPath": "E:\\Source\\ProAspNetCore06\\02. C# and DotNet\\11. LinqSolution\\LinqSample\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Alireza\\AppData\\Roaming\\NuGet\\NuGet.Config",

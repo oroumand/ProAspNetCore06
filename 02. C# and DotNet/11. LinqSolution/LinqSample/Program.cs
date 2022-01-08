@@ -3,4 +3,5 @@
 using LinqSample;
 
 LinqOperators linqOperators = new LinqOperators();
-linqOperators.Generators();
+linqOperators.GroupJoin();
+linqOperators.PrintNamesWithLinqMethod();

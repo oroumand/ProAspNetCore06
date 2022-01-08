@@ -20,7 +20,7 @@ namespace LinqSample
                 "Abbas Masoumi"
             };
 
-            List<string> result = new List<string>();
+            List<string> result = new();
             foreach (string name in names)
             {
                 if (name.StartsWith("A"))
@@ -50,7 +50,7 @@ namespace LinqSample
                          where name.StartsWith("A")
                          orderby name
                          select name;
-
+            var typename = result.GetType().FullName;
             foreach (var item in result)
             {
                 Console.WriteLine(item);
@@ -67,9 +67,9 @@ namespace LinqSample
                 "Mohammad Abbasi",
                 "Abbas Masoumi"
             };
-
+            
             var result = names.Where(c => c.StartsWith("A")).OrderBy(c => c);
-
+            var typename = result.GetType().FullName;
             foreach (var item in result)
             {
                 Console.WriteLine(item);
@@ -204,7 +204,6 @@ namespace LinqSample
         {
             var students = Student.GetStudents();
             var course = StudentCourse.GetStudentCourses();
-            students.Max(c => c.LastName);
             var groupJoin = students.GroupJoin(course, s => s.Id, c => c.StudnetId, (s, c) =>
                 new
                 {
@@ -318,6 +317,8 @@ namespace LinqSample
             };
 
             var result = sc01.UnionBy(sc02,c=>c.Id);
+
+            var result2 = sc01.Union(sc02);
             foreach (var item in result)
             {
                 Console.WriteLine(item.Id);
@@ -410,7 +411,7 @@ namespace LinqSample
         public void Pagination(int pageIndex = 0, int pageCount=3)
         {
             List<int> int01 = new List<int> { 1, 2, 3, 4, 5, 6, 7, 8, 9, 10,11,12,13,14,15 };
-        
+            
             var result = int01.Skip(pageCount * pageIndex).Take(pageCount);
 
             foreach (var item in result)
@@ -428,7 +429,8 @@ namespace LinqSample
         public void AggregateFunctions()
         {
             var students = Student.GetStudents();
-
+            
+            var m = students.MinBy(c=>c.Grade);
             var totalCount = students.Count();
             var minValue = students.Min(c=>c.Grade);
             var maxValue = students.Max(c=>c.Grade);

@@ -1,0 +1,11 @@
+E:\Source\kafka-dotnet-getting-started\AttributeSamples\AttributeSample.Domain\bin\Release\net6.0\AttributeSample.Domain.deps.json
+E:\Source\kafka-dotnet-getting-started\AttributeSamples\AttributeSample.Domain\bin\Release\net6.0\AttributeSample.Domain.dll
+E:\Source\kafka-dotnet-getting-started\AttributeSamples\AttributeSample.Domain\bin\Release\net6.0\ref\AttributeSample.Domain.dll
+E:\Source\kafka-dotnet-getting-started\AttributeSamples\AttributeSample.Domain\bin\Release\net6.0\AttributeSample.Domain.pdb
+E:\Source\kafka-dotnet-getting-started\AttributeSamples\AttributeSample.Domain\obj\Release\net6.0\AttributeSample.Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\Source\kafka-dotnet-getting-started\AttributeSamples\AttributeSample.Domain\obj\Release\net6.0\AttributeSample.Domain.AssemblyInfoInputs.cache
+E:\Source\kafka-dotnet-getting-started\AttributeSamples\AttributeSample.Domain\obj\Release\net6.0\AttributeSample.Domain.AssemblyInfo.cs
+E:\Source\kafka-dotnet-getting-started\AttributeSamples\AttributeSample.Domain\obj\Release\net6.0\AttributeSample.Domain.csproj.CoreCompileInputs.cache
+E:\Source\kafka-dotnet-getting-started\AttributeSamples\AttributeSample.Domain\obj\Release\net6.0\AttributeSample.Domain.dll
+E:\Source\kafka-dotnet-getting-started\AttributeSamples\AttributeSample.Domain\obj\Release\net6.0\ref\AttributeSample.Domain.dll
+E:\Source\kafka-dotnet-getting-started\AttributeSamples\AttributeSample.Domain\obj\Release\net6.0\AttributeSample.Domain.pdb

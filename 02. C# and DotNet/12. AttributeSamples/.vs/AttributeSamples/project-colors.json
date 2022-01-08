@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "e4acc0ce-d4ab-455b-8421-603cd45f2721": {
+      "ProjectGuid": "e4acc0ce-d4ab-455b-8421-603cd45f2721",
+      "DisplayName": "AttributeSamples.UI",
+      "ColorIndex": 0
+    },
+    "825cfa23-8bb9-4351-8ace-a83dd6c8ff92": {
+      "ProjectGuid": "825cfa23-8bb9-4351-8ace-a83dd6c8ff92",
+      "DisplayName": "AttributeSample.Domain",
+      "ColorIndex": 1
+    },
+    "c5cad6c8-bed1-4d9e-8233-ff43f531f181": {
+      "ProjectGuid": "c5cad6c8-bed1-4d9e-8233-ff43f531f181",
+      "DisplayName": "AttributeSamples.Core.Domain.Test",
+      "ColorIndex": 2
+    },
+    "58b341b6-5151-44f0-b009-421bbbc19df1": {
+      "ProjectGuid": "58b341b6-5151-44f0-b009-421bbbc19df1",
+      "DisplayName": "AttributeSamples.CustomAttributes",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}
