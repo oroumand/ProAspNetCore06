@@ -1,0 +1,15 @@
+E:\Source\EFQuertSample\EfSample.Dal\bin\Debug\net6.0\EfSample.Dal.deps.json
+E:\Source\EFQuertSample\EfSample.Dal\bin\Debug\net6.0\EfSample.Dal.dll
+E:\Source\EFQuertSample\EfSample.Dal\bin\Debug\net6.0\ref\EfSample.Dal.dll
+E:\Source\EFQuertSample\EfSample.Dal\bin\Debug\net6.0\EfSample.Dal.pdb
+E:\Source\EFQuertSample\EfSample.Dal\bin\Debug\net6.0\EfSample.Entities.dll
+E:\Source\EFQuertSample\EfSample.Dal\bin\Debug\net6.0\EfSample.Entities.pdb
+E:\Source\EFQuertSample\EfSample.Dal\obj\Debug\net6.0\EfSample.Dal.csproj.AssemblyReference.cache
+E:\Source\EFQuertSample\EfSample.Dal\obj\Debug\net6.0\EfSample.Dal.GeneratedMSBuildEditorConfig.editorconfig
+E:\Source\EFQuertSample\EfSample.Dal\obj\Debug\net6.0\EfSample.Dal.AssemblyInfoInputs.cache
+E:\Source\EFQuertSample\EfSample.Dal\obj\Debug\net6.0\EfSample.Dal.AssemblyInfo.cs
+E:\Source\EFQuertSample\EfSample.Dal\obj\Debug\net6.0\EfSample.Dal.csproj.CoreCompileInputs.cache
+E:\Source\EFQuertSample\EfSample.Dal\obj\Debug\net6.0\EfSample.Dal.csproj.CopyComplete
+E:\Source\EFQuertSample\EfSample.Dal\obj\Debug\net6.0\EfSample.Dal.dll
+E:\Source\EFQuertSample\EfSample.Dal\obj\Debug\net6.0\ref\EfSample.Dal.dll
+E:\Source\EFQuertSample\EfSample.Dal\obj\Debug\net6.0\EfSample.Dal.pdb

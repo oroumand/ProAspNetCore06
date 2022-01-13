@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "7bd4338e-aaee-4d7a-b465-a80f6ae6303e": {
+      "ProjectGuid": "7bd4338e-aaee-4d7a-b465-a80f6ae6303e",
+      "DisplayName": "EfSample.Entities",
+      "ColorIndex": 0
+    },
+    "b42ce7b2-3f66-491f-9d16-15df1e3329eb": {
+      "ProjectGuid": "b42ce7b2-3f66-491f-9d16-15df1e3329eb",
+      "DisplayName": "EfSample.Dal",
+      "ColorIndex": 1
+    },
+    "a88fde8c-180d-4c3f-9990-2b8379e3669a": {
+      "ProjectGuid": "a88fde8c-180d-4c3f-9990-2b8379e3669a",
+      "DisplayName": "EfSample.UI",
+      "ColorIndex": 2
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "8ad00203-68e4-44be-b9fc-2a0cafb84547": {
+      "ProjectGuid": "8ad00203-68e4-44be-b9fc-2a0cafb84547",
+      "DisplayName": "EFQuertSample.LazyLoading",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}
