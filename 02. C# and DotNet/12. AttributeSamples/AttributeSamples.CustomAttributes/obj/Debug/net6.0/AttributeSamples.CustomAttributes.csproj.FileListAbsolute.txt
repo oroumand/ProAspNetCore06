@@ -1,0 +1,23 @@
+E:\Source\kafka-dotnet-getting-started\AttributeSamples\AttributeSamples.CustomAttributes\bin\Debug\net6.0\AttributeSamples.CustomAttributes.deps.json
+E:\Source\kafka-dotnet-getting-started\AttributeSamples\AttributeSamples.CustomAttributes\bin\Debug\net6.0\AttributeSamples.CustomAttributes.dll
+E:\Source\kafka-dotnet-getting-started\AttributeSamples\AttributeSamples.CustomAttributes\bin\Debug\net6.0\ref\AttributeSamples.CustomAttributes.dll
+E:\Source\kafka-dotnet-getting-started\AttributeSamples\AttributeSamples.CustomAttributes\bin\Debug\net6.0\AttributeSamples.CustomAttributes.pdb
+E:\Source\kafka-dotnet-getting-started\AttributeSamples\AttributeSamples.CustomAttributes\obj\Debug\net6.0\AttributeSamples.CustomAttributes.csproj.AssemblyReference.cache
+E:\Source\kafka-dotnet-getting-started\AttributeSamples\AttributeSamples.CustomAttributes\obj\Debug\net6.0\AttributeSamples.CustomAttributes.GeneratedMSBuildEditorConfig.editorconfig
+E:\Source\kafka-dotnet-getting-started\AttributeSamples\AttributeSamples.CustomAttributes\obj\Debug\net6.0\AttributeSamples.CustomAttributes.AssemblyInfoInputs.cache
+E:\Source\kafka-dotnet-getting-started\AttributeSamples\AttributeSamples.CustomAttributes\obj\Debug\net6.0\AttributeSamples.CustomAttributes.AssemblyInfo.cs
+E:\Source\kafka-dotnet-getting-started\AttributeSamples\AttributeSamples.CustomAttributes\obj\Debug\net6.0\AttributeSamples.CustomAttributes.csproj.CoreCompileInputs.cache
+E:\Source\kafka-dotnet-getting-started\AttributeSamples\AttributeSamples.CustomAttributes\obj\Debug\net6.0\AttributeSamples.CustomAttributes.dll
+E:\Source\kafka-dotnet-getting-started\AttributeSamples\AttributeSamples.CustomAttributes\obj\Debug\net6.0\ref\AttributeSamples.CustomAttributes.dll
+E:\Source\kafka-dotnet-getting-started\AttributeSamples\AttributeSamples.CustomAttributes\obj\Debug\net6.0\AttributeSamples.CustomAttributes.pdb
+E:\Source\ProAspNetCore06\02. C# and DotNet\12. AttributeSamples\AttributeSamples.CustomAttributes\bin\Debug\net6.0\AttributeSamples.CustomAttributes.deps.json
+E:\Source\ProAspNetCore06\02. C# and DotNet\12. AttributeSamples\AttributeSamples.CustomAttributes\bin\Debug\net6.0\AttributeSamples.CustomAttributes.dll
+E:\Source\ProAspNetCore06\02. C# and DotNet\12. AttributeSamples\AttributeSamples.CustomAttributes\bin\Debug\net6.0\ref\AttributeSamples.CustomAttributes.dll
+E:\Source\ProAspNetCore06\02. C# and DotNet\12. AttributeSamples\AttributeSamples.CustomAttributes\bin\Debug\net6.0\AttributeSamples.CustomAttributes.pdb
+E:\Source\ProAspNetCore06\02. C# and DotNet\12. AttributeSamples\AttributeSamples.CustomAttributes\obj\Debug\net6.0\AttributeSamples.CustomAttributes.GeneratedMSBuildEditorConfig.editorconfig
+E:\Source\ProAspNetCore06\02. C# and DotNet\12. AttributeSamples\AttributeSamples.CustomAttributes\obj\Debug\net6.0\AttributeSamples.CustomAttributes.AssemblyInfoInputs.cache
+E:\Source\ProAspNetCore06\02. C# and DotNet\12. AttributeSamples\AttributeSamples.CustomAttributes\obj\Debug\net6.0\AttributeSamples.CustomAttributes.AssemblyInfo.cs
+E:\Source\ProAspNetCore06\02. C# and DotNet\12. AttributeSamples\AttributeSamples.CustomAttributes\obj\Debug\net6.0\AttributeSamples.CustomAttributes.csproj.CoreCompileInputs.cache
+E:\Source\ProAspNetCore06\02. C# and DotNet\12. AttributeSamples\AttributeSamples.CustomAttributes\obj\Debug\net6.0\AttributeSamples.CustomAttributes.dll
+E:\Source\ProAspNetCore06\02. C# and DotNet\12. AttributeSamples\AttributeSamples.CustomAttributes\obj\Debug\net6.0\ref\AttributeSamples.CustomAttributes.dll
+E:\Source\ProAspNetCore06\02. C# and DotNet\12. AttributeSamples\AttributeSamples.CustomAttributes\obj\Debug\net6.0\AttributeSamples.CustomAttributes.pdb

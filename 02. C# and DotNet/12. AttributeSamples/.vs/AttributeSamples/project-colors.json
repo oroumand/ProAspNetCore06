@@ -20,7 +20,42 @@
       "ProjectGuid": "58b341b6-5151-44f0-b009-421bbbc19df1",
       "DisplayName": "AttributeSamples.CustomAttributes",
       "ColorIndex": 3
+    },
+    "39afa53a-ab9a-4024-938d-d0b01242f5c9": {
+      "ProjectGuid": "39afa53a-ab9a-4024-938d-d0b01242f5c9",
+      "DisplayName": "AttributeSamples.ReflectionUI",
+      "ColorIndex": 4
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "16407ccb-f8bc-4d69-a789-b4388ee499e9": {
+      "ProjectGuid": "16407ccb-f8bc-4d69-a789-b4388ee499e9",
+      "DisplayName": "AttributeSamples.DiscoveringMetadata",
+      "ColorIndex": 5
+    },
+    "7ef13b3e-65ab-45e6-8cb3-94d25ef10f86": {
+      "ProjectGuid": "7ef13b3e-65ab-45e6-8cb3-94d25ef10f86",
+      "DisplayName": "AttributeSamples.DiscoveringMetadata",
+      "ColorIndex": 6
+    },
+    "96db645f-8958-4727-ad8b-ab7865b90805": {
+      "ProjectGuid": "96db645f-8958-4727-ad8b-ab7865b90805",
+      "DisplayName": "AttributeSamples.LoadAssembly",
+      "ColorIndex": 7
+    },
+    "427ac919-856c-42c0-9339-f69ddc38abac": {
+      "ProjectGuid": "427ac919-856c-42c0-9339-f69ddc38abac",
+      "DisplayName": "AttributeSamples.LateBinding",
+      "ColorIndex": 8
+    },
+    "5214b11e-cdd9-4487-8cc5-0c57fddd1c19": {
+      "ProjectGuid": "5214b11e-cdd9-4487-8cc5-0c57fddd1c19",
+      "DisplayName": "AttributeSamples.LateBinding",
+      "ColorIndex": 9
     }
   },
-  "NextColorIndex": 4
+  "NextColorIndex": 10
 }

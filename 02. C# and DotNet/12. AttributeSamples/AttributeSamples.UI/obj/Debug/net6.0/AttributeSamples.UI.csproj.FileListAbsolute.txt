@@ -16,3 +16,23 @@ E:\Source\kafka-dotnet-getting-started\AttributeSamples\AttributeSamples.UI\obj\
 E:\Source\kafka-dotnet-getting-started\AttributeSamples\AttributeSamples.UI\obj\Debug\net6.0\ref\AttributeSamples.UI.dll
 E:\Source\kafka-dotnet-getting-started\AttributeSamples\AttributeSamples.UI\obj\Debug\net6.0\AttributeSamples.UI.pdb
 E:\Source\kafka-dotnet-getting-started\AttributeSamples\AttributeSamples.UI\obj\Debug\net6.0\AttributeSamples.UI.genruntimeconfig.cache
+E:\Source\ProAspNetCore06\02. C# and DotNet\12. AttributeSamples\AttributeSamples.UI\bin\Debug\net6.0\AttributeSamples.UI.exe
+E:\Source\ProAspNetCore06\02. C# and DotNet\12. AttributeSamples\AttributeSamples.UI\bin\Debug\net6.0\AttributeSamples.UI.deps.json
+E:\Source\ProAspNetCore06\02. C# and DotNet\12. AttributeSamples\AttributeSamples.UI\bin\Debug\net6.0\AttributeSamples.UI.runtimeconfig.json
+E:\Source\ProAspNetCore06\02. C# and DotNet\12. AttributeSamples\AttributeSamples.UI\bin\Debug\net6.0\AttributeSamples.UI.dll
+E:\Source\ProAspNetCore06\02. C# and DotNet\12. AttributeSamples\AttributeSamples.UI\bin\Debug\net6.0\ref\AttributeSamples.UI.dll
+E:\Source\ProAspNetCore06\02. C# and DotNet\12. AttributeSamples\AttributeSamples.UI\bin\Debug\net6.0\AttributeSamples.UI.pdb
+E:\Source\ProAspNetCore06\02. C# and DotNet\12. AttributeSamples\AttributeSamples.UI\bin\Debug\net6.0\AttributeSample.Domain.dll
+E:\Source\ProAspNetCore06\02. C# and DotNet\12. AttributeSamples\AttributeSamples.UI\bin\Debug\net6.0\AttributeSamples.CustomAttributes.dll
+E:\Source\ProAspNetCore06\02. C# and DotNet\12. AttributeSamples\AttributeSamples.UI\bin\Debug\net6.0\AttributeSample.Domain.pdb
+E:\Source\ProAspNetCore06\02. C# and DotNet\12. AttributeSamples\AttributeSamples.UI\bin\Debug\net6.0\AttributeSamples.CustomAttributes.pdb
+E:\Source\ProAspNetCore06\02. C# and DotNet\12. AttributeSamples\AttributeSamples.UI\obj\Debug\net6.0\AttributeSamples.UI.csproj.AssemblyReference.cache
+E:\Source\ProAspNetCore06\02. C# and DotNet\12. AttributeSamples\AttributeSamples.UI\obj\Debug\net6.0\AttributeSamples.UI.GeneratedMSBuildEditorConfig.editorconfig
+E:\Source\ProAspNetCore06\02. C# and DotNet\12. AttributeSamples\AttributeSamples.UI\obj\Debug\net6.0\AttributeSamples.UI.AssemblyInfoInputs.cache
+E:\Source\ProAspNetCore06\02. C# and DotNet\12. AttributeSamples\AttributeSamples.UI\obj\Debug\net6.0\AttributeSamples.UI.AssemblyInfo.cs
+E:\Source\ProAspNetCore06\02. C# and DotNet\12. AttributeSamples\AttributeSamples.UI\obj\Debug\net6.0\AttributeSamples.UI.csproj.CoreCompileInputs.cache
+E:\Source\ProAspNetCore06\02. C# and DotNet\12. AttributeSamples\AttributeSamples.UI\obj\Debug\net6.0\AttributeSamples.UI.csproj.CopyComplete
+E:\Source\ProAspNetCore06\02. C# and DotNet\12. AttributeSamples\AttributeSamples.UI\obj\Debug\net6.0\AttributeSamples.UI.dll
+E:\Source\ProAspNetCore06\02. C# and DotNet\12. AttributeSamples\AttributeSamples.UI\obj\Debug\net6.0\ref\AttributeSamples.UI.dll
+E:\Source\ProAspNetCore06\02. C# and DotNet\12. AttributeSamples\AttributeSamples.UI\obj\Debug\net6.0\AttributeSamples.UI.pdb
+E:\Source\ProAspNetCore06\02. C# and DotNet\12. AttributeSamples\AttributeSamples.UI\obj\Debug\net6.0\AttributeSamples.UI.genruntimeconfig.cache

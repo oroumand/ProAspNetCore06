@@ -15,8 +15,16 @@
         }
       },
       "AttributeSample.Domain/1.0.0": {
+        "dependencies": {
+          "AttributeSamples.CustomAttributes": "1.0.0"
+        },
         "runtime": {
           "AttributeSample.Domain.dll": {}
+        }
+      },
+      "AttributeSamples.CustomAttributes/1.0.0": {
+        "runtime": {
+          "AttributeSamples.CustomAttributes.dll": {}
         }
       }
     }
@@ -28,6 +36,11 @@
       "sha512": ""
     },
     "AttributeSample.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AttributeSamples.CustomAttributes/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

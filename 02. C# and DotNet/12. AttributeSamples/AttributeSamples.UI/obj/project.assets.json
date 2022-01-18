@@ -50,11 +50,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Source\\kafka-dotnet-getting-started\\AttributeSamples\\AttributeSamples.UI\\AttributeSamples.UI.csproj",
+      "projectUniqueName": "E:\\Source\\ProAspNetCore06\\02. C# and DotNet\\12. AttributeSamples\\AttributeSamples.UI\\AttributeSamples.UI.csproj",
       "projectName": "AttributeSamples.UI",
-      "projectPath": "E:\\Source\\kafka-dotnet-getting-started\\AttributeSamples\\AttributeSamples.UI\\AttributeSamples.UI.csproj",
+      "projectPath": "E:\\Source\\ProAspNetCore06\\02. C# and DotNet\\12. AttributeSamples\\AttributeSamples.UI\\AttributeSamples.UI.csproj",
       "packagesPath": "C:\\Users\\Alireza\\.nuget\\packages\\",
-      "outputPath": "E:\\Source\\kafka-dotnet-getting-started\\AttributeSamples\\AttributeSamples.UI\\obj\\",
+      "outputPath": "E:\\Source\\ProAspNetCore06\\02. C# and DotNet\\12. AttributeSamples\\AttributeSamples.UI\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Alireza\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -71,8 +71,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "E:\\Source\\kafka-dotnet-getting-started\\AttributeSamples\\AttributeSample.Domain\\AttributeSample.Domain.csproj": {
-              "projectPath": "E:\\Source\\kafka-dotnet-getting-started\\AttributeSamples\\AttributeSample.Domain\\AttributeSample.Domain.csproj"
+            "E:\\Source\\ProAspNetCore06\\02. C# and DotNet\\12. AttributeSamples\\AttributeSample.Domain\\AttributeSample.Domain.csproj": {
+              "projectPath": "E:\\Source\\ProAspNetCore06\\02. C# and DotNet\\12. AttributeSamples\\AttributeSample.Domain\\AttributeSample.Domain.csproj"
             }
           }
         }

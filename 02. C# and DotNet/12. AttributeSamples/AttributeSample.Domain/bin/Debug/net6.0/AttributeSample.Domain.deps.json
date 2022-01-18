@@ -7,14 +7,27 @@
   "targets": {
     ".NETCoreApp,Version=v6.0": {
       "AttributeSample.Domain/1.0.0": {
+        "dependencies": {
+          "AttributeSamples.CustomAttributes": "1.0.0"
+        },
         "runtime": {
           "AttributeSample.Domain.dll": {}
+        }
+      },
+      "AttributeSamples.CustomAttributes/1.0.0": {
+        "runtime": {
+          "AttributeSamples.CustomAttributes.dll": {}
         }
       }
     }
   },
   "libraries": {
     "AttributeSample.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AttributeSamples.CustomAttributes/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "HyFIySd+hNoOxbXfPv18MAT8PiOCiAe1Wb/cO4k1nFLSMJ3Ajw+KEWH+8j/lZuCdCC6AgWAkgNLByNqCSWBgTQ==",
+  "dgSpecHash": "pN5ScsJrWR8rNe+946SAAyakuWPlv+ZC/A0dJ2IcU7R11S4Z+/sXfBELZ82vc3rDA94fOX7wID+jSIQH4QjLoQ==",
   "success": true,
-  "projectFilePath": "E:\\Source\\kafka-dotnet-getting-started\\AttributeSamples\\AttributeSamples.CustomAttributes\\AttributeSamples.CustomAttributes.csproj",
+  "projectFilePath": "E:\\Source\\ProAspNetCore06\\02. C# and DotNet\\12. AttributeSamples\\AttributeSamples.CustomAttributes\\AttributeSamples.CustomAttributes.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

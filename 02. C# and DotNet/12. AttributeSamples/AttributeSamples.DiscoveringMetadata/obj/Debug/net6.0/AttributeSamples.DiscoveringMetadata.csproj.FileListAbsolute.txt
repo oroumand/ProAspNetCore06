@@ -1,0 +1,40 @@
+E:\Source\kafka-dotnet-getting-started\AttributeSamples\AttributeSamples.DiscoveringMetadata\bin\Debug\net6.0\AttributeSamples.DiscoveringMetadata.exe
+E:\Source\kafka-dotnet-getting-started\AttributeSamples\AttributeSamples.DiscoveringMetadata\bin\Debug\net6.0\AttributeSamples.DiscoveringMetadata.deps.json
+E:\Source\kafka-dotnet-getting-started\AttributeSamples\AttributeSamples.DiscoveringMetadata\bin\Debug\net6.0\AttributeSamples.DiscoveringMetadata.runtimeconfig.json
+E:\Source\kafka-dotnet-getting-started\AttributeSamples\AttributeSamples.DiscoveringMetadata\bin\Debug\net6.0\AttributeSamples.DiscoveringMetadata.dll
+E:\Source\kafka-dotnet-getting-started\AttributeSamples\AttributeSamples.DiscoveringMetadata\bin\Debug\net6.0\ref\AttributeSamples.DiscoveringMetadata.dll
+E:\Source\kafka-dotnet-getting-started\AttributeSamples\AttributeSamples.DiscoveringMetadata\bin\Debug\net6.0\AttributeSamples.DiscoveringMetadata.pdb
+E:\Source\kafka-dotnet-getting-started\AttributeSamples\AttributeSamples.DiscoveringMetadata\bin\Debug\net6.0\AttributeSample.Domain.dll
+E:\Source\kafka-dotnet-getting-started\AttributeSamples\AttributeSamples.DiscoveringMetadata\bin\Debug\net6.0\AttributeSamples.CustomAttributes.dll
+E:\Source\kafka-dotnet-getting-started\AttributeSamples\AttributeSamples.DiscoveringMetadata\bin\Debug\net6.0\AttributeSample.Domain.pdb
+E:\Source\kafka-dotnet-getting-started\AttributeSamples\AttributeSamples.DiscoveringMetadata\bin\Debug\net6.0\AttributeSamples.CustomAttributes.pdb
+E:\Source\kafka-dotnet-getting-started\AttributeSamples\AttributeSamples.DiscoveringMetadata\obj\Debug\net6.0\AttributeSamples.DiscoveringMetadata.csproj.AssemblyReference.cache
+E:\Source\kafka-dotnet-getting-started\AttributeSamples\AttributeSamples.DiscoveringMetadata\obj\Debug\net6.0\AttributeSamples.DiscoveringMetadata.GeneratedMSBuildEditorConfig.editorconfig
+E:\Source\kafka-dotnet-getting-started\AttributeSamples\AttributeSamples.DiscoveringMetadata\obj\Debug\net6.0\AttributeSamples.DiscoveringMetadata.AssemblyInfoInputs.cache
+E:\Source\kafka-dotnet-getting-started\AttributeSamples\AttributeSamples.DiscoveringMetadata\obj\Debug\net6.0\AttributeSamples.DiscoveringMetadata.AssemblyInfo.cs
+E:\Source\kafka-dotnet-getting-started\AttributeSamples\AttributeSamples.DiscoveringMetadata\obj\Debug\net6.0\AttributeSamples.DiscoveringMetadata.csproj.CoreCompileInputs.cache
+E:\Source\kafka-dotnet-getting-started\AttributeSamples\AttributeSamples.DiscoveringMetadata\obj\Debug\net6.0\AttributeSamples.DiscoveringMetadata.csproj.CopyComplete
+E:\Source\kafka-dotnet-getting-started\AttributeSamples\AttributeSamples.DiscoveringMetadata\obj\Debug\net6.0\AttributeSamples.DiscoveringMetadata.dll
+E:\Source\kafka-dotnet-getting-started\AttributeSamples\AttributeSamples.DiscoveringMetadata\obj\Debug\net6.0\ref\AttributeSamples.DiscoveringMetadata.dll
+E:\Source\kafka-dotnet-getting-started\AttributeSamples\AttributeSamples.DiscoveringMetadata\obj\Debug\net6.0\AttributeSamples.DiscoveringMetadata.pdb
+E:\Source\kafka-dotnet-getting-started\AttributeSamples\AttributeSamples.DiscoveringMetadata\obj\Debug\net6.0\AttributeSamples.DiscoveringMetadata.genruntimeconfig.cache
+E:\Source\ProAspNetCore06\02. C# and DotNet\12. AttributeSamples\AttributeSamples.DiscoveringMetadata\bin\Debug\net6.0\AttributeSamples.DiscoveringMetadata.exe
+E:\Source\ProAspNetCore06\02. C# and DotNet\12. AttributeSamples\AttributeSamples.DiscoveringMetadata\bin\Debug\net6.0\AttributeSamples.DiscoveringMetadata.deps.json
+E:\Source\ProAspNetCore06\02. C# and DotNet\12. AttributeSamples\AttributeSamples.DiscoveringMetadata\bin\Debug\net6.0\AttributeSamples.DiscoveringMetadata.runtimeconfig.json
+E:\Source\ProAspNetCore06\02. C# and DotNet\12. AttributeSamples\AttributeSamples.DiscoveringMetadata\bin\Debug\net6.0\AttributeSamples.DiscoveringMetadata.dll
+E:\Source\ProAspNetCore06\02. C# and DotNet\12. AttributeSamples\AttributeSamples.DiscoveringMetadata\bin\Debug\net6.0\ref\AttributeSamples.DiscoveringMetadata.dll
+E:\Source\ProAspNetCore06\02. C# and DotNet\12. AttributeSamples\AttributeSamples.DiscoveringMetadata\bin\Debug\net6.0\AttributeSamples.DiscoveringMetadata.pdb
+E:\Source\ProAspNetCore06\02. C# and DotNet\12. AttributeSamples\AttributeSamples.DiscoveringMetadata\bin\Debug\net6.0\AttributeSample.Domain.dll
+E:\Source\ProAspNetCore06\02. C# and DotNet\12. AttributeSamples\AttributeSamples.DiscoveringMetadata\bin\Debug\net6.0\AttributeSamples.CustomAttributes.dll
+E:\Source\ProAspNetCore06\02. C# and DotNet\12. AttributeSamples\AttributeSamples.DiscoveringMetadata\bin\Debug\net6.0\AttributeSample.Domain.pdb
+E:\Source\ProAspNetCore06\02. C# and DotNet\12. AttributeSamples\AttributeSamples.DiscoveringMetadata\bin\Debug\net6.0\AttributeSamples.CustomAttributes.pdb
+E:\Source\ProAspNetCore06\02. C# and DotNet\12. AttributeSamples\AttributeSamples.DiscoveringMetadata\obj\Debug\net6.0\AttributeSamples.DiscoveringMetadata.csproj.AssemblyReference.cache
+E:\Source\ProAspNetCore06\02. C# and DotNet\12. AttributeSamples\AttributeSamples.DiscoveringMetadata\obj\Debug\net6.0\AttributeSamples.DiscoveringMetadata.GeneratedMSBuildEditorConfig.editorconfig
+E:\Source\ProAspNetCore06\02. C# and DotNet\12. AttributeSamples\AttributeSamples.DiscoveringMetadata\obj\Debug\net6.0\AttributeSamples.DiscoveringMetadata.AssemblyInfoInputs.cache
+E:\Source\ProAspNetCore06\02. C# and DotNet\12. AttributeSamples\AttributeSamples.DiscoveringMetadata\obj\Debug\net6.0\AttributeSamples.DiscoveringMetadata.AssemblyInfo.cs
+E:\Source\ProAspNetCore06\02. C# and DotNet\12. AttributeSamples\AttributeSamples.DiscoveringMetadata\obj\Debug\net6.0\AttributeSamples.DiscoveringMetadata.csproj.CoreCompileInputs.cache
+E:\Source\ProAspNetCore06\02. C# and DotNet\12. AttributeSamples\AttributeSamples.DiscoveringMetadata\obj\Debug\net6.0\AttributeSamples.DiscoveringMetadata.csproj.CopyComplete
+E:\Source\ProAspNetCore06\02. C# and DotNet\12. AttributeSamples\AttributeSamples.DiscoveringMetadata\obj\Debug\net6.0\AttributeSamples.DiscoveringMetadata.dll
+E:\Source\ProAspNetCore06\02. C# and DotNet\12. AttributeSamples\AttributeSamples.DiscoveringMetadata\obj\Debug\net6.0\ref\AttributeSamples.DiscoveringMetadata.dll
+E:\Source\ProAspNetCore06\02. C# and DotNet\12. AttributeSamples\AttributeSamples.DiscoveringMetadata\obj\Debug\net6.0\AttributeSamples.DiscoveringMetadata.pdb
+E:\Source\ProAspNetCore06\02. C# and DotNet\12. AttributeSamples\AttributeSamples.DiscoveringMetadata\obj\Debug\net6.0\AttributeSamples.DiscoveringMetadata.genruntimeconfig.cache

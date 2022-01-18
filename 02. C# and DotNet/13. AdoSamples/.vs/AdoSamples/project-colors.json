@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "ce8d61ab-487f-4e22-b98d-08574972e2ac": {
+      "ProjectGuid": "ce8d61ab-487f-4e22-b98d-08574972e2ac",
+      "DisplayName": "AdoSamples.ConsoleUI",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 1
+}

@@ -12,12 +12,22 @@ public class Person
 {
     [DebuggerBrowsable(DebuggerBrowsableState.Collapsed)]
     [Required]
-    public string FirstName { get; set; }
+    public string FirstName { get; set; } = "Alrieza";
     [StringLength(100)]
     [CodeChangeHistory("Alireza Oroumand", isBug: false, Description = "Use Attribute in code for property")]
-    public string LastName { get; set; }
+    public string LastName { get; set; } = "Oroumand";
 
     public int Age { get; set; }
     [NonSerialized]
     private int _age;   
+
+    public void Print()
+    {
+        Console.WriteLine($"{FirstName} {LastName}");
+    }
+
+    public void InputPrinter(string myinput)
+    {
+        Console.WriteLine(myinput);
+    }
 }

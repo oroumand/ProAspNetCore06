@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "AF/+aWEX1gvX6c8oGKUidKECCSnz5jKSY6AvZNov3pGFtIH2ShC/0TWVNnmfKhK/uoHEDmHARUGx1H0Y3wec2A==",
+  "dgSpecHash": "Tu4Q5TVaQGFjSwHc8HZmFvEtID/RTnYSyZMvui5R5gUCY79UQmp+KgGK2hZRQS+uU7WV1Pxk8ocMv0lVmk1arQ==",
   "success": true,
-  "projectFilePath": "E:\\Source\\kafka-dotnet-getting-started\\AttributeSamples\\AttributeSamples.Core.Domain.Test\\AttributeSamples.Core.Domain.Test.csproj",
+  "projectFilePath": "E:\\Source\\ProAspNetCore06\\02. C# and DotNet\\12. AttributeSamples\\AttributeSamples.Core.Domain.Test\\AttributeSamples.Core.Domain.Test.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Alireza\\.nuget\\packages\\coverlet.collector\\3.1.0\\coverlet.collector.3.1.0.nupkg.sha512",
     "C:\\Users\\Alireza\\.nuget\\packages\\microsoft.codecoverage\\16.11.0\\microsoft.codecoverage.16.11.0.nupkg.sha512",
