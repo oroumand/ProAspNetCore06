@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "7727e32d-b63c-49e9-93c1-e11889800ed7": {
+      "ProjectGuid": "7727e32d-b63c-49e9-93c1-e11889800ed7",
+      "DisplayName": "ConcurrencyAndAsynchron.ThreadSample",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

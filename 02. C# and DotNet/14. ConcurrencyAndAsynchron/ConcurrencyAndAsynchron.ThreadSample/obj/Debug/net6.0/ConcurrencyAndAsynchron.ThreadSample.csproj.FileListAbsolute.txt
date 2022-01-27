@@ -1,0 +1,15 @@
+E:\Source\ConcurrencyAndAsynchron\ConcurrencyAndAsynchron.ThreadSample\bin\Debug\net6.0\ConcurrencyAndAsynchron.ThreadSample.exe
+E:\Source\ConcurrencyAndAsynchron\ConcurrencyAndAsynchron.ThreadSample\bin\Debug\net6.0\ConcurrencyAndAsynchron.ThreadSample.deps.json
+E:\Source\ConcurrencyAndAsynchron\ConcurrencyAndAsynchron.ThreadSample\bin\Debug\net6.0\ConcurrencyAndAsynchron.ThreadSample.runtimeconfig.json
+E:\Source\ConcurrencyAndAsynchron\ConcurrencyAndAsynchron.ThreadSample\bin\Debug\net6.0\ConcurrencyAndAsynchron.ThreadSample.dll
+E:\Source\ConcurrencyAndAsynchron\ConcurrencyAndAsynchron.ThreadSample\bin\Debug\net6.0\ref\ConcurrencyAndAsynchron.ThreadSample.dll
+E:\Source\ConcurrencyAndAsynchron\ConcurrencyAndAsynchron.ThreadSample\bin\Debug\net6.0\ConcurrencyAndAsynchron.ThreadSample.pdb
+E:\Source\ConcurrencyAndAsynchron\ConcurrencyAndAsynchron.ThreadSample\obj\Debug\net6.0\ConcurrencyAndAsynchron.ThreadSample.csproj.AssemblyReference.cache
+E:\Source\ConcurrencyAndAsynchron\ConcurrencyAndAsynchron.ThreadSample\obj\Debug\net6.0\ConcurrencyAndAsynchron.ThreadSample.GeneratedMSBuildEditorConfig.editorconfig
+E:\Source\ConcurrencyAndAsynchron\ConcurrencyAndAsynchron.ThreadSample\obj\Debug\net6.0\ConcurrencyAndAsynchron.ThreadSample.AssemblyInfoInputs.cache
+E:\Source\ConcurrencyAndAsynchron\ConcurrencyAndAsynchron.ThreadSample\obj\Debug\net6.0\ConcurrencyAndAsynchron.ThreadSample.AssemblyInfo.cs
+E:\Source\ConcurrencyAndAsynchron\ConcurrencyAndAsynchron.ThreadSample\obj\Debug\net6.0\ConcurrencyAndAsynchron.ThreadSample.csproj.CoreCompileInputs.cache
+E:\Source\ConcurrencyAndAsynchron\ConcurrencyAndAsynchron.ThreadSample\obj\Debug\net6.0\ConcurrencyAndAsynchron.ThreadSample.dll
+E:\Source\ConcurrencyAndAsynchron\ConcurrencyAndAsynchron.ThreadSample\obj\Debug\net6.0\ref\ConcurrencyAndAsynchron.ThreadSample.dll
+E:\Source\ConcurrencyAndAsynchron\ConcurrencyAndAsynchron.ThreadSample\obj\Debug\net6.0\ConcurrencyAndAsynchron.ThreadSample.pdb
+E:\Source\ConcurrencyAndAsynchron\ConcurrencyAndAsynchron.ThreadSample\obj\Debug\net6.0\ConcurrencyAndAsynchron.ThreadSample.genruntimeconfig.cache
