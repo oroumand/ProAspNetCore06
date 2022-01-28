@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "GG8RPev37c4ixKAKfwt8aN1J7OloWyRgaOL7Frl17Q6ngZw/9NEEysAPKcS/mX1BX5Wv+kK2by1YVC46fwYaPA==",
+  "dgSpecHash": "z5LUvmxyRPt8AFE4uP+Fx1vKBeQcfsvhSIlifdTT4yf8rDJR0jvwuOnGvPyd9Urpbnyvj5n7mOnzmRsaxsz1Rw==",
   "success": true,
-  "projectFilePath": "E:\\Source\\ConcurrencyAndAsynchron\\ConcurrencyAndAsynchron.ThreadSample\\ConcurrencyAndAsynchron.ThreadSample.csproj",
+  "projectFilePath": "E:\\Source\\ProAspNetCore06\\02. C# and DotNet\\14. ConcurrencyAndAsynchron\\ConcurrencyAndAsynchron.ThreadSample\\ConcurrencyAndAsynchron.ThreadSample.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

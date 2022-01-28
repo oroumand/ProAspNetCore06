@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Source\\ProAspNetCore06\\02. C# and DotNet\\14. ConcurrencyAndAsynchron\\ConcurrencyAndAsynchron.ThreadSample\\ConcurrencyAndAsynchron.ThreadSample.csproj": {}
+    "E:\\Source\\ProAspNetCore06\\02. C# and DotNet\\14. ConcurrencyAndAsynchron\\ConcurrencyAndAsynchron.TasksSamples\\ConcurrencyAndAsynchron.TasksSamples.csproj": {}
   },
   "projects": {
-    "E:\\Source\\ProAspNetCore06\\02. C# and DotNet\\14. ConcurrencyAndAsynchron\\ConcurrencyAndAsynchron.ThreadSample\\ConcurrencyAndAsynchron.ThreadSample.csproj": {
+    "E:\\Source\\ProAspNetCore06\\02. C# and DotNet\\14. ConcurrencyAndAsynchron\\ConcurrencyAndAsynchron.TasksSamples\\ConcurrencyAndAsynchron.TasksSamples.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Source\\ProAspNetCore06\\02. C# and DotNet\\14. ConcurrencyAndAsynchron\\ConcurrencyAndAsynchron.ThreadSample\\ConcurrencyAndAsynchron.ThreadSample.csproj",
-        "projectName": "ConcurrencyAndAsynchron.ThreadSample",
-        "projectPath": "E:\\Source\\ProAspNetCore06\\02. C# and DotNet\\14. ConcurrencyAndAsynchron\\ConcurrencyAndAsynchron.ThreadSample\\ConcurrencyAndAsynchron.ThreadSample.csproj",
+        "projectUniqueName": "E:\\Source\\ProAspNetCore06\\02. C# and DotNet\\14. ConcurrencyAndAsynchron\\ConcurrencyAndAsynchron.TasksSamples\\ConcurrencyAndAsynchron.TasksSamples.csproj",
+        "projectName": "ConcurrencyAndAsynchron.TasksSamples",
+        "projectPath": "E:\\Source\\ProAspNetCore06\\02. C# and DotNet\\14. ConcurrencyAndAsynchron\\ConcurrencyAndAsynchron.TasksSamples\\ConcurrencyAndAsynchron.TasksSamples.csproj",
         "packagesPath": "C:\\Users\\Alireza\\.nuget\\packages\\",
-        "outputPath": "E:\\Source\\ProAspNetCore06\\02. C# and DotNet\\14. ConcurrencyAndAsynchron\\ConcurrencyAndAsynchron.ThreadSample\\obj\\",
+        "outputPath": "E:\\Source\\ProAspNetCore06\\02. C# and DotNet\\14. ConcurrencyAndAsynchron\\ConcurrencyAndAsynchron.TasksSamples\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Alireza\\AppData\\Roaming\\NuGet\\NuGet.Config",
