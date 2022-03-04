@@ -1,6 +1,8 @@
 ﻿using Microsoft.EntityFrameworkCore;
+using Microsoft.EntityFrameworkCore.Diagnostics;
 using System;
 using System.Collections.Generic;
+using System.Data.Common;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -152,4 +154,25 @@ public class SampleSources
         myDbContext.People.Add(person2);
         myDbContext.SaveChanges();
     }
+
+    public void ExecuteTagedQuery()
+    {
+        var people = myDbContext.People.TagWith("My Tag").ToList();
+        foreach (var person in people)
+        {
+            Console.WriteLine($"{person.Id}\t {person.FirstName}\t{person.LastName}");
+        }
+    }
+
+    public void AddStudnet(string name)
+    {
+        var student = new Student
+        {
+            Name = name
+        };
+
+        myDbContext.Students.Add(student);
+        myDbContext.SaveChanges();
+    }
 }
+
