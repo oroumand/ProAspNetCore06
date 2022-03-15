@@ -1,10 +1,6 @@
-﻿
+﻿using EfAdvancedConfigSample.TemporalTables;
 
-using EfAdvancedConfigSample.RowVersion;
-
-var context = new RowVersionContext();
-
-var person = context.Person.Find(1);
-person.FirstName = "MyNewName";
-
-context.SaveChanges();
+PersonTemporalContext Context = new PersonTemporalContext();
+PersonTemporalRepository repository = new(Context);
+repository.PrintAllWithHistory();
+Console.ReadLine();

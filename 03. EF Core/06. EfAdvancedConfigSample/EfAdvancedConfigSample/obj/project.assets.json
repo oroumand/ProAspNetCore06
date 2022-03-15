@@ -1864,11 +1864,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Source\\EfAdvancedConfigSample\\EfAdvancedConfigSample\\EfAdvancedConfigSample.csproj",
+      "projectUniqueName": "F:\\Source\\PepDotNet6\\EFCore\\Session08\\EfAdvancedConfigSample\\EfAdvancedConfigSample\\EfAdvancedConfigSample.csproj",
       "projectName": "EfAdvancedConfigSample",
-      "projectPath": "E:\\Source\\EfAdvancedConfigSample\\EfAdvancedConfigSample\\EfAdvancedConfigSample.csproj",
+      "projectPath": "F:\\Source\\PepDotNet6\\EFCore\\Session08\\EfAdvancedConfigSample\\EfAdvancedConfigSample\\EfAdvancedConfigSample.csproj",
       "packagesPath": "C:\\Users\\Alireza\\.nuget\\packages\\",
-      "outputPath": "E:\\Source\\EfAdvancedConfigSample\\EfAdvancedConfigSample\\obj\\",
+      "outputPath": "F:\\Source\\PepDotNet6\\EFCore\\Session08\\EfAdvancedConfigSample\\EfAdvancedConfigSample\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Alireza\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -1923,7 +1923,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
       }
     }
   }
