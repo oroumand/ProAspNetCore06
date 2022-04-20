@@ -7,4 +7,4 @@ build_property.InvariantGlobalization =
 build_property.PlatformNeutralAssembly = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = EfAdvancedConfigSample
-build_property.ProjectDir = F:\Source\PepDotNet6\EFCore\Session08\EfAdvancedConfigSample\EfAdvancedConfigSample\
+build_property.ProjectDir = F:\Source\ProAspNetCore06\03. EF Core\06. EfAdvancedConfigSample\EfAdvancedConfigSample\

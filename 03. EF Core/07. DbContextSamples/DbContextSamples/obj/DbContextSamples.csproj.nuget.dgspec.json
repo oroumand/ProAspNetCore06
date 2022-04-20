@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Alireza\\source\\repos\\DbContextSamples\\DbContextSamples\\DbContextSamples.csproj": {}
+    "F:\\Source\\ProAspNetCore06\\03. EF Core\\07. DbContextSamples\\DbContextSamples\\DbContextSamples.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Alireza\\source\\repos\\DbContextSamples\\DbContextSamples\\DbContextSamples.csproj": {
+    "F:\\Source\\ProAspNetCore06\\03. EF Core\\07. DbContextSamples\\DbContextSamples\\DbContextSamples.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Alireza\\source\\repos\\DbContextSamples\\DbContextSamples\\DbContextSamples.csproj",
+        "projectUniqueName": "F:\\Source\\ProAspNetCore06\\03. EF Core\\07. DbContextSamples\\DbContextSamples\\DbContextSamples.csproj",
         "projectName": "DbContextSamples",
-        "projectPath": "C:\\Users\\Alireza\\source\\repos\\DbContextSamples\\DbContextSamples\\DbContextSamples.csproj",
+        "projectPath": "F:\\Source\\ProAspNetCore06\\03. EF Core\\07. DbContextSamples\\DbContextSamples\\DbContextSamples.csproj",
         "packagesPath": "C:\\Users\\Alireza\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Alireza\\source\\repos\\DbContextSamples\\DbContextSamples\\obj\\",
+        "outputPath": "F:\\Source\\ProAspNetCore06\\03. EF Core\\07. DbContextSamples\\DbContextSamples\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Alireza\\AppData\\Roaming\\NuGet\\NuGet.Config",

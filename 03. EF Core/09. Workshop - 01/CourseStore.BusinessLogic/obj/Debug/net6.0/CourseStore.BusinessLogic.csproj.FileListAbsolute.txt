@@ -1,0 +1,15 @@
+F:\Source\Samples\CourseStore\CourseStore.BusinessLogic\bin\Debug\net6.0\CourseStore.BusinessLogic.deps.json
+F:\Source\Samples\CourseStore\CourseStore.BusinessLogic\bin\Debug\net6.0\CourseStore.BusinessLogic.dll
+F:\Source\Samples\CourseStore\CourseStore.BusinessLogic\bin\Debug\net6.0\CourseStore.BusinessLogic.pdb
+F:\Source\Samples\CourseStore\CourseStore.BusinessLogic\bin\Debug\net6.0\CourseStore.DAL.dll
+F:\Source\Samples\CourseStore\CourseStore.BusinessLogic\bin\Debug\net6.0\CourseStore.DAL.pdb
+F:\Source\Samples\CourseStore\CourseStore.BusinessLogic\obj\Debug\net6.0\CourseStore.BusinessLogic.csproj.AssemblyReference.cache
+F:\Source\Samples\CourseStore\CourseStore.BusinessLogic\obj\Debug\net6.0\CourseStore.BusinessLogic.GeneratedMSBuildEditorConfig.editorconfig
+F:\Source\Samples\CourseStore\CourseStore.BusinessLogic\obj\Debug\net6.0\CourseStore.BusinessLogic.AssemblyInfoInputs.cache
+F:\Source\Samples\CourseStore\CourseStore.BusinessLogic\obj\Debug\net6.0\CourseStore.BusinessLogic.AssemblyInfo.cs
+F:\Source\Samples\CourseStore\CourseStore.BusinessLogic\obj\Debug\net6.0\CourseStore.BusinessLogic.csproj.CoreCompileInputs.cache
+F:\Source\Samples\CourseStore\CourseStore.BusinessLogic\obj\Debug\net6.0\CourseStore.BusinessLogic.csproj.CopyComplete
+F:\Source\Samples\CourseStore\CourseStore.BusinessLogic\obj\Debug\net6.0\CourseStore.BusinessLogic.dll
+F:\Source\Samples\CourseStore\CourseStore.BusinessLogic\obj\Debug\net6.0\refint\CourseStore.BusinessLogic.dll
+F:\Source\Samples\CourseStore\CourseStore.BusinessLogic\obj\Debug\net6.0\CourseStore.BusinessLogic.pdb
+F:\Source\Samples\CourseStore\CourseStore.BusinessLogic\obj\Debug\net6.0\ref\CourseStore.BusinessLogic.dll

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "cReOgFaFCEdpFiKENM6NL6b6K+6MLRPIg+rc3mEjseJ6o6qksT4NyxBiYvanOlGLEr3hMI+/b34f4546xLGNCQ==",
+  "dgSpecHash": "6+I8YdKmxnQhytjyqSAk21T1FNwXl26GC9InRhZ1wX9B/4682jq+NqH4TlgWzuIb/rYQvH51Z2+kARjrO+rCJA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Alireza\\source\\repos\\DbContextSamples\\DbContextSamples\\DbContextSamples.csproj",
+  "projectFilePath": "F:\\Source\\ProAspNetCore06\\03. EF Core\\07. DbContextSamples\\DbContextSamples\\DbContextSamples.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Alireza\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Alireza\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",

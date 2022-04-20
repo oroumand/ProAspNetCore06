@@ -1,0 +1,14 @@
+F:\Source\Samples\CourseStore\CourseStore.DAL\bin\Debug\net6.0\CourseStore.DAL.deps.json
+F:\Source\Samples\CourseStore\CourseStore.DAL\bin\Debug\net6.0\CourseStore.DAL.dll
+F:\Source\Samples\CourseStore\CourseStore.DAL\bin\Debug\net6.0\CourseStore.DAL.pdb
+F:\Source\Samples\CourseStore\CourseStore.DAL\obj\Debug\net6.0\CourseStore.DAL.csproj.AssemblyReference.cache
+F:\Source\Samples\CourseStore\CourseStore.DAL\obj\Debug\net6.0\CourseStore.DAL.GeneratedMSBuildEditorConfig.editorconfig
+F:\Source\Samples\CourseStore\CourseStore.DAL\obj\Debug\net6.0\CourseStore.DAL.AssemblyInfoInputs.cache
+F:\Source\Samples\CourseStore\CourseStore.DAL\obj\Debug\net6.0\CourseStore.DAL.AssemblyInfo.cs
+F:\Source\Samples\CourseStore\CourseStore.DAL\obj\Debug\net6.0\CourseStore.DAL.csproj.CoreCompileInputs.cache
+F:\Source\Samples\CourseStore\CourseStore.DAL\obj\Debug\net6.0\CourseStore.DAL.dll
+F:\Source\Samples\CourseStore\CourseStore.DAL\obj\Debug\net6.0\refint\CourseStore.DAL.dll
+F:\Source\Samples\CourseStore\CourseStore.DAL\obj\Debug\net6.0\CourseStore.DAL.pdb
+F:\Source\Samples\CourseStore\CourseStore.DAL\obj\Debug\net6.0\ref\CourseStore.DAL.dll
+F:\Source\Samples\CourseStore\CourseStore.DAL\bin\Debug\net6.0\CourseStore.DAL.runtimeconfig.json
+F:\Source\Samples\CourseStore\CourseStore.DAL\obj\Debug\net6.0\CourseStore.DAL.genruntimeconfig.cache
