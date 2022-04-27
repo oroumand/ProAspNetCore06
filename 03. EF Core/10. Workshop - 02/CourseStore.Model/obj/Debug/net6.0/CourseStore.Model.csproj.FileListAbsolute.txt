@@ -1,0 +1,12 @@
+F:\Source\Samples\CourseStore\CourseStore.Model\obj\Debug\net6.0\CourseStore.Model.csproj.AssemblyReference.cache
+F:\Source\Samples\CourseStore\CourseStore.Model\obj\Debug\net6.0\CourseStore.Model.GeneratedMSBuildEditorConfig.editorconfig
+F:\Source\Samples\CourseStore\CourseStore.Model\obj\Debug\net6.0\CourseStore.Model.AssemblyInfoInputs.cache
+F:\Source\Samples\CourseStore\CourseStore.Model\obj\Debug\net6.0\CourseStore.Model.AssemblyInfo.cs
+F:\Source\Samples\CourseStore\CourseStore.Model\obj\Debug\net6.0\CourseStore.Model.csproj.CoreCompileInputs.cache
+F:\Source\Samples\CourseStore\CourseStore.Model\bin\Debug\net6.0\CourseStore.Model.deps.json
+F:\Source\Samples\CourseStore\CourseStore.Model\bin\Debug\net6.0\CourseStore.Model.dll
+F:\Source\Samples\CourseStore\CourseStore.Model\bin\Debug\net6.0\CourseStore.Model.pdb
+F:\Source\Samples\CourseStore\CourseStore.Model\obj\Debug\net6.0\CourseStore.Model.dll
+F:\Source\Samples\CourseStore\CourseStore.Model\obj\Debug\net6.0\refint\CourseStore.Model.dll
+F:\Source\Samples\CourseStore\CourseStore.Model\obj\Debug\net6.0\CourseStore.Model.pdb
+F:\Source\Samples\CourseStore\CourseStore.Model\obj\Debug\net6.0\ref\CourseStore.Model.dll

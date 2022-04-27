@@ -1,0 +1,17 @@
+F:\Source\Samples\CourseStore\CourseStore.BLL\bin\Debug\net6.0\CourseStore.BLL.deps.json
+F:\Source\Samples\CourseStore\CourseStore.BLL\bin\Debug\net6.0\CourseStore.BLL.dll
+F:\Source\Samples\CourseStore\CourseStore.BLL\bin\Debug\net6.0\CourseStore.BLL.pdb
+F:\Source\Samples\CourseStore\CourseStore.BLL\bin\Debug\net6.0\CourseStore.DAL.dll
+F:\Source\Samples\CourseStore\CourseStore.BLL\bin\Debug\net6.0\CourseStore.Model.dll
+F:\Source\Samples\CourseStore\CourseStore.BLL\bin\Debug\net6.0\CourseStore.DAL.pdb
+F:\Source\Samples\CourseStore\CourseStore.BLL\bin\Debug\net6.0\CourseStore.Model.pdb
+F:\Source\Samples\CourseStore\CourseStore.BLL\obj\Debug\net6.0\CourseStore.BLL.csproj.AssemblyReference.cache
+F:\Source\Samples\CourseStore\CourseStore.BLL\obj\Debug\net6.0\CourseStore.BLL.GeneratedMSBuildEditorConfig.editorconfig
+F:\Source\Samples\CourseStore\CourseStore.BLL\obj\Debug\net6.0\CourseStore.BLL.AssemblyInfoInputs.cache
+F:\Source\Samples\CourseStore\CourseStore.BLL\obj\Debug\net6.0\CourseStore.BLL.AssemblyInfo.cs
+F:\Source\Samples\CourseStore\CourseStore.BLL\obj\Debug\net6.0\CourseStore.BLL.csproj.CoreCompileInputs.cache
+F:\Source\Samples\CourseStore\CourseStore.BLL\obj\Debug\net6.0\CourseStore.BLL.csproj.CopyComplete
+F:\Source\Samples\CourseStore\CourseStore.BLL\obj\Debug\net6.0\CourseStore.BLL.dll
+F:\Source\Samples\CourseStore\CourseStore.BLL\obj\Debug\net6.0\refint\CourseStore.BLL.dll
+F:\Source\Samples\CourseStore\CourseStore.BLL\obj\Debug\net6.0\CourseStore.BLL.pdb
+F:\Source\Samples\CourseStore\CourseStore.BLL\obj\Debug\net6.0\ref\CourseStore.BLL.dll

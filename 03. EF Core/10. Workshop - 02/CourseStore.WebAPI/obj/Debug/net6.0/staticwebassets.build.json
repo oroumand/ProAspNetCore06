@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "5mzzflMLU8njgfx/JUeFKiOwTDcB/EZQwQ64m64L4dE=",
+  "Source": "CourseStore.WebAPI",
+  "BasePath": "_content/CourseStore.WebAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

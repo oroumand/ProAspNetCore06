@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "qNsRLIbHgDByrm5SYxTE0ScYEzOF75DUYIpQyTBDbDjRgx+q6DzVnKeOTPd2hQeWgI40yUK14HYiwuqH+AY22w==",
+  "success": true,
+  "projectFilePath": "F:\\Source\\Samples\\CourseStore\\CourseStore.Model\\CourseStore.Model.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Alireza\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
