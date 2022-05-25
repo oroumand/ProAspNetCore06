@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "s9L8ZckzfLaebJ1vBofjzhu1e2hBqD6uQb+TLpsyw0YMhjrPDUUPNbDJCeAjhADTTGPyIOEJ8VyDGv31FLUYJw==",
+  "success": true,
+  "projectFilePath": "F:\\Source\\Samples\\StateManagement\\StateManagement.Session\\StateManagement.Session.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Alireza\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

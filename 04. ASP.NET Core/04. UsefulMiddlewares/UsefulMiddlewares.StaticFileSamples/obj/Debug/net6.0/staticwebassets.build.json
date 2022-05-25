@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "X0alm7UxQUC9/R4+cUlkfKetcvOWgMJAfhSorQkpnDY=",
+  "Source": "UsefulMiddlewares.StaticFileSamples",
+  "BasePath": "_content/UsefulMiddlewares.StaticFileSamples",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "UsefulMiddlewares.StaticFileSamples\\wwwroot",
+      "Source": "UsefulMiddlewares.StaticFileSamples",
+      "ContentRoot": "F:\\Source\\Samples\\UsefulMiddlewares\\UsefulMiddlewares.StaticFileSamples\\wwwroot\\",
+      "BasePath": "_content/UsefulMiddlewares.StaticFileSamples",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "F:\\Source\\Samples\\UsefulMiddlewares\\UsefulMiddlewares.StaticFileSamples\\wwwroot\\home.html",
+      "SourceId": "UsefulMiddlewares.StaticFileSamples",
+      "SourceType": "Discovered",
+      "ContentRoot": "F:\\Source\\Samples\\UsefulMiddlewares\\UsefulMiddlewares.StaticFileSamples\\wwwroot\\",
+      "BasePath": "_content/UsefulMiddlewares.StaticFileSamples",
+      "RelativePath": "home.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\home.html"
+    }
+  ]
+}

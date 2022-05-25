@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "6AFZHbi+Od6VEpE/Bu99J/kQVhc46J5pm+4XzbjPhYg=",
+  "Source": "UsefulMiddlewares.ExeptionSamples",
+  "BasePath": "_content/UsefulMiddlewares.ExeptionSamples",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "UsefulMiddlewares.ExeptionSamples\\wwwroot",
+      "Source": "UsefulMiddlewares.ExeptionSamples",
+      "ContentRoot": "F:\\Source\\Samples\\UsefulMiddlewares\\UsefulMiddlewares.ExeptionSamples\\wwwroot\\",
+      "BasePath": "_content/UsefulMiddlewares.ExeptionSamples",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "F:\\Source\\Samples\\UsefulMiddlewares\\UsefulMiddlewares.ExeptionSamples\\wwwroot\\exh.html",
+      "SourceId": "UsefulMiddlewares.ExeptionSamples",
+      "SourceType": "Discovered",
+      "ContentRoot": "F:\\Source\\Samples\\UsefulMiddlewares\\UsefulMiddlewares.ExeptionSamples\\wwwroot\\",
+      "BasePath": "_content/UsefulMiddlewares.ExeptionSamples",
+      "RelativePath": "exh.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\exh.html"
+    }
+  ]
+}
