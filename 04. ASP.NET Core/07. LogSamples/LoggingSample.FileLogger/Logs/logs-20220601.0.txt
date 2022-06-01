@@ -1,0 +1,12 @@
+2022-06-01 18:27:20.910 +04:30 [Information] Microsoft.Hosting.Lifetime: Now listening on: https://localhost:7241
+2022-06-01 18:27:20.923 +04:30 [Information] Microsoft.Hosting.Lifetime: Now listening on: http://localhost:5241
+2022-06-01 18:27:20.934 +04:30 [Information] Microsoft.Hosting.Lifetime: Application started. Press Ctrl+C to shut down.
+2022-06-01 18:27:20.938 +04:30 [Information] Microsoft.Hosting.Lifetime: Hosting environment: Development
+2022-06-01 18:27:20.940 +04:30 [Information] Microsoft.Hosting.Lifetime: Content root path: F:\Source\Samples\LogSamples\LoggingSample.FileLogger\
+2022-06-01 18:27:26.396 +04:30 [Information] Microsoft.Hosting.Lifetime: Now listening on: https://localhost:7241
+2022-06-01 18:27:26.406 +04:30 [Information] Microsoft.Hosting.Lifetime: Now listening on: http://localhost:5241
+2022-06-01 18:27:26.409 +04:30 [Information] Microsoft.Hosting.Lifetime: Application started. Press Ctrl+C to shut down.
+2022-06-01 18:27:26.411 +04:30 [Information] Microsoft.Hosting.Lifetime: Hosting environment: Development
+2022-06-01 18:27:26.414 +04:30 [Information] Microsoft.Hosting.Lifetime: Content root path: F:\Source\Samples\LogSamples\LoggingSample.FileLogger\
+2022-06-01 18:27:34.013 +04:30 [Information] LogSamples.Controllers.ProductsController: Request for product with id:12 responsed
+2022-06-01 18:27:34.016 +04:30 [Information] ProductComponents: Request for product with id:12 responsed

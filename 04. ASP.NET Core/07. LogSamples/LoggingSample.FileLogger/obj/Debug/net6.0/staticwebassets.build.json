@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "PhcLvw6Mrk468sHr7ScskBJN1k8WIfZFq5XQ66SDo6k=",
+  "Source": "LoggingSample.FileLogger",
+  "BasePath": "_content/LoggingSample.FileLogger",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
