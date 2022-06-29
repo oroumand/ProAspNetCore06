@@ -1,0 +1,6 @@
+obj\Debug\net6.0\Protos/Greet.cs \
+obj\Debug\net6.0\Protos/GreetGrpc.cs: Protos/keywordmessages.proto\
+ C:/Users/Alireza/.nuget/packages/grpc.tools/2.40.0/build/native/include/google/protobuf/any.proto\
+ C:/Users/Alireza/.nuget/packages/grpc.tools/2.40.0/build/native/include/google/protobuf/wrappers.proto\
+ C:/Users/Alireza/.nuget/packages/grpc.tools/2.40.0/build/native/include/google/protobuf/Empty.proto\
+ Protos/greet.proto
