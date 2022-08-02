@@ -1,0 +1,29 @@
+﻿@page
+@model ViewComponentSamples.Pages.IndexModel
+@{
+}
+
+<h1>
+    Hello from Razor Page
+</h1>
+@await Component.InvokeAsync("FirstPoco")
+<hr />
+<h4 style="color:red">Poco</h4>
+@await Component.InvokeAsync("FirstPoco")
+<hr />
+<vc:first-poco></vc:first-poco>
+
+<hr />
+<h1></h1>
+<h4 style="color:red">Base Class</h4>
+
+@await Component.InvokeAsync("FirstBase")
+<hr />
+<vc:first-base></vc:first-base>
+
+<h1>News List</h1>
+<vc:news-list view-name="MyNews"></vc:news-list>
+<hr />
+@await Component.InvokeAsync("NewsList",new {viewName="Default"})
+<hr />
+<vc:product-summary></vc:product-summary>

@@ -1,0 +1,21 @@
+﻿@*@{
+    Layout = "_Layout";
+}*@
+
+<partial name="_UserInfo" model="DateTime.Now" />
+@section AfterFooter
+{
+    <h1 style="color:red">After Footer Section
+
+<partial name="_UserInfo" model="DateTime.Now.AddDays(-1)"/>
+
+    </h1>
+}
+<h1>Body</h1>
+<p>
+
+    Razor is a markup syntax for embedding .NET based code into webpages. 
+    The Razor syntax consists of Razor markup, C#, and HTML. Files containing Razor generally have a .cshtml file extension. Razor is also found in Razor component files (.razor). Razor syntax is similar to the templating engines of various JavaScript single-page application (SPA) frameworks, such as Angular, React, VueJs, and Svelte. For more information see, Use JavaScript Services to Create Single Page Applications in ASP.NET Core.
+</p>
+
+<partial name="_UserInfo"  model="DateTime.Now.AddDays(5)"/>

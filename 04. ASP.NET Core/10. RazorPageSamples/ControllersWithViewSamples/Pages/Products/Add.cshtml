@@ -1,0 +1,16 @@
+﻿@page
+@model ControllersWithViewSamples.Pages.Products.AddModel
+@{
+}
+
+<h1>Add New Prodcut</h1>
+<div>
+
+    <form method="post">
+        @Html.AntiForgeryToken()
+        <span>
+            Press Submit to post
+        </span>
+        <button type="submit">Submit</button>
+    </form>
+</div>

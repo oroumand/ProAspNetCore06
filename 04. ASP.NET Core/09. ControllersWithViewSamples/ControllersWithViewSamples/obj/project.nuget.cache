@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "E9j4xDRzvHgKd5xNV9Ekwps4ZGtWQIy4X4+WKMpcv7CJGmEFERNM5lEXjgE84jdnRGGiWYvjaonJeBrtC9BXzg==",
+  "dgSpecHash": "q4BOTfwHO6ftZPb7rA2ltXouvXGCvFCWiPnXcvTH3jqMGWXBSV2dTQgbsgTmO1xAzsxkQa8daLlassb4UL7mFA==",
   "success": true,
-  "projectFilePath": "F:\\Source\\Samples\\ControllersWithViewSamples\\ControllersWithViewSamples\\ControllersWithViewSamples.csproj",
+  "projectFilePath": "F:\\Source\\ProAspNetCore06\\04. ASP.NET Core\\09. ControllersWithViewSamples\\ControllersWithViewSamples\\ControllersWithViewSamples.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Alireza\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Alireza\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",

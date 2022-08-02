@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\Source\\Samples\\ControllersWithViewSamples\\ControllersWithViewSamples\\ControllersWithViewSamples.csproj": {}
+    "F:\\Source\\ProAspNetCore06\\04. ASP.NET Core\\09. ControllersWithViewSamples\\ControllersWithViewSamples\\ControllersWithViewSamples.csproj": {}
   },
   "projects": {
-    "F:\\Source\\Samples\\ControllersWithViewSamples\\ControllersWithViewSamples\\ControllersWithViewSamples.csproj": {
+    "F:\\Source\\ProAspNetCore06\\04. ASP.NET Core\\09. ControllersWithViewSamples\\ControllersWithViewSamples\\ControllersWithViewSamples.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\Source\\Samples\\ControllersWithViewSamples\\ControllersWithViewSamples\\ControllersWithViewSamples.csproj",
+        "projectUniqueName": "F:\\Source\\ProAspNetCore06\\04. ASP.NET Core\\09. ControllersWithViewSamples\\ControllersWithViewSamples\\ControllersWithViewSamples.csproj",
         "projectName": "ControllersWithViewSamples",
-        "projectPath": "F:\\Source\\Samples\\ControllersWithViewSamples\\ControllersWithViewSamples\\ControllersWithViewSamples.csproj",
+        "projectPath": "F:\\Source\\ProAspNetCore06\\04. ASP.NET Core\\09. ControllersWithViewSamples\\ControllersWithViewSamples\\ControllersWithViewSamples.csproj",
         "packagesPath": "C:\\Users\\Alireza\\.nuget\\packages\\",
-        "outputPath": "F:\\Source\\Samples\\ControllersWithViewSamples\\ControllersWithViewSamples\\obj\\",
+        "outputPath": "F:\\Source\\ProAspNetCore06\\04. ASP.NET Core\\09. ControllersWithViewSamples\\ControllersWithViewSamples\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Alireza\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -69,7 +69,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
         }
       }
     }

@@ -1,0 +1,80 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = ControllersWithViewSamples
+build_property.RootNamespace = ControllersWithViewSamples
+build_property.ProjectDir = F:\Source\ProAspNetCore06\04. ASP.NET Core\10. RazorPageSamples\ControllersWithViewSamples\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = F:\Source\ProAspNetCore06\04. ASP.NET Core\10. RazorPageSamples\ControllersWithViewSamples
+build_property._RazorSourceGeneratorDebug = 
+
+[F:/Source/ProAspNetCore06/04. ASP.NET Core/10. RazorPageSamples/ControllersWithViewSamples/Pages/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Source/ProAspNetCore06/04. ASP.NET Core/10. RazorPageSamples/ControllersWithViewSamples/Pages/News/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTmV3c1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Source/ProAspNetCore06/04. ASP.NET Core/10. RazorPageSamples/ControllersWithViewSamples/Pages/Products/Add.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJvZHVjdHNcQWRkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Source/ProAspNetCore06/04. ASP.NET Core/10. RazorPageSamples/ControllersWithViewSamples/Pages/Products/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJvZHVjdHNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Source/ProAspNetCore06/04. ASP.NET Core/10. RazorPageSamples/ControllersWithViewSamples/Views/Home/AboutUs.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxBYm91dFVzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Source/ProAspNetCore06/04. ASP.NET Core/10. RazorPageSamples/ControllersWithViewSamples/Views/Home/HSample.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxIU2FtcGxlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Source/ProAspNetCore06/04. ASP.NET Core/10. RazorPageSamples/ControllersWithViewSamples/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Source/ProAspNetCore06/04. ASP.NET Core/10. RazorPageSamples/ControllersWithViewSamples/Views/Home/Jsample.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxKc2FtcGxlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Source/ProAspNetCore06/04. ASP.NET Core/10. RazorPageSamples/ControllersWithViewSamples/Views/People/Exps.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGVvcGxlXEV4cHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Source/ProAspNetCore06/04. ASP.NET Core/10. RazorPageSamples/ControllersWithViewSamples/Views/People/GetAllPeople.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGVvcGxlXEdldEFsbFBlb3BsZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Source/ProAspNetCore06/04. ASP.NET Core/10. RazorPageSamples/ControllersWithViewSamples/Views/People/ViewBagSample.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGVvcGxlXFZpZXdCYWdTYW1wbGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Source/ProAspNetCore06/04. ASP.NET Core/10. RazorPageSamples/ControllersWithViewSamples/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Source/ProAspNetCore06/04. ASP.NET Core/10. RazorPageSamples/ControllersWithViewSamples/Views/Shared/_UserInfo.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Vc2VySW5mby5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Source/ProAspNetCore06/04. ASP.NET Core/10. RazorPageSamples/ControllersWithViewSamples/Views/Tmp/Redirected.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVG1wXFJlZGlyZWN0ZWQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Source/ProAspNetCore06/04. ASP.NET Core/10. RazorPageSamples/ControllersWithViewSamples/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Source/ProAspNetCore06/04. ASP.NET Core/10. RazorPageSamples/ControllersWithViewSamples/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 

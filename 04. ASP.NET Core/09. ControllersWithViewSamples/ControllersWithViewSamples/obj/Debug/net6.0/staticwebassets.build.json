@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "iUK/g4UJmpWPWfpI6zQP/xb/w3zVuRBP74Rcm4nOG6M=",
+  "Hash": "36QLbOQhcdfjLP3xW0ftHSmXEl35TfUIUoiGXrOOV5o=",
   "Source": "ControllersWithViewSamples",
   "BasePath": "_content/ControllersWithViewSamples",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "ControllersWithViewSamples\\wwwroot",
       "Source": "ControllersWithViewSamples",
-      "ContentRoot": "F:\\Source\\Samples\\ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\",
+      "ContentRoot": "F:\\Source\\ProAspNetCore06\\04. ASP.NET Core\\09. ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\",
       "BasePath": "_content/ControllersWithViewSamples",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "F:\\Source\\Samples\\ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\lib\\bootstrap\\css\\bootstrap.css",
+      "Identity": "F:\\Source\\ProAspNetCore06\\04. ASP.NET Core\\09. ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\lib\\bootstrap\\css\\bootstrap.css",
       "SourceId": "ControllersWithViewSamples",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Source\\Samples\\ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\",
+      "ContentRoot": "F:\\Source\\ProAspNetCore06\\04. ASP.NET Core\\09. ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\",
       "BasePath": "_content/ControllersWithViewSamples",
       "RelativePath": "lib/bootstrap/css/bootstrap.css",
       "AssetKind": "All",
@@ -34,10 +34,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\css\\bootstrap.css"
     },
     {
-      "Identity": "F:\\Source\\Samples\\ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\lib\\bootstrap\\css\\bootstrap.css.map",
+      "Identity": "F:\\Source\\ProAspNetCore06\\04. ASP.NET Core\\09. ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\lib\\bootstrap\\css\\bootstrap.css.map",
       "SourceId": "ControllersWithViewSamples",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Source\\Samples\\ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\",
+      "ContentRoot": "F:\\Source\\ProAspNetCore06\\04. ASP.NET Core\\09. ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\",
       "BasePath": "_content/ControllersWithViewSamples",
       "RelativePath": "lib/bootstrap/css/bootstrap.css.map",
       "AssetKind": "All",
@@ -51,10 +51,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\css\\bootstrap.css.map"
     },
     {
-      "Identity": "F:\\Source\\Samples\\ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\lib\\bootstrap\\css\\bootstrap.min.css",
+      "Identity": "F:\\Source\\ProAspNetCore06\\04. ASP.NET Core\\09. ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\lib\\bootstrap\\css\\bootstrap.min.css",
       "SourceId": "ControllersWithViewSamples",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Source\\Samples\\ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\",
+      "ContentRoot": "F:\\Source\\ProAspNetCore06\\04. ASP.NET Core\\09. ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\",
       "BasePath": "_content/ControllersWithViewSamples",
       "RelativePath": "lib/bootstrap/css/bootstrap.min.css",
       "AssetKind": "All",
@@ -68,10 +68,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "F:\\Source\\Samples\\ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\lib\\bootstrap\\css\\bootstrap.min.css.map",
+      "Identity": "F:\\Source\\ProAspNetCore06\\04. ASP.NET Core\\09. ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\lib\\bootstrap\\css\\bootstrap.min.css.map",
       "SourceId": "ControllersWithViewSamples",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Source\\Samples\\ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\",
+      "ContentRoot": "F:\\Source\\ProAspNetCore06\\04. ASP.NET Core\\09. ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\",
       "BasePath": "_content/ControllersWithViewSamples",
       "RelativePath": "lib/bootstrap/css/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -85,10 +85,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\css\\bootstrap.min.css.map"
     },
     {
-      "Identity": "F:\\Source\\Samples\\ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\lib\\bootstrap\\css\\bootstrap.rtl.css",
+      "Identity": "F:\\Source\\ProAspNetCore06\\04. ASP.NET Core\\09. ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\lib\\bootstrap\\css\\bootstrap.rtl.css",
       "SourceId": "ControllersWithViewSamples",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Source\\Samples\\ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\",
+      "ContentRoot": "F:\\Source\\ProAspNetCore06\\04. ASP.NET Core\\09. ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\",
       "BasePath": "_content/ControllersWithViewSamples",
       "RelativePath": "lib/bootstrap/css/bootstrap.rtl.css",
       "AssetKind": "All",
@@ -102,10 +102,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\css\\bootstrap.rtl.css"
     },
     {
-      "Identity": "F:\\Source\\Samples\\ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\lib\\bootstrap\\css\\bootstrap.rtl.css.map",
+      "Identity": "F:\\Source\\ProAspNetCore06\\04. ASP.NET Core\\09. ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\lib\\bootstrap\\css\\bootstrap.rtl.css.map",
       "SourceId": "ControllersWithViewSamples",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Source\\Samples\\ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\",
+      "ContentRoot": "F:\\Source\\ProAspNetCore06\\04. ASP.NET Core\\09. ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\",
       "BasePath": "_content/ControllersWithViewSamples",
       "RelativePath": "lib/bootstrap/css/bootstrap.rtl.css.map",
       "AssetKind": "All",
@@ -119,10 +119,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Identity": "F:\\Source\\Samples\\ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\lib\\bootstrap\\css\\bootstrap.rtl.min.css",
+      "Identity": "F:\\Source\\ProAspNetCore06\\04. ASP.NET Core\\09. ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\lib\\bootstrap\\css\\bootstrap.rtl.min.css",
       "SourceId": "ControllersWithViewSamples",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Source\\Samples\\ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\",
+      "ContentRoot": "F:\\Source\\ProAspNetCore06\\04. ASP.NET Core\\09. ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\",
       "BasePath": "_content/ControllersWithViewSamples",
       "RelativePath": "lib/bootstrap/css/bootstrap.rtl.min.css",
       "AssetKind": "All",
@@ -136,10 +136,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Identity": "F:\\Source\\Samples\\ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\lib\\bootstrap\\css\\bootstrap.rtl.min.css.map",
+      "Identity": "F:\\Source\\ProAspNetCore06\\04. ASP.NET Core\\09. ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\lib\\bootstrap\\css\\bootstrap.rtl.min.css.map",
       "SourceId": "ControllersWithViewSamples",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Source\\Samples\\ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\",
+      "ContentRoot": "F:\\Source\\ProAspNetCore06\\04. ASP.NET Core\\09. ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\",
       "BasePath": "_content/ControllersWithViewSamples",
       "RelativePath": "lib/bootstrap/css/bootstrap.rtl.min.css.map",
       "AssetKind": "All",
@@ -153,10 +153,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Identity": "F:\\Source\\Samples\\ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\lib\\bootstrap\\css\\bootstrap-grid.css",
+      "Identity": "F:\\Source\\ProAspNetCore06\\04. ASP.NET Core\\09. ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\lib\\bootstrap\\css\\bootstrap-grid.css",
       "SourceId": "ControllersWithViewSamples",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Source\\Samples\\ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\",
+      "ContentRoot": "F:\\Source\\ProAspNetCore06\\04. ASP.NET Core\\09. ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\",
       "BasePath": "_content/ControllersWithViewSamples",
       "RelativePath": "lib/bootstrap/css/bootstrap-grid.css",
       "AssetKind": "All",
@@ -170,10 +170,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\css\\bootstrap-grid.css"
     },
     {
-      "Identity": "F:\\Source\\Samples\\ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\lib\\bootstrap\\css\\bootstrap-grid.css.map",
+      "Identity": "F:\\Source\\ProAspNetCore06\\04. ASP.NET Core\\09. ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\lib\\bootstrap\\css\\bootstrap-grid.css.map",
       "SourceId": "ControllersWithViewSamples",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Source\\Samples\\ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\",
+      "ContentRoot": "F:\\Source\\ProAspNetCore06\\04. ASP.NET Core\\09. ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\",
       "BasePath": "_content/ControllersWithViewSamples",
       "RelativePath": "lib/bootstrap/css/bootstrap-grid.css.map",
       "AssetKind": "All",
@@ -187,10 +187,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\css\\bootstrap-grid.css.map"
     },
     {
-      "Identity": "F:\\Source\\Samples\\ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\lib\\bootstrap\\css\\bootstrap-grid.min.css",
+      "Identity": "F:\\Source\\ProAspNetCore06\\04. ASP.NET Core\\09. ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\lib\\bootstrap\\css\\bootstrap-grid.min.css",
       "SourceId": "ControllersWithViewSamples",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Source\\Samples\\ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\",
+      "ContentRoot": "F:\\Source\\ProAspNetCore06\\04. ASP.NET Core\\09. ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\",
       "BasePath": "_content/ControllersWithViewSamples",
       "RelativePath": "lib/bootstrap/css/bootstrap-grid.min.css",
       "AssetKind": "All",
@@ -204,10 +204,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\css\\bootstrap-grid.min.css"
     },
     {
-      "Identity": "F:\\Source\\Samples\\ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\lib\\bootstrap\\css\\bootstrap-grid.min.css.map",
+      "Identity": "F:\\Source\\ProAspNetCore06\\04. ASP.NET Core\\09. ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\lib\\bootstrap\\css\\bootstrap-grid.min.css.map",
       "SourceId": "ControllersWithViewSamples",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Source\\Samples\\ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\",
+      "ContentRoot": "F:\\Source\\ProAspNetCore06\\04. ASP.NET Core\\09. ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\",
       "BasePath": "_content/ControllersWithViewSamples",
       "RelativePath": "lib/bootstrap/css/bootstrap-grid.min.css.map",
       "AssetKind": "All",
@@ -221,10 +221,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Identity": "F:\\Source\\Samples\\ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\lib\\bootstrap\\css\\bootstrap-grid.rtl.css",
+      "Identity": "F:\\Source\\ProAspNetCore06\\04. ASP.NET Core\\09. ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\lib\\bootstrap\\css\\bootstrap-grid.rtl.css",
       "SourceId": "ControllersWithViewSamples",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Source\\Samples\\ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\",
+      "ContentRoot": "F:\\Source\\ProAspNetCore06\\04. ASP.NET Core\\09. ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\",
       "BasePath": "_content/ControllersWithViewSamples",
       "RelativePath": "lib/bootstrap/css/bootstrap-grid.rtl.css",
       "AssetKind": "All",
@@ -238,10 +238,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Identity": "F:\\Source\\Samples\\ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\lib\\bootstrap\\css\\bootstrap-grid.rtl.css.map",
+      "Identity": "F:\\Source\\ProAspNetCore06\\04. ASP.NET Core\\09. ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\lib\\bootstrap\\css\\bootstrap-grid.rtl.css.map",
       "SourceId": "ControllersWithViewSamples",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Source\\Samples\\ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\",
+      "ContentRoot": "F:\\Source\\ProAspNetCore06\\04. ASP.NET Core\\09. ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\",
       "BasePath": "_content/ControllersWithViewSamples",
       "RelativePath": "lib/bootstrap/css/bootstrap-grid.rtl.css.map",
       "AssetKind": "All",
@@ -255,10 +255,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Identity": "F:\\Source\\Samples\\ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\lib\\bootstrap\\css\\bootstrap-grid.rtl.min.css",
+      "Identity": "F:\\Source\\ProAspNetCore06\\04. ASP.NET Core\\09. ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\lib\\bootstrap\\css\\bootstrap-grid.rtl.min.css",
       "SourceId": "ControllersWithViewSamples",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Source\\Samples\\ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\",
+      "ContentRoot": "F:\\Source\\ProAspNetCore06\\04. ASP.NET Core\\09. ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\",
       "BasePath": "_content/ControllersWithViewSamples",
       "RelativePath": "lib/bootstrap/css/bootstrap-grid.rtl.min.css",
       "AssetKind": "All",
@@ -272,10 +272,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Identity": "F:\\Source\\Samples\\ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\lib\\bootstrap\\css\\bootstrap-grid.rtl.min.css.map",
+      "Identity": "F:\\Source\\ProAspNetCore06\\04. ASP.NET Core\\09. ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\lib\\bootstrap\\css\\bootstrap-grid.rtl.min.css.map",
       "SourceId": "ControllersWithViewSamples",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Source\\Samples\\ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\",
+      "ContentRoot": "F:\\Source\\ProAspNetCore06\\04. ASP.NET Core\\09. ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\",
       "BasePath": "_content/ControllersWithViewSamples",
       "RelativePath": "lib/bootstrap/css/bootstrap-grid.rtl.min.css.map",
       "AssetKind": "All",
@@ -289,10 +289,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Identity": "F:\\Source\\Samples\\ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\lib\\bootstrap\\css\\bootstrap-reboot.css",
+      "Identity": "F:\\Source\\ProAspNetCore06\\04. ASP.NET Core\\09. ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\lib\\bootstrap\\css\\bootstrap-reboot.css",
       "SourceId": "ControllersWithViewSamples",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Source\\Samples\\ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\",
+      "ContentRoot": "F:\\Source\\ProAspNetCore06\\04. ASP.NET Core\\09. ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\",
       "BasePath": "_content/ControllersWithViewSamples",
       "RelativePath": "lib/bootstrap/css/bootstrap-reboot.css",
       "AssetKind": "All",
@@ -306,10 +306,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\css\\bootstrap-reboot.css"
     },
     {
-      "Identity": "F:\\Source\\Samples\\ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\lib\\bootstrap\\css\\bootstrap-reboot.css.map",
+      "Identity": "F:\\Source\\ProAspNetCore06\\04. ASP.NET Core\\09. ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\lib\\bootstrap\\css\\bootstrap-reboot.css.map",
       "SourceId": "ControllersWithViewSamples",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Source\\Samples\\ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\",
+      "ContentRoot": "F:\\Source\\ProAspNetCore06\\04. ASP.NET Core\\09. ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\",
       "BasePath": "_content/ControllersWithViewSamples",
       "RelativePath": "lib/bootstrap/css/bootstrap-reboot.css.map",
       "AssetKind": "All",
@@ -323,10 +323,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Identity": "F:\\Source\\Samples\\ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\lib\\bootstrap\\css\\bootstrap-reboot.min.css",
+      "Identity": "F:\\Source\\ProAspNetCore06\\04. ASP.NET Core\\09. ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\lib\\bootstrap\\css\\bootstrap-reboot.min.css",
       "SourceId": "ControllersWithViewSamples",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Source\\Samples\\ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\",
+      "ContentRoot": "F:\\Source\\ProAspNetCore06\\04. ASP.NET Core\\09. ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\",
       "BasePath": "_content/ControllersWithViewSamples",
       "RelativePath": "lib/bootstrap/css/bootstrap-reboot.min.css",
       "AssetKind": "All",
@@ -340,10 +340,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Identity": "F:\\Source\\Samples\\ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\lib\\bootstrap\\css\\bootstrap-reboot.min.css.map",
+      "Identity": "F:\\Source\\ProAspNetCore06\\04. ASP.NET Core\\09. ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\lib\\bootstrap\\css\\bootstrap-reboot.min.css.map",
       "SourceId": "ControllersWithViewSamples",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Source\\Samples\\ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\",
+      "ContentRoot": "F:\\Source\\ProAspNetCore06\\04. ASP.NET Core\\09. ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\",
       "BasePath": "_content/ControllersWithViewSamples",
       "RelativePath": "lib/bootstrap/css/bootstrap-reboot.min.css.map",
       "AssetKind": "All",
@@ -357,10 +357,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Identity": "F:\\Source\\Samples\\ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\lib\\bootstrap\\css\\bootstrap-reboot.rtl.css",
+      "Identity": "F:\\Source\\ProAspNetCore06\\04. ASP.NET Core\\09. ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\lib\\bootstrap\\css\\bootstrap-reboot.rtl.css",
       "SourceId": "ControllersWithViewSamples",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Source\\Samples\\ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\",
+      "ContentRoot": "F:\\Source\\ProAspNetCore06\\04. ASP.NET Core\\09. ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\",
       "BasePath": "_content/ControllersWithViewSamples",
       "RelativePath": "lib/bootstrap/css/bootstrap-reboot.rtl.css",
       "AssetKind": "All",
@@ -374,10 +374,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Identity": "F:\\Source\\Samples\\ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\lib\\bootstrap\\css\\bootstrap-reboot.rtl.css.map",
+      "Identity": "F:\\Source\\ProAspNetCore06\\04. ASP.NET Core\\09. ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\lib\\bootstrap\\css\\bootstrap-reboot.rtl.css.map",
       "SourceId": "ControllersWithViewSamples",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Source\\Samples\\ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\",
+      "ContentRoot": "F:\\Source\\ProAspNetCore06\\04. ASP.NET Core\\09. ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\",
       "BasePath": "_content/ControllersWithViewSamples",
       "RelativePath": "lib/bootstrap/css/bootstrap-reboot.rtl.css.map",
       "AssetKind": "All",
@@ -391,10 +391,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Identity": "F:\\Source\\Samples\\ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\lib\\bootstrap\\css\\bootstrap-reboot.rtl.min.css",
+      "Identity": "F:\\Source\\ProAspNetCore06\\04. ASP.NET Core\\09. ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\lib\\bootstrap\\css\\bootstrap-reboot.rtl.min.css",
       "SourceId": "ControllersWithViewSamples",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Source\\Samples\\ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\",
+      "ContentRoot": "F:\\Source\\ProAspNetCore06\\04. ASP.NET Core\\09. ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\",
       "BasePath": "_content/ControllersWithViewSamples",
       "RelativePath": "lib/bootstrap/css/bootstrap-reboot.rtl.min.css",
       "AssetKind": "All",
@@ -408,10 +408,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Identity": "F:\\Source\\Samples\\ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\lib\\bootstrap\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Identity": "F:\\Source\\ProAspNetCore06\\04. ASP.NET Core\\09. ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\lib\\bootstrap\\css\\bootstrap-reboot.rtl.min.css.map",
       "SourceId": "ControllersWithViewSamples",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Source\\Samples\\ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\",
+      "ContentRoot": "F:\\Source\\ProAspNetCore06\\04. ASP.NET Core\\09. ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\",
       "BasePath": "_content/ControllersWithViewSamples",
       "RelativePath": "lib/bootstrap/css/bootstrap-reboot.rtl.min.css.map",
       "AssetKind": "All",
@@ -425,10 +425,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Identity": "F:\\Source\\Samples\\ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\lib\\bootstrap\\css\\bootstrap-utilities.css",
+      "Identity": "F:\\Source\\ProAspNetCore06\\04. ASP.NET Core\\09. ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\lib\\bootstrap\\css\\bootstrap-utilities.css",
       "SourceId": "ControllersWithViewSamples",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Source\\Samples\\ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\",
+      "ContentRoot": "F:\\Source\\ProAspNetCore06\\04. ASP.NET Core\\09. ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\",
       "BasePath": "_content/ControllersWithViewSamples",
       "RelativePath": "lib/bootstrap/css/bootstrap-utilities.css",
       "AssetKind": "All",
@@ -442,10 +442,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\css\\bootstrap-utilities.css"
     },
     {
-      "Identity": "F:\\Source\\Samples\\ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\lib\\bootstrap\\css\\bootstrap-utilities.css.map",
+      "Identity": "F:\\Source\\ProAspNetCore06\\04. ASP.NET Core\\09. ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\lib\\bootstrap\\css\\bootstrap-utilities.css.map",
       "SourceId": "ControllersWithViewSamples",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Source\\Samples\\ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\",
+      "ContentRoot": "F:\\Source\\ProAspNetCore06\\04. ASP.NET Core\\09. ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\",
       "BasePath": "_content/ControllersWithViewSamples",
       "RelativePath": "lib/bootstrap/css/bootstrap-utilities.css.map",
       "AssetKind": "All",
@@ -459,10 +459,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Identity": "F:\\Source\\Samples\\ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\lib\\bootstrap\\css\\bootstrap-utilities.min.css",
+      "Identity": "F:\\Source\\ProAspNetCore06\\04. ASP.NET Core\\09. ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\lib\\bootstrap\\css\\bootstrap-utilities.min.css",
       "SourceId": "ControllersWithViewSamples",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Source\\Samples\\ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\",
+      "ContentRoot": "F:\\Source\\ProAspNetCore06\\04. ASP.NET Core\\09. ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\",
       "BasePath": "_content/ControllersWithViewSamples",
       "RelativePath": "lib/bootstrap/css/bootstrap-utilities.min.css",
       "AssetKind": "All",
@@ -476,10 +476,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Identity": "F:\\Source\\Samples\\ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\lib\\bootstrap\\css\\bootstrap-utilities.min.css.map",
+      "Identity": "F:\\Source\\ProAspNetCore06\\04. ASP.NET Core\\09. ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\lib\\bootstrap\\css\\bootstrap-utilities.min.css.map",
       "SourceId": "ControllersWithViewSamples",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Source\\Samples\\ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\",
+      "ContentRoot": "F:\\Source\\ProAspNetCore06\\04. ASP.NET Core\\09. ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\",
       "BasePath": "_content/ControllersWithViewSamples",
       "RelativePath": "lib/bootstrap/css/bootstrap-utilities.min.css.map",
       "AssetKind": "All",
@@ -493,10 +493,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Identity": "F:\\Source\\Samples\\ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\lib\\bootstrap\\css\\bootstrap-utilities.rtl.css",
+      "Identity": "F:\\Source\\ProAspNetCore06\\04. ASP.NET Core\\09. ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\lib\\bootstrap\\css\\bootstrap-utilities.rtl.css",
       "SourceId": "ControllersWithViewSamples",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Source\\Samples\\ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\",
+      "ContentRoot": "F:\\Source\\ProAspNetCore06\\04. ASP.NET Core\\09. ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\",
       "BasePath": "_content/ControllersWithViewSamples",
       "RelativePath": "lib/bootstrap/css/bootstrap-utilities.rtl.css",
       "AssetKind": "All",
@@ -510,10 +510,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Identity": "F:\\Source\\Samples\\ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\lib\\bootstrap\\css\\bootstrap-utilities.rtl.css.map",
+      "Identity": "F:\\Source\\ProAspNetCore06\\04. ASP.NET Core\\09. ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\lib\\bootstrap\\css\\bootstrap-utilities.rtl.css.map",
       "SourceId": "ControllersWithViewSamples",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Source\\Samples\\ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\",
+      "ContentRoot": "F:\\Source\\ProAspNetCore06\\04. ASP.NET Core\\09. ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\",
       "BasePath": "_content/ControllersWithViewSamples",
       "RelativePath": "lib/bootstrap/css/bootstrap-utilities.rtl.css.map",
       "AssetKind": "All",
@@ -527,10 +527,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Identity": "F:\\Source\\Samples\\ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\lib\\bootstrap\\css\\bootstrap-utilities.rtl.min.css",
+      "Identity": "F:\\Source\\ProAspNetCore06\\04. ASP.NET Core\\09. ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\lib\\bootstrap\\css\\bootstrap-utilities.rtl.min.css",
       "SourceId": "ControllersWithViewSamples",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Source\\Samples\\ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\",
+      "ContentRoot": "F:\\Source\\ProAspNetCore06\\04. ASP.NET Core\\09. ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\",
       "BasePath": "_content/ControllersWithViewSamples",
       "RelativePath": "lib/bootstrap/css/bootstrap-utilities.rtl.min.css",
       "AssetKind": "All",
@@ -544,10 +544,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Identity": "F:\\Source\\Samples\\ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\lib\\bootstrap\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Identity": "F:\\Source\\ProAspNetCore06\\04. ASP.NET Core\\09. ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\lib\\bootstrap\\css\\bootstrap-utilities.rtl.min.css.map",
       "SourceId": "ControllersWithViewSamples",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Source\\Samples\\ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\",
+      "ContentRoot": "F:\\Source\\ProAspNetCore06\\04. ASP.NET Core\\09. ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\",
       "BasePath": "_content/ControllersWithViewSamples",
       "RelativePath": "lib/bootstrap/css/bootstrap-utilities.rtl.min.css.map",
       "AssetKind": "All",
@@ -561,10 +561,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Identity": "F:\\Source\\Samples\\ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\lib\\bootstrap\\js\\bootstrap.bundle.js",
+      "Identity": "F:\\Source\\ProAspNetCore06\\04. ASP.NET Core\\09. ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\lib\\bootstrap\\js\\bootstrap.bundle.js",
       "SourceId": "ControllersWithViewSamples",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Source\\Samples\\ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\",
+      "ContentRoot": "F:\\Source\\ProAspNetCore06\\04. ASP.NET Core\\09. ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\",
       "BasePath": "_content/ControllersWithViewSamples",
       "RelativePath": "lib/bootstrap/js/bootstrap.bundle.js",
       "AssetKind": "All",
@@ -578,10 +578,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\js\\bootstrap.bundle.js"
     },
     {
-      "Identity": "F:\\Source\\Samples\\ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\lib\\bootstrap\\js\\bootstrap.bundle.js.map",
+      "Identity": "F:\\Source\\ProAspNetCore06\\04. ASP.NET Core\\09. ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\lib\\bootstrap\\js\\bootstrap.bundle.js.map",
       "SourceId": "ControllersWithViewSamples",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Source\\Samples\\ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\",
+      "ContentRoot": "F:\\Source\\ProAspNetCore06\\04. ASP.NET Core\\09. ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\",
       "BasePath": "_content/ControllersWithViewSamples",
       "RelativePath": "lib/bootstrap/js/bootstrap.bundle.js.map",
       "AssetKind": "All",
@@ -595,10 +595,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Identity": "F:\\Source\\Samples\\ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\lib\\bootstrap\\js\\bootstrap.bundle.min.js",
+      "Identity": "F:\\Source\\ProAspNetCore06\\04. ASP.NET Core\\09. ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\lib\\bootstrap\\js\\bootstrap.bundle.min.js",
       "SourceId": "ControllersWithViewSamples",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Source\\Samples\\ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\",
+      "ContentRoot": "F:\\Source\\ProAspNetCore06\\04. ASP.NET Core\\09. ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\",
       "BasePath": "_content/ControllersWithViewSamples",
       "RelativePath": "lib/bootstrap/js/bootstrap.bundle.min.js",
       "AssetKind": "All",
@@ -612,10 +612,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Identity": "F:\\Source\\Samples\\ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\lib\\bootstrap\\js\\bootstrap.bundle.min.js.map",
+      "Identity": "F:\\Source\\ProAspNetCore06\\04. ASP.NET Core\\09. ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\lib\\bootstrap\\js\\bootstrap.bundle.min.js.map",
       "SourceId": "ControllersWithViewSamples",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Source\\Samples\\ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\",
+      "ContentRoot": "F:\\Source\\ProAspNetCore06\\04. ASP.NET Core\\09. ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\",
       "BasePath": "_content/ControllersWithViewSamples",
       "RelativePath": "lib/bootstrap/js/bootstrap.bundle.min.js.map",
       "AssetKind": "All",
@@ -629,10 +629,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Identity": "F:\\Source\\Samples\\ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\lib\\bootstrap\\js\\bootstrap.esm.js",
+      "Identity": "F:\\Source\\ProAspNetCore06\\04. ASP.NET Core\\09. ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\lib\\bootstrap\\js\\bootstrap.esm.js",
       "SourceId": "ControllersWithViewSamples",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Source\\Samples\\ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\",
+      "ContentRoot": "F:\\Source\\ProAspNetCore06\\04. ASP.NET Core\\09. ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\",
       "BasePath": "_content/ControllersWithViewSamples",
       "RelativePath": "lib/bootstrap/js/bootstrap.esm.js",
       "AssetKind": "All",
@@ -646,10 +646,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\js\\bootstrap.esm.js"
     },
     {
-      "Identity": "F:\\Source\\Samples\\ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\lib\\bootstrap\\js\\bootstrap.esm.js.map",
+      "Identity": "F:\\Source\\ProAspNetCore06\\04. ASP.NET Core\\09. ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\lib\\bootstrap\\js\\bootstrap.esm.js.map",
       "SourceId": "ControllersWithViewSamples",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Source\\Samples\\ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\",
+      "ContentRoot": "F:\\Source\\ProAspNetCore06\\04. ASP.NET Core\\09. ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\",
       "BasePath": "_content/ControllersWithViewSamples",
       "RelativePath": "lib/bootstrap/js/bootstrap.esm.js.map",
       "AssetKind": "All",
@@ -663,10 +663,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\js\\bootstrap.esm.js.map"
     },
     {
-      "Identity": "F:\\Source\\Samples\\ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\lib\\bootstrap\\js\\bootstrap.esm.min.js",
+      "Identity": "F:\\Source\\ProAspNetCore06\\04. ASP.NET Core\\09. ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\lib\\bootstrap\\js\\bootstrap.esm.min.js",
       "SourceId": "ControllersWithViewSamples",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Source\\Samples\\ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\",
+      "ContentRoot": "F:\\Source\\ProAspNetCore06\\04. ASP.NET Core\\09. ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\",
       "BasePath": "_content/ControllersWithViewSamples",
       "RelativePath": "lib/bootstrap/js/bootstrap.esm.min.js",
       "AssetKind": "All",
@@ -680,10 +680,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\js\\bootstrap.esm.min.js"
     },
     {
-      "Identity": "F:\\Source\\Samples\\ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\lib\\bootstrap\\js\\bootstrap.esm.min.js.map",
+      "Identity": "F:\\Source\\ProAspNetCore06\\04. ASP.NET Core\\09. ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\lib\\bootstrap\\js\\bootstrap.esm.min.js.map",
       "SourceId": "ControllersWithViewSamples",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Source\\Samples\\ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\",
+      "ContentRoot": "F:\\Source\\ProAspNetCore06\\04. ASP.NET Core\\09. ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\",
       "BasePath": "_content/ControllersWithViewSamples",
       "RelativePath": "lib/bootstrap/js/bootstrap.esm.min.js.map",
       "AssetKind": "All",
@@ -697,10 +697,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Identity": "F:\\Source\\Samples\\ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\lib\\bootstrap\\js\\bootstrap.js",
+      "Identity": "F:\\Source\\ProAspNetCore06\\04. ASP.NET Core\\09. ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\lib\\bootstrap\\js\\bootstrap.js",
       "SourceId": "ControllersWithViewSamples",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Source\\Samples\\ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\",
+      "ContentRoot": "F:\\Source\\ProAspNetCore06\\04. ASP.NET Core\\09. ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\",
       "BasePath": "_content/ControllersWithViewSamples",
       "RelativePath": "lib/bootstrap/js/bootstrap.js",
       "AssetKind": "All",
@@ -714,10 +714,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\js\\bootstrap.js"
     },
     {
-      "Identity": "F:\\Source\\Samples\\ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\lib\\bootstrap\\js\\bootstrap.js.map",
+      "Identity": "F:\\Source\\ProAspNetCore06\\04. ASP.NET Core\\09. ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\lib\\bootstrap\\js\\bootstrap.js.map",
       "SourceId": "ControllersWithViewSamples",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Source\\Samples\\ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\",
+      "ContentRoot": "F:\\Source\\ProAspNetCore06\\04. ASP.NET Core\\09. ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\",
       "BasePath": "_content/ControllersWithViewSamples",
       "RelativePath": "lib/bootstrap/js/bootstrap.js.map",
       "AssetKind": "All",
@@ -731,10 +731,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\js\\bootstrap.js.map"
     },
     {
-      "Identity": "F:\\Source\\Samples\\ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\lib\\bootstrap\\js\\bootstrap.min.js",
+      "Identity": "F:\\Source\\ProAspNetCore06\\04. ASP.NET Core\\09. ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\lib\\bootstrap\\js\\bootstrap.min.js",
       "SourceId": "ControllersWithViewSamples",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Source\\Samples\\ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\",
+      "ContentRoot": "F:\\Source\\ProAspNetCore06\\04. ASP.NET Core\\09. ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\",
       "BasePath": "_content/ControllersWithViewSamples",
       "RelativePath": "lib/bootstrap/js/bootstrap.min.js",
       "AssetKind": "All",
@@ -748,10 +748,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "F:\\Source\\Samples\\ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\lib\\bootstrap\\js\\bootstrap.min.js.map",
+      "Identity": "F:\\Source\\ProAspNetCore06\\04. ASP.NET Core\\09. ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\lib\\bootstrap\\js\\bootstrap.min.js.map",
       "SourceId": "ControllersWithViewSamples",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Source\\Samples\\ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\",
+      "ContentRoot": "F:\\Source\\ProAspNetCore06\\04. ASP.NET Core\\09. ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\",
       "BasePath": "_content/ControllersWithViewSamples",
       "RelativePath": "lib/bootstrap/js/bootstrap.min.js.map",
       "AssetKind": "All",
@@ -765,10 +765,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\js\\bootstrap.min.js.map"
     },
     {
-      "Identity": "F:\\Source\\Samples\\ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\lib\\bootstrap\\scss\\_accordion.scss",
+      "Identity": "F:\\Source\\ProAspNetCore06\\04. ASP.NET Core\\09. ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\lib\\bootstrap\\scss\\_accordion.scss",
       "SourceId": "ControllersWithViewSamples",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Source\\Samples\\ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\",
+      "ContentRoot": "F:\\Source\\ProAspNetCore06\\04. ASP.NET Core\\09. ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\",
       "BasePath": "_content/ControllersWithViewSamples",
       "RelativePath": "lib/bootstrap/scss/_accordion.scss",
       "AssetKind": "All",
@@ -782,10 +782,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\_accordion.scss"
     },
     {
-      "Identity": "F:\\Source\\Samples\\ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\lib\\bootstrap\\scss\\_alert.scss",
+      "Identity": "F:\\Source\\ProAspNetCore06\\04. ASP.NET Core\\09. ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\lib\\bootstrap\\scss\\_alert.scss",
       "SourceId": "ControllersWithViewSamples",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Source\\Samples\\ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\",
+      "ContentRoot": "F:\\Source\\ProAspNetCore06\\04. ASP.NET Core\\09. ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\",
       "BasePath": "_content/ControllersWithViewSamples",
       "RelativePath": "lib/bootstrap/scss/_alert.scss",
       "AssetKind": "All",
@@ -799,10 +799,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\_alert.scss"
     },
     {
-      "Identity": "F:\\Source\\Samples\\ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\lib\\bootstrap\\scss\\_badge.scss",
+      "Identity": "F:\\Source\\ProAspNetCore06\\04. ASP.NET Core\\09. ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\lib\\bootstrap\\scss\\_badge.scss",
       "SourceId": "ControllersWithViewSamples",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Source\\Samples\\ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\",
+      "ContentRoot": "F:\\Source\\ProAspNetCore06\\04. ASP.NET Core\\09. ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\",
       "BasePath": "_content/ControllersWithViewSamples",
       "RelativePath": "lib/bootstrap/scss/_badge.scss",
       "AssetKind": "All",
@@ -816,10 +816,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\_badge.scss"
     },
     {
-      "Identity": "F:\\Source\\Samples\\ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\lib\\bootstrap\\scss\\_breadcrumb.scss",
+      "Identity": "F:\\Source\\ProAspNetCore06\\04. ASP.NET Core\\09. ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\lib\\bootstrap\\scss\\_breadcrumb.scss",
       "SourceId": "ControllersWithViewSamples",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Source\\Samples\\ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\",
+      "ContentRoot": "F:\\Source\\ProAspNetCore06\\04. ASP.NET Core\\09. ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\",
       "BasePath": "_content/ControllersWithViewSamples",
       "RelativePath": "lib/bootstrap/scss/_breadcrumb.scss",
       "AssetKind": "All",
@@ -833,10 +833,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\_breadcrumb.scss"
     },
     {
-      "Identity": "F:\\Source\\Samples\\ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\lib\\bootstrap\\scss\\_button-group.scss",
+      "Identity": "F:\\Source\\ProAspNetCore06\\04. ASP.NET Core\\09. ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\lib\\bootstrap\\scss\\_button-group.scss",
       "SourceId": "ControllersWithViewSamples",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Source\\Samples\\ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\",
+      "ContentRoot": "F:\\Source\\ProAspNetCore06\\04. ASP.NET Core\\09. ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\",
       "BasePath": "_content/ControllersWithViewSamples",
       "RelativePath": "lib/bootstrap/scss/_button-group.scss",
       "AssetKind": "All",
@@ -850,10 +850,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\_button-group.scss"
     },
     {
-      "Identity": "F:\\Source\\Samples\\ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\lib\\bootstrap\\scss\\_buttons.scss",
+      "Identity": "F:\\Source\\ProAspNetCore06\\04. ASP.NET Core\\09. ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\lib\\bootstrap\\scss\\_buttons.scss",
       "SourceId": "ControllersWithViewSamples",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Source\\Samples\\ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\",
+      "ContentRoot": "F:\\Source\\ProAspNetCore06\\04. ASP.NET Core\\09. ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\",
       "BasePath": "_content/ControllersWithViewSamples",
       "RelativePath": "lib/bootstrap/scss/_buttons.scss",
       "AssetKind": "All",
@@ -867,10 +867,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\_buttons.scss"
     },
     {
-      "Identity": "F:\\Source\\Samples\\ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\lib\\bootstrap\\scss\\_card.scss",
+      "Identity": "F:\\Source\\ProAspNetCore06\\04. ASP.NET Core\\09. ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\lib\\bootstrap\\scss\\_card.scss",
       "SourceId": "ControllersWithViewSamples",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Source\\Samples\\ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\",
+      "ContentRoot": "F:\\Source\\ProAspNetCore06\\04. ASP.NET Core\\09. ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\",
       "BasePath": "_content/ControllersWithViewSamples",
       "RelativePath": "lib/bootstrap/scss/_card.scss",
       "AssetKind": "All",
@@ -884,10 +884,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\_card.scss"
     },
     {
-      "Identity": "F:\\Source\\Samples\\ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\lib\\bootstrap\\scss\\_carousel.scss",
+      "Identity": "F:\\Source\\ProAspNetCore06\\04. ASP.NET Core\\09. ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\lib\\bootstrap\\scss\\_carousel.scss",
       "SourceId": "ControllersWithViewSamples",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Source\\Samples\\ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\",
+      "ContentRoot": "F:\\Source\\ProAspNetCore06\\04. ASP.NET Core\\09. ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\",
       "BasePath": "_content/ControllersWithViewSamples",
       "RelativePath": "lib/bootstrap/scss/_carousel.scss",
       "AssetKind": "All",
@@ -901,10 +901,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\_carousel.scss"
     },
     {
-      "Identity": "F:\\Source\\Samples\\ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\lib\\bootstrap\\scss\\_close.scss",
+      "Identity": "F:\\Source\\ProAspNetCore06\\04. ASP.NET Core\\09. ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\lib\\bootstrap\\scss\\_close.scss",
       "SourceId": "ControllersWithViewSamples",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Source\\Samples\\ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\",
+      "ContentRoot": "F:\\Source\\ProAspNetCore06\\04. ASP.NET Core\\09. ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\",
       "BasePath": "_content/ControllersWithViewSamples",
       "RelativePath": "lib/bootstrap/scss/_close.scss",
       "AssetKind": "All",
@@ -918,10 +918,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\_close.scss"
     },
     {
-      "Identity": "F:\\Source\\Samples\\ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\lib\\bootstrap\\scss\\_containers.scss",
+      "Identity": "F:\\Source\\ProAspNetCore06\\04. ASP.NET Core\\09. ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\lib\\bootstrap\\scss\\_containers.scss",
       "SourceId": "ControllersWithViewSamples",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Source\\Samples\\ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\",
+      "ContentRoot": "F:\\Source\\ProAspNetCore06\\04. ASP.NET Core\\09. ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\",
       "BasePath": "_content/ControllersWithViewSamples",
       "RelativePath": "lib/bootstrap/scss/_containers.scss",
       "AssetKind": "All",
@@ -935,10 +935,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\_containers.scss"
     },
     {
-      "Identity": "F:\\Source\\Samples\\ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\lib\\bootstrap\\scss\\_dropdown.scss",
+      "Identity": "F:\\Source\\ProAspNetCore06\\04. ASP.NET Core\\09. ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\lib\\bootstrap\\scss\\_dropdown.scss",
       "SourceId": "ControllersWithViewSamples",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Source\\Samples\\ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\",
+      "ContentRoot": "F:\\Source\\ProAspNetCore06\\04. ASP.NET Core\\09. ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\",
       "BasePath": "_content/ControllersWithViewSamples",
       "RelativePath": "lib/bootstrap/scss/_dropdown.scss",
       "AssetKind": "All",
@@ -952,10 +952,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\_dropdown.scss"
     },
     {
-      "Identity": "F:\\Source\\Samples\\ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\lib\\bootstrap\\scss\\_forms.scss",
+      "Identity": "F:\\Source\\ProAspNetCore06\\04. ASP.NET Core\\09. ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\lib\\bootstrap\\scss\\_forms.scss",
       "SourceId": "ControllersWithViewSamples",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Source\\Samples\\ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\",
+      "ContentRoot": "F:\\Source\\ProAspNetCore06\\04. ASP.NET Core\\09. ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\",
       "BasePath": "_content/ControllersWithViewSamples",
       "RelativePath": "lib/bootstrap/scss/_forms.scss",
       "AssetKind": "All",
@@ -969,10 +969,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\_forms.scss"
     },
     {
-      "Identity": "F:\\Source\\Samples\\ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\lib\\bootstrap\\scss\\_functions.scss",
+      "Identity": "F:\\Source\\ProAspNetCore06\\04. ASP.NET Core\\09. ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\lib\\bootstrap\\scss\\_functions.scss",
       "SourceId": "ControllersWithViewSamples",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Source\\Samples\\ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\",
+      "ContentRoot": "F:\\Source\\ProAspNetCore06\\04. ASP.NET Core\\09. ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\",
       "BasePath": "_content/ControllersWithViewSamples",
       "RelativePath": "lib/bootstrap/scss/_functions.scss",
       "AssetKind": "All",
@@ -986,10 +986,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\_functions.scss"
     },
     {
-      "Identity": "F:\\Source\\Samples\\ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\lib\\bootstrap\\scss\\_grid.scss",
+      "Identity": "F:\\Source\\ProAspNetCore06\\04. ASP.NET Core\\09. ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\lib\\bootstrap\\scss\\_grid.scss",
       "SourceId": "ControllersWithViewSamples",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Source\\Samples\\ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\",
+      "ContentRoot": "F:\\Source\\ProAspNetCore06\\04. ASP.NET Core\\09. ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\",
       "BasePath": "_content/ControllersWithViewSamples",
       "RelativePath": "lib/bootstrap/scss/_grid.scss",
       "AssetKind": "All",
@@ -1003,10 +1003,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\_grid.scss"
     },
     {
-      "Identity": "F:\\Source\\Samples\\ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\lib\\bootstrap\\scss\\_helpers.scss",
+      "Identity": "F:\\Source\\ProAspNetCore06\\04. ASP.NET Core\\09. ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\lib\\bootstrap\\scss\\_helpers.scss",
       "SourceId": "ControllersWithViewSamples",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Source\\Samples\\ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\",
+      "ContentRoot": "F:\\Source\\ProAspNetCore06\\04. ASP.NET Core\\09. ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\",
       "BasePath": "_content/ControllersWithViewSamples",
       "RelativePath": "lib/bootstrap/scss/_helpers.scss",
       "AssetKind": "All",
@@ -1020,10 +1020,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\_helpers.scss"
     },
     {
-      "Identity": "F:\\Source\\Samples\\ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\lib\\bootstrap\\scss\\_images.scss",
+      "Identity": "F:\\Source\\ProAspNetCore06\\04. ASP.NET Core\\09. ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\lib\\bootstrap\\scss\\_images.scss",
       "SourceId": "ControllersWithViewSamples",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Source\\Samples\\ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\",
+      "ContentRoot": "F:\\Source\\ProAspNetCore06\\04. ASP.NET Core\\09. ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\",
       "BasePath": "_content/ControllersWithViewSamples",
       "RelativePath": "lib/bootstrap/scss/_images.scss",
       "AssetKind": "All",
@@ -1037,10 +1037,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\_images.scss"
     },
     {
-      "Identity": "F:\\Source\\Samples\\ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\lib\\bootstrap\\scss\\_list-group.scss",
+      "Identity": "F:\\Source\\ProAspNetCore06\\04. ASP.NET Core\\09. ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\lib\\bootstrap\\scss\\_list-group.scss",
       "SourceId": "ControllersWithViewSamples",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Source\\Samples\\ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\",
+      "ContentRoot": "F:\\Source\\ProAspNetCore06\\04. ASP.NET Core\\09. ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\",
       "BasePath": "_content/ControllersWithViewSamples",
       "RelativePath": "lib/bootstrap/scss/_list-group.scss",
       "AssetKind": "All",
@@ -1054,10 +1054,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\_list-group.scss"
     },
     {
-      "Identity": "F:\\Source\\Samples\\ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\lib\\bootstrap\\scss\\_mixins.scss",
+      "Identity": "F:\\Source\\ProAspNetCore06\\04. ASP.NET Core\\09. ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\lib\\bootstrap\\scss\\_mixins.scss",
       "SourceId": "ControllersWithViewSamples",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Source\\Samples\\ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\",
+      "ContentRoot": "F:\\Source\\ProAspNetCore06\\04. ASP.NET Core\\09. ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\",
       "BasePath": "_content/ControllersWithViewSamples",
       "RelativePath": "lib/bootstrap/scss/_mixins.scss",
       "AssetKind": "All",
@@ -1071,10 +1071,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\_mixins.scss"
     },
     {
-      "Identity": "F:\\Source\\Samples\\ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\lib\\bootstrap\\scss\\_modal.scss",
+      "Identity": "F:\\Source\\ProAspNetCore06\\04. ASP.NET Core\\09. ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\lib\\bootstrap\\scss\\_modal.scss",
       "SourceId": "ControllersWithViewSamples",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Source\\Samples\\ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\",
+      "ContentRoot": "F:\\Source\\ProAspNetCore06\\04. ASP.NET Core\\09. ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\",
       "BasePath": "_content/ControllersWithViewSamples",
       "RelativePath": "lib/bootstrap/scss/_modal.scss",
       "AssetKind": "All",
@@ -1088,10 +1088,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\_modal.scss"
     },
     {
-      "Identity": "F:\\Source\\Samples\\ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\lib\\bootstrap\\scss\\_nav.scss",
+      "Identity": "F:\\Source\\ProAspNetCore06\\04. ASP.NET Core\\09. ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\lib\\bootstrap\\scss\\_nav.scss",
       "SourceId": "ControllersWithViewSamples",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Source\\Samples\\ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\",
+      "ContentRoot": "F:\\Source\\ProAspNetCore06\\04. ASP.NET Core\\09. ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\",
       "BasePath": "_content/ControllersWithViewSamples",
       "RelativePath": "lib/bootstrap/scss/_nav.scss",
       "AssetKind": "All",
@@ -1105,10 +1105,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\_nav.scss"
     },
     {
-      "Identity": "F:\\Source\\Samples\\ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\lib\\bootstrap\\scss\\_navbar.scss",
+      "Identity": "F:\\Source\\ProAspNetCore06\\04. ASP.NET Core\\09. ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\lib\\bootstrap\\scss\\_navbar.scss",
       "SourceId": "ControllersWithViewSamples",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Source\\Samples\\ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\",
+      "ContentRoot": "F:\\Source\\ProAspNetCore06\\04. ASP.NET Core\\09. ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\",
       "BasePath": "_content/ControllersWithViewSamples",
       "RelativePath": "lib/bootstrap/scss/_navbar.scss",
       "AssetKind": "All",
@@ -1122,10 +1122,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\_navbar.scss"
     },
     {
-      "Identity": "F:\\Source\\Samples\\ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\lib\\bootstrap\\scss\\_offcanvas.scss",
+      "Identity": "F:\\Source\\ProAspNetCore06\\04. ASP.NET Core\\09. ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\lib\\bootstrap\\scss\\_offcanvas.scss",
       "SourceId": "ControllersWithViewSamples",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Source\\Samples\\ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\",
+      "ContentRoot": "F:\\Source\\ProAspNetCore06\\04. ASP.NET Core\\09. ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\",
       "BasePath": "_content/ControllersWithViewSamples",
       "RelativePath": "lib/bootstrap/scss/_offcanvas.scss",
       "AssetKind": "All",
@@ -1139,10 +1139,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\_offcanvas.scss"
     },
     {
-      "Identity": "F:\\Source\\Samples\\ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\lib\\bootstrap\\scss\\_pagination.scss",
+      "Identity": "F:\\Source\\ProAspNetCore06\\04. ASP.NET Core\\09. ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\lib\\bootstrap\\scss\\_pagination.scss",
       "SourceId": "ControllersWithViewSamples",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Source\\Samples\\ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\",
+      "ContentRoot": "F:\\Source\\ProAspNetCore06\\04. ASP.NET Core\\09. ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\",
       "BasePath": "_content/ControllersWithViewSamples",
       "RelativePath": "lib/bootstrap/scss/_pagination.scss",
       "AssetKind": "All",
@@ -1156,10 +1156,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\_pagination.scss"
     },
     {
-      "Identity": "F:\\Source\\Samples\\ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\lib\\bootstrap\\scss\\_placeholders.scss",
+      "Identity": "F:\\Source\\ProAspNetCore06\\04. ASP.NET Core\\09. ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\lib\\bootstrap\\scss\\_placeholders.scss",
       "SourceId": "ControllersWithViewSamples",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Source\\Samples\\ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\",
+      "ContentRoot": "F:\\Source\\ProAspNetCore06\\04. ASP.NET Core\\09. ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\",
       "BasePath": "_content/ControllersWithViewSamples",
       "RelativePath": "lib/bootstrap/scss/_placeholders.scss",
       "AssetKind": "All",
@@ -1173,10 +1173,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\_placeholders.scss"
     },
     {
-      "Identity": "F:\\Source\\Samples\\ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\lib\\bootstrap\\scss\\_popover.scss",
+      "Identity": "F:\\Source\\ProAspNetCore06\\04. ASP.NET Core\\09. ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\lib\\bootstrap\\scss\\_popover.scss",
       "SourceId": "ControllersWithViewSamples",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Source\\Samples\\ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\",
+      "ContentRoot": "F:\\Source\\ProAspNetCore06\\04. ASP.NET Core\\09. ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\",
       "BasePath": "_content/ControllersWithViewSamples",
       "RelativePath": "lib/bootstrap/scss/_popover.scss",
       "AssetKind": "All",
@@ -1190,10 +1190,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\_popover.scss"
     },
     {
-      "Identity": "F:\\Source\\Samples\\ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\lib\\bootstrap\\scss\\_progress.scss",
+      "Identity": "F:\\Source\\ProAspNetCore06\\04. ASP.NET Core\\09. ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\lib\\bootstrap\\scss\\_progress.scss",
       "SourceId": "ControllersWithViewSamples",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Source\\Samples\\ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\",
+      "ContentRoot": "F:\\Source\\ProAspNetCore06\\04. ASP.NET Core\\09. ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\",
       "BasePath": "_content/ControllersWithViewSamples",
       "RelativePath": "lib/bootstrap/scss/_progress.scss",
       "AssetKind": "All",
@@ -1207,10 +1207,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\_progress.scss"
     },
     {
-      "Identity": "F:\\Source\\Samples\\ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\lib\\bootstrap\\scss\\_reboot.scss",
+      "Identity": "F:\\Source\\ProAspNetCore06\\04. ASP.NET Core\\09. ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\lib\\bootstrap\\scss\\_reboot.scss",
       "SourceId": "ControllersWithViewSamples",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Source\\Samples\\ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\",
+      "ContentRoot": "F:\\Source\\ProAspNetCore06\\04. ASP.NET Core\\09. ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\",
       "BasePath": "_content/ControllersWithViewSamples",
       "RelativePath": "lib/bootstrap/scss/_reboot.scss",
       "AssetKind": "All",
@@ -1224,10 +1224,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\_reboot.scss"
     },
     {
-      "Identity": "F:\\Source\\Samples\\ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\lib\\bootstrap\\scss\\_root.scss",
+      "Identity": "F:\\Source\\ProAspNetCore06\\04. ASP.NET Core\\09. ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\lib\\bootstrap\\scss\\_root.scss",
       "SourceId": "ControllersWithViewSamples",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Source\\Samples\\ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\",
+      "ContentRoot": "F:\\Source\\ProAspNetCore06\\04. ASP.NET Core\\09. ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\",
       "BasePath": "_content/ControllersWithViewSamples",
       "RelativePath": "lib/bootstrap/scss/_root.scss",
       "AssetKind": "All",
@@ -1241,10 +1241,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\_root.scss"
     },
     {
-      "Identity": "F:\\Source\\Samples\\ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\lib\\bootstrap\\scss\\_spinners.scss",
+      "Identity": "F:\\Source\\ProAspNetCore06\\04. ASP.NET Core\\09. ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\lib\\bootstrap\\scss\\_spinners.scss",
       "SourceId": "ControllersWithViewSamples",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Source\\Samples\\ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\",
+      "ContentRoot": "F:\\Source\\ProAspNetCore06\\04. ASP.NET Core\\09. ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\",
       "BasePath": "_content/ControllersWithViewSamples",
       "RelativePath": "lib/bootstrap/scss/_spinners.scss",
       "AssetKind": "All",
@@ -1258,10 +1258,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\_spinners.scss"
     },
     {
-      "Identity": "F:\\Source\\Samples\\ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\lib\\bootstrap\\scss\\_tables.scss",
+      "Identity": "F:\\Source\\ProAspNetCore06\\04. ASP.NET Core\\09. ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\lib\\bootstrap\\scss\\_tables.scss",
       "SourceId": "ControllersWithViewSamples",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Source\\Samples\\ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\",
+      "ContentRoot": "F:\\Source\\ProAspNetCore06\\04. ASP.NET Core\\09. ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\",
       "BasePath": "_content/ControllersWithViewSamples",
       "RelativePath": "lib/bootstrap/scss/_tables.scss",
       "AssetKind": "All",
@@ -1275,10 +1275,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\_tables.scss"
     },
     {
-      "Identity": "F:\\Source\\Samples\\ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\lib\\bootstrap\\scss\\_toasts.scss",
+      "Identity": "F:\\Source\\ProAspNetCore06\\04. ASP.NET Core\\09. ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\lib\\bootstrap\\scss\\_toasts.scss",
       "SourceId": "ControllersWithViewSamples",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Source\\Samples\\ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\",
+      "ContentRoot": "F:\\Source\\ProAspNetCore06\\04. ASP.NET Core\\09. ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\",
       "BasePath": "_content/ControllersWithViewSamples",
       "RelativePath": "lib/bootstrap/scss/_toasts.scss",
       "AssetKind": "All",
@@ -1292,10 +1292,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\_toasts.scss"
     },
     {
-      "Identity": "F:\\Source\\Samples\\ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\lib\\bootstrap\\scss\\_tooltip.scss",
+      "Identity": "F:\\Source\\ProAspNetCore06\\04. ASP.NET Core\\09. ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\lib\\bootstrap\\scss\\_tooltip.scss",
       "SourceId": "ControllersWithViewSamples",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Source\\Samples\\ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\",
+      "ContentRoot": "F:\\Source\\ProAspNetCore06\\04. ASP.NET Core\\09. ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\",
       "BasePath": "_content/ControllersWithViewSamples",
       "RelativePath": "lib/bootstrap/scss/_tooltip.scss",
       "AssetKind": "All",
@@ -1309,10 +1309,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\_tooltip.scss"
     },
     {
-      "Identity": "F:\\Source\\Samples\\ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\lib\\bootstrap\\scss\\_transitions.scss",
+      "Identity": "F:\\Source\\ProAspNetCore06\\04. ASP.NET Core\\09. ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\lib\\bootstrap\\scss\\_transitions.scss",
       "SourceId": "ControllersWithViewSamples",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Source\\Samples\\ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\",
+      "ContentRoot": "F:\\Source\\ProAspNetCore06\\04. ASP.NET Core\\09. ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\",
       "BasePath": "_content/ControllersWithViewSamples",
       "RelativePath": "lib/bootstrap/scss/_transitions.scss",
       "AssetKind": "All",
@@ -1326,10 +1326,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\_transitions.scss"
     },
     {
-      "Identity": "F:\\Source\\Samples\\ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\lib\\bootstrap\\scss\\_type.scss",
+      "Identity": "F:\\Source\\ProAspNetCore06\\04. ASP.NET Core\\09. ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\lib\\bootstrap\\scss\\_type.scss",
       "SourceId": "ControllersWithViewSamples",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Source\\Samples\\ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\",
+      "ContentRoot": "F:\\Source\\ProAspNetCore06\\04. ASP.NET Core\\09. ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\",
       "BasePath": "_content/ControllersWithViewSamples",
       "RelativePath": "lib/bootstrap/scss/_type.scss",
       "AssetKind": "All",
@@ -1343,10 +1343,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\_type.scss"
     },
     {
-      "Identity": "F:\\Source\\Samples\\ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\lib\\bootstrap\\scss\\_utilities.scss",
+      "Identity": "F:\\Source\\ProAspNetCore06\\04. ASP.NET Core\\09. ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\lib\\bootstrap\\scss\\_utilities.scss",
       "SourceId": "ControllersWithViewSamples",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Source\\Samples\\ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\",
+      "ContentRoot": "F:\\Source\\ProAspNetCore06\\04. ASP.NET Core\\09. ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\",
       "BasePath": "_content/ControllersWithViewSamples",
       "RelativePath": "lib/bootstrap/scss/_utilities.scss",
       "AssetKind": "All",
@@ -1360,10 +1360,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\_utilities.scss"
     },
     {
-      "Identity": "F:\\Source\\Samples\\ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\lib\\bootstrap\\scss\\_variables.scss",
+      "Identity": "F:\\Source\\ProAspNetCore06\\04. ASP.NET Core\\09. ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\lib\\bootstrap\\scss\\_variables.scss",
       "SourceId": "ControllersWithViewSamples",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Source\\Samples\\ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\",
+      "ContentRoot": "F:\\Source\\ProAspNetCore06\\04. ASP.NET Core\\09. ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\",
       "BasePath": "_content/ControllersWithViewSamples",
       "RelativePath": "lib/bootstrap/scss/_variables.scss",
       "AssetKind": "All",
@@ -1377,10 +1377,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\_variables.scss"
     },
     {
-      "Identity": "F:\\Source\\Samples\\ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\lib\\bootstrap\\scss\\bootstrap.scss",
+      "Identity": "F:\\Source\\ProAspNetCore06\\04. ASP.NET Core\\09. ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\lib\\bootstrap\\scss\\bootstrap.scss",
       "SourceId": "ControllersWithViewSamples",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Source\\Samples\\ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\",
+      "ContentRoot": "F:\\Source\\ProAspNetCore06\\04. ASP.NET Core\\09. ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\",
       "BasePath": "_content/ControllersWithViewSamples",
       "RelativePath": "lib/bootstrap/scss/bootstrap.scss",
       "AssetKind": "All",
@@ -1394,10 +1394,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\bootstrap.scss"
     },
     {
-      "Identity": "F:\\Source\\Samples\\ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\lib\\bootstrap\\scss\\bootstrap-grid.scss",
+      "Identity": "F:\\Source\\ProAspNetCore06\\04. ASP.NET Core\\09. ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\lib\\bootstrap\\scss\\bootstrap-grid.scss",
       "SourceId": "ControllersWithViewSamples",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Source\\Samples\\ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\",
+      "ContentRoot": "F:\\Source\\ProAspNetCore06\\04. ASP.NET Core\\09. ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\",
       "BasePath": "_content/ControllersWithViewSamples",
       "RelativePath": "lib/bootstrap/scss/bootstrap-grid.scss",
       "AssetKind": "All",
@@ -1411,10 +1411,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\bootstrap-grid.scss"
     },
     {
-      "Identity": "F:\\Source\\Samples\\ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\lib\\bootstrap\\scss\\bootstrap-reboot.scss",
+      "Identity": "F:\\Source\\ProAspNetCore06\\04. ASP.NET Core\\09. ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\lib\\bootstrap\\scss\\bootstrap-reboot.scss",
       "SourceId": "ControllersWithViewSamples",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Source\\Samples\\ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\",
+      "ContentRoot": "F:\\Source\\ProAspNetCore06\\04. ASP.NET Core\\09. ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\",
       "BasePath": "_content/ControllersWithViewSamples",
       "RelativePath": "lib/bootstrap/scss/bootstrap-reboot.scss",
       "AssetKind": "All",
@@ -1428,10 +1428,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\bootstrap-reboot.scss"
     },
     {
-      "Identity": "F:\\Source\\Samples\\ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\lib\\bootstrap\\scss\\bootstrap-utilities.scss",
+      "Identity": "F:\\Source\\ProAspNetCore06\\04. ASP.NET Core\\09. ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\lib\\bootstrap\\scss\\bootstrap-utilities.scss",
       "SourceId": "ControllersWithViewSamples",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Source\\Samples\\ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\",
+      "ContentRoot": "F:\\Source\\ProAspNetCore06\\04. ASP.NET Core\\09. ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\",
       "BasePath": "_content/ControllersWithViewSamples",
       "RelativePath": "lib/bootstrap/scss/bootstrap-utilities.scss",
       "AssetKind": "All",
@@ -1445,10 +1445,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\bootstrap-utilities.scss"
     },
     {
-      "Identity": "F:\\Source\\Samples\\ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\lib\\bootstrap\\scss\\forms\\_floating-labels.scss",
+      "Identity": "F:\\Source\\ProAspNetCore06\\04. ASP.NET Core\\09. ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\lib\\bootstrap\\scss\\forms\\_floating-labels.scss",
       "SourceId": "ControllersWithViewSamples",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Source\\Samples\\ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\",
+      "ContentRoot": "F:\\Source\\ProAspNetCore06\\04. ASP.NET Core\\09. ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\",
       "BasePath": "_content/ControllersWithViewSamples",
       "RelativePath": "lib/bootstrap/scss/forms/_floating-labels.scss",
       "AssetKind": "All",
@@ -1462,10 +1462,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\forms\\_floating-labels.scss"
     },
     {
-      "Identity": "F:\\Source\\Samples\\ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\lib\\bootstrap\\scss\\forms\\_form-check.scss",
+      "Identity": "F:\\Source\\ProAspNetCore06\\04. ASP.NET Core\\09. ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\lib\\bootstrap\\scss\\forms\\_form-check.scss",
       "SourceId": "ControllersWithViewSamples",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Source\\Samples\\ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\",
+      "ContentRoot": "F:\\Source\\ProAspNetCore06\\04. ASP.NET Core\\09. ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\",
       "BasePath": "_content/ControllersWithViewSamples",
       "RelativePath": "lib/bootstrap/scss/forms/_form-check.scss",
       "AssetKind": "All",
@@ -1479,10 +1479,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\forms\\_form-check.scss"
     },
     {
-      "Identity": "F:\\Source\\Samples\\ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\lib\\bootstrap\\scss\\forms\\_form-control.scss",
+      "Identity": "F:\\Source\\ProAspNetCore06\\04. ASP.NET Core\\09. ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\lib\\bootstrap\\scss\\forms\\_form-control.scss",
       "SourceId": "ControllersWithViewSamples",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Source\\Samples\\ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\",
+      "ContentRoot": "F:\\Source\\ProAspNetCore06\\04. ASP.NET Core\\09. ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\",
       "BasePath": "_content/ControllersWithViewSamples",
       "RelativePath": "lib/bootstrap/scss/forms/_form-control.scss",
       "AssetKind": "All",
@@ -1496,10 +1496,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\forms\\_form-control.scss"
     },
     {
-      "Identity": "F:\\Source\\Samples\\ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\lib\\bootstrap\\scss\\forms\\_form-range.scss",
+      "Identity": "F:\\Source\\ProAspNetCore06\\04. ASP.NET Core\\09. ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\lib\\bootstrap\\scss\\forms\\_form-range.scss",
       "SourceId": "ControllersWithViewSamples",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Source\\Samples\\ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\",
+      "ContentRoot": "F:\\Source\\ProAspNetCore06\\04. ASP.NET Core\\09. ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\",
       "BasePath": "_content/ControllersWithViewSamples",
       "RelativePath": "lib/bootstrap/scss/forms/_form-range.scss",
       "AssetKind": "All",
@@ -1513,10 +1513,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\forms\\_form-range.scss"
     },
     {
-      "Identity": "F:\\Source\\Samples\\ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\lib\\bootstrap\\scss\\forms\\_form-select.scss",
+      "Identity": "F:\\Source\\ProAspNetCore06\\04. ASP.NET Core\\09. ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\lib\\bootstrap\\scss\\forms\\_form-select.scss",
       "SourceId": "ControllersWithViewSamples",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Source\\Samples\\ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\",
+      "ContentRoot": "F:\\Source\\ProAspNetCore06\\04. ASP.NET Core\\09. ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\",
       "BasePath": "_content/ControllersWithViewSamples",
       "RelativePath": "lib/bootstrap/scss/forms/_form-select.scss",
       "AssetKind": "All",
@@ -1530,10 +1530,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\forms\\_form-select.scss"
     },
     {
-      "Identity": "F:\\Source\\Samples\\ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\lib\\bootstrap\\scss\\forms\\_form-text.scss",
+      "Identity": "F:\\Source\\ProAspNetCore06\\04. ASP.NET Core\\09. ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\lib\\bootstrap\\scss\\forms\\_form-text.scss",
       "SourceId": "ControllersWithViewSamples",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Source\\Samples\\ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\",
+      "ContentRoot": "F:\\Source\\ProAspNetCore06\\04. ASP.NET Core\\09. ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\",
       "BasePath": "_content/ControllersWithViewSamples",
       "RelativePath": "lib/bootstrap/scss/forms/_form-text.scss",
       "AssetKind": "All",
@@ -1547,10 +1547,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\forms\\_form-text.scss"
     },
     {
-      "Identity": "F:\\Source\\Samples\\ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\lib\\bootstrap\\scss\\forms\\_input-group.scss",
+      "Identity": "F:\\Source\\ProAspNetCore06\\04. ASP.NET Core\\09. ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\lib\\bootstrap\\scss\\forms\\_input-group.scss",
       "SourceId": "ControllersWithViewSamples",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Source\\Samples\\ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\",
+      "ContentRoot": "F:\\Source\\ProAspNetCore06\\04. ASP.NET Core\\09. ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\",
       "BasePath": "_content/ControllersWithViewSamples",
       "RelativePath": "lib/bootstrap/scss/forms/_input-group.scss",
       "AssetKind": "All",
@@ -1564,10 +1564,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\forms\\_input-group.scss"
     },
     {
-      "Identity": "F:\\Source\\Samples\\ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\lib\\bootstrap\\scss\\forms\\_labels.scss",
+      "Identity": "F:\\Source\\ProAspNetCore06\\04. ASP.NET Core\\09. ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\lib\\bootstrap\\scss\\forms\\_labels.scss",
       "SourceId": "ControllersWithViewSamples",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Source\\Samples\\ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\",
+      "ContentRoot": "F:\\Source\\ProAspNetCore06\\04. ASP.NET Core\\09. ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\",
       "BasePath": "_content/ControllersWithViewSamples",
       "RelativePath": "lib/bootstrap/scss/forms/_labels.scss",
       "AssetKind": "All",
@@ -1581,10 +1581,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\forms\\_labels.scss"
     },
     {
-      "Identity": "F:\\Source\\Samples\\ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\lib\\bootstrap\\scss\\forms\\_validation.scss",
+      "Identity": "F:\\Source\\ProAspNetCore06\\04. ASP.NET Core\\09. ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\lib\\bootstrap\\scss\\forms\\_validation.scss",
       "SourceId": "ControllersWithViewSamples",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Source\\Samples\\ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\",
+      "ContentRoot": "F:\\Source\\ProAspNetCore06\\04. ASP.NET Core\\09. ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\",
       "BasePath": "_content/ControllersWithViewSamples",
       "RelativePath": "lib/bootstrap/scss/forms/_validation.scss",
       "AssetKind": "All",
@@ -1598,10 +1598,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\forms\\_validation.scss"
     },
     {
-      "Identity": "F:\\Source\\Samples\\ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\lib\\bootstrap\\scss\\helpers\\_clearfix.scss",
+      "Identity": "F:\\Source\\ProAspNetCore06\\04. ASP.NET Core\\09. ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\lib\\bootstrap\\scss\\helpers\\_clearfix.scss",
       "SourceId": "ControllersWithViewSamples",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Source\\Samples\\ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\",
+      "ContentRoot": "F:\\Source\\ProAspNetCore06\\04. ASP.NET Core\\09. ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\",
       "BasePath": "_content/ControllersWithViewSamples",
       "RelativePath": "lib/bootstrap/scss/helpers/_clearfix.scss",
       "AssetKind": "All",
@@ -1615,10 +1615,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\helpers\\_clearfix.scss"
     },
     {
-      "Identity": "F:\\Source\\Samples\\ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\lib\\bootstrap\\scss\\helpers\\_colored-links.scss",
+      "Identity": "F:\\Source\\ProAspNetCore06\\04. ASP.NET Core\\09. ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\lib\\bootstrap\\scss\\helpers\\_colored-links.scss",
       "SourceId": "ControllersWithViewSamples",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Source\\Samples\\ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\",
+      "ContentRoot": "F:\\Source\\ProAspNetCore06\\04. ASP.NET Core\\09. ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\",
       "BasePath": "_content/ControllersWithViewSamples",
       "RelativePath": "lib/bootstrap/scss/helpers/_colored-links.scss",
       "AssetKind": "All",
@@ -1632,10 +1632,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\helpers\\_colored-links.scss"
     },
     {
-      "Identity": "F:\\Source\\Samples\\ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\lib\\bootstrap\\scss\\helpers\\_position.scss",
+      "Identity": "F:\\Source\\ProAspNetCore06\\04. ASP.NET Core\\09. ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\lib\\bootstrap\\scss\\helpers\\_position.scss",
       "SourceId": "ControllersWithViewSamples",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Source\\Samples\\ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\",
+      "ContentRoot": "F:\\Source\\ProAspNetCore06\\04. ASP.NET Core\\09. ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\",
       "BasePath": "_content/ControllersWithViewSamples",
       "RelativePath": "lib/bootstrap/scss/helpers/_position.scss",
       "AssetKind": "All",
@@ -1649,10 +1649,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\helpers\\_position.scss"
     },
     {
-      "Identity": "F:\\Source\\Samples\\ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\lib\\bootstrap\\scss\\helpers\\_ratio.scss",
+      "Identity": "F:\\Source\\ProAspNetCore06\\04. ASP.NET Core\\09. ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\lib\\bootstrap\\scss\\helpers\\_ratio.scss",
       "SourceId": "ControllersWithViewSamples",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Source\\Samples\\ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\",
+      "ContentRoot": "F:\\Source\\ProAspNetCore06\\04. ASP.NET Core\\09. ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\",
       "BasePath": "_content/ControllersWithViewSamples",
       "RelativePath": "lib/bootstrap/scss/helpers/_ratio.scss",
       "AssetKind": "All",
@@ -1666,10 +1666,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\helpers\\_ratio.scss"
     },
     {
-      "Identity": "F:\\Source\\Samples\\ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\lib\\bootstrap\\scss\\helpers\\_stacks.scss",
+      "Identity": "F:\\Source\\ProAspNetCore06\\04. ASP.NET Core\\09. ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\lib\\bootstrap\\scss\\helpers\\_stacks.scss",
       "SourceId": "ControllersWithViewSamples",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Source\\Samples\\ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\",
+      "ContentRoot": "F:\\Source\\ProAspNetCore06\\04. ASP.NET Core\\09. ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\",
       "BasePath": "_content/ControllersWithViewSamples",
       "RelativePath": "lib/bootstrap/scss/helpers/_stacks.scss",
       "AssetKind": "All",
@@ -1683,10 +1683,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\helpers\\_stacks.scss"
     },
     {
-      "Identity": "F:\\Source\\Samples\\ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\lib\\bootstrap\\scss\\helpers\\_stretched-link.scss",
+      "Identity": "F:\\Source\\ProAspNetCore06\\04. ASP.NET Core\\09. ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\lib\\bootstrap\\scss\\helpers\\_stretched-link.scss",
       "SourceId": "ControllersWithViewSamples",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Source\\Samples\\ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\",
+      "ContentRoot": "F:\\Source\\ProAspNetCore06\\04. ASP.NET Core\\09. ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\",
       "BasePath": "_content/ControllersWithViewSamples",
       "RelativePath": "lib/bootstrap/scss/helpers/_stretched-link.scss",
       "AssetKind": "All",
@@ -1700,10 +1700,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\helpers\\_stretched-link.scss"
     },
     {
-      "Identity": "F:\\Source\\Samples\\ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\lib\\bootstrap\\scss\\helpers\\_text-truncation.scss",
+      "Identity": "F:\\Source\\ProAspNetCore06\\04. ASP.NET Core\\09. ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\lib\\bootstrap\\scss\\helpers\\_text-truncation.scss",
       "SourceId": "ControllersWithViewSamples",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Source\\Samples\\ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\",
+      "ContentRoot": "F:\\Source\\ProAspNetCore06\\04. ASP.NET Core\\09. ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\",
       "BasePath": "_content/ControllersWithViewSamples",
       "RelativePath": "lib/bootstrap/scss/helpers/_text-truncation.scss",
       "AssetKind": "All",
@@ -1717,10 +1717,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\helpers\\_text-truncation.scss"
     },
     {
-      "Identity": "F:\\Source\\Samples\\ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\lib\\bootstrap\\scss\\helpers\\_visually-hidden.scss",
+      "Identity": "F:\\Source\\ProAspNetCore06\\04. ASP.NET Core\\09. ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\lib\\bootstrap\\scss\\helpers\\_visually-hidden.scss",
       "SourceId": "ControllersWithViewSamples",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Source\\Samples\\ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\",
+      "ContentRoot": "F:\\Source\\ProAspNetCore06\\04. ASP.NET Core\\09. ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\",
       "BasePath": "_content/ControllersWithViewSamples",
       "RelativePath": "lib/bootstrap/scss/helpers/_visually-hidden.scss",
       "AssetKind": "All",
@@ -1734,10 +1734,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\helpers\\_visually-hidden.scss"
     },
     {
-      "Identity": "F:\\Source\\Samples\\ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\lib\\bootstrap\\scss\\helpers\\_vr.scss",
+      "Identity": "F:\\Source\\ProAspNetCore06\\04. ASP.NET Core\\09. ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\lib\\bootstrap\\scss\\helpers\\_vr.scss",
       "SourceId": "ControllersWithViewSamples",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Source\\Samples\\ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\",
+      "ContentRoot": "F:\\Source\\ProAspNetCore06\\04. ASP.NET Core\\09. ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\",
       "BasePath": "_content/ControllersWithViewSamples",
       "RelativePath": "lib/bootstrap/scss/helpers/_vr.scss",
       "AssetKind": "All",
@@ -1751,10 +1751,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\helpers\\_vr.scss"
     },
     {
-      "Identity": "F:\\Source\\Samples\\ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_alert.scss",
+      "Identity": "F:\\Source\\ProAspNetCore06\\04. ASP.NET Core\\09. ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_alert.scss",
       "SourceId": "ControllersWithViewSamples",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Source\\Samples\\ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\",
+      "ContentRoot": "F:\\Source\\ProAspNetCore06\\04. ASP.NET Core\\09. ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\",
       "BasePath": "_content/ControllersWithViewSamples",
       "RelativePath": "lib/bootstrap/scss/mixins/_alert.scss",
       "AssetKind": "All",
@@ -1768,10 +1768,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\mixins\\_alert.scss"
     },
     {
-      "Identity": "F:\\Source\\Samples\\ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_backdrop.scss",
+      "Identity": "F:\\Source\\ProAspNetCore06\\04. ASP.NET Core\\09. ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_backdrop.scss",
       "SourceId": "ControllersWithViewSamples",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Source\\Samples\\ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\",
+      "ContentRoot": "F:\\Source\\ProAspNetCore06\\04. ASP.NET Core\\09. ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\",
       "BasePath": "_content/ControllersWithViewSamples",
       "RelativePath": "lib/bootstrap/scss/mixins/_backdrop.scss",
       "AssetKind": "All",
@@ -1785,10 +1785,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\mixins\\_backdrop.scss"
     },
     {
-      "Identity": "F:\\Source\\Samples\\ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_border-radius.scss",
+      "Identity": "F:\\Source\\ProAspNetCore06\\04. ASP.NET Core\\09. ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_border-radius.scss",
       "SourceId": "ControllersWithViewSamples",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Source\\Samples\\ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\",
+      "ContentRoot": "F:\\Source\\ProAspNetCore06\\04. ASP.NET Core\\09. ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\",
       "BasePath": "_content/ControllersWithViewSamples",
       "RelativePath": "lib/bootstrap/scss/mixins/_border-radius.scss",
       "AssetKind": "All",
@@ -1802,10 +1802,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\mixins\\_border-radius.scss"
     },
     {
-      "Identity": "F:\\Source\\Samples\\ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_box-shadow.scss",
+      "Identity": "F:\\Source\\ProAspNetCore06\\04. ASP.NET Core\\09. ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_box-shadow.scss",
       "SourceId": "ControllersWithViewSamples",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Source\\Samples\\ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\",
+      "ContentRoot": "F:\\Source\\ProAspNetCore06\\04. ASP.NET Core\\09. ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\",
       "BasePath": "_content/ControllersWithViewSamples",
       "RelativePath": "lib/bootstrap/scss/mixins/_box-shadow.scss",
       "AssetKind": "All",
@@ -1819,10 +1819,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\mixins\\_box-shadow.scss"
     },
     {
-      "Identity": "F:\\Source\\Samples\\ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_breakpoints.scss",
+      "Identity": "F:\\Source\\ProAspNetCore06\\04. ASP.NET Core\\09. ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_breakpoints.scss",
       "SourceId": "ControllersWithViewSamples",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Source\\Samples\\ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\",
+      "ContentRoot": "F:\\Source\\ProAspNetCore06\\04. ASP.NET Core\\09. ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\",
       "BasePath": "_content/ControllersWithViewSamples",
       "RelativePath": "lib/bootstrap/scss/mixins/_breakpoints.scss",
       "AssetKind": "All",
@@ -1836,10 +1836,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\mixins\\_breakpoints.scss"
     },
     {
-      "Identity": "F:\\Source\\Samples\\ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_buttons.scss",
+      "Identity": "F:\\Source\\ProAspNetCore06\\04. ASP.NET Core\\09. ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_buttons.scss",
       "SourceId": "ControllersWithViewSamples",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Source\\Samples\\ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\",
+      "ContentRoot": "F:\\Source\\ProAspNetCore06\\04. ASP.NET Core\\09. ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\",
       "BasePath": "_content/ControllersWithViewSamples",
       "RelativePath": "lib/bootstrap/scss/mixins/_buttons.scss",
       "AssetKind": "All",
@@ -1853,10 +1853,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\mixins\\_buttons.scss"
     },
     {
-      "Identity": "F:\\Source\\Samples\\ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_caret.scss",
+      "Identity": "F:\\Source\\ProAspNetCore06\\04. ASP.NET Core\\09. ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_caret.scss",
       "SourceId": "ControllersWithViewSamples",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Source\\Samples\\ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\",
+      "ContentRoot": "F:\\Source\\ProAspNetCore06\\04. ASP.NET Core\\09. ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\",
       "BasePath": "_content/ControllersWithViewSamples",
       "RelativePath": "lib/bootstrap/scss/mixins/_caret.scss",
       "AssetKind": "All",
@@ -1870,10 +1870,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\mixins\\_caret.scss"
     },
     {
-      "Identity": "F:\\Source\\Samples\\ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_clearfix.scss",
+      "Identity": "F:\\Source\\ProAspNetCore06\\04. ASP.NET Core\\09. ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_clearfix.scss",
       "SourceId": "ControllersWithViewSamples",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Source\\Samples\\ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\",
+      "ContentRoot": "F:\\Source\\ProAspNetCore06\\04. ASP.NET Core\\09. ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\",
       "BasePath": "_content/ControllersWithViewSamples",
       "RelativePath": "lib/bootstrap/scss/mixins/_clearfix.scss",
       "AssetKind": "All",
@@ -1887,10 +1887,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\mixins\\_clearfix.scss"
     },
     {
-      "Identity": "F:\\Source\\Samples\\ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_color-scheme.scss",
+      "Identity": "F:\\Source\\ProAspNetCore06\\04. ASP.NET Core\\09. ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_color-scheme.scss",
       "SourceId": "ControllersWithViewSamples",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Source\\Samples\\ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\",
+      "ContentRoot": "F:\\Source\\ProAspNetCore06\\04. ASP.NET Core\\09. ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\",
       "BasePath": "_content/ControllersWithViewSamples",
       "RelativePath": "lib/bootstrap/scss/mixins/_color-scheme.scss",
       "AssetKind": "All",
@@ -1904,10 +1904,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\mixins\\_color-scheme.scss"
     },
     {
-      "Identity": "F:\\Source\\Samples\\ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_container.scss",
+      "Identity": "F:\\Source\\ProAspNetCore06\\04. ASP.NET Core\\09. ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_container.scss",
       "SourceId": "ControllersWithViewSamples",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Source\\Samples\\ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\",
+      "ContentRoot": "F:\\Source\\ProAspNetCore06\\04. ASP.NET Core\\09. ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\",
       "BasePath": "_content/ControllersWithViewSamples",
       "RelativePath": "lib/bootstrap/scss/mixins/_container.scss",
       "AssetKind": "All",
@@ -1921,10 +1921,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\mixins\\_container.scss"
     },
     {
-      "Identity": "F:\\Source\\Samples\\ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_deprecate.scss",
+      "Identity": "F:\\Source\\ProAspNetCore06\\04. ASP.NET Core\\09. ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_deprecate.scss",
       "SourceId": "ControllersWithViewSamples",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Source\\Samples\\ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\",
+      "ContentRoot": "F:\\Source\\ProAspNetCore06\\04. ASP.NET Core\\09. ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\",
       "BasePath": "_content/ControllersWithViewSamples",
       "RelativePath": "lib/bootstrap/scss/mixins/_deprecate.scss",
       "AssetKind": "All",
@@ -1938,10 +1938,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\mixins\\_deprecate.scss"
     },
     {
-      "Identity": "F:\\Source\\Samples\\ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_forms.scss",
+      "Identity": "F:\\Source\\ProAspNetCore06\\04. ASP.NET Core\\09. ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_forms.scss",
       "SourceId": "ControllersWithViewSamples",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Source\\Samples\\ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\",
+      "ContentRoot": "F:\\Source\\ProAspNetCore06\\04. ASP.NET Core\\09. ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\",
       "BasePath": "_content/ControllersWithViewSamples",
       "RelativePath": "lib/bootstrap/scss/mixins/_forms.scss",
       "AssetKind": "All",
@@ -1955,10 +1955,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\mixins\\_forms.scss"
     },
     {
-      "Identity": "F:\\Source\\Samples\\ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_gradients.scss",
+      "Identity": "F:\\Source\\ProAspNetCore06\\04. ASP.NET Core\\09. ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_gradients.scss",
       "SourceId": "ControllersWithViewSamples",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Source\\Samples\\ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\",
+      "ContentRoot": "F:\\Source\\ProAspNetCore06\\04. ASP.NET Core\\09. ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\",
       "BasePath": "_content/ControllersWithViewSamples",
       "RelativePath": "lib/bootstrap/scss/mixins/_gradients.scss",
       "AssetKind": "All",
@@ -1972,10 +1972,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\mixins\\_gradients.scss"
     },
     {
-      "Identity": "F:\\Source\\Samples\\ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_grid.scss",
+      "Identity": "F:\\Source\\ProAspNetCore06\\04. ASP.NET Core\\09. ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_grid.scss",
       "SourceId": "ControllersWithViewSamples",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Source\\Samples\\ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\",
+      "ContentRoot": "F:\\Source\\ProAspNetCore06\\04. ASP.NET Core\\09. ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\",
       "BasePath": "_content/ControllersWithViewSamples",
       "RelativePath": "lib/bootstrap/scss/mixins/_grid.scss",
       "AssetKind": "All",
@@ -1989,10 +1989,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\mixins\\_grid.scss"
     },
     {
-      "Identity": "F:\\Source\\Samples\\ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_image.scss",
+      "Identity": "F:\\Source\\ProAspNetCore06\\04. ASP.NET Core\\09. ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_image.scss",
       "SourceId": "ControllersWithViewSamples",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Source\\Samples\\ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\",
+      "ContentRoot": "F:\\Source\\ProAspNetCore06\\04. ASP.NET Core\\09. ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\",
       "BasePath": "_content/ControllersWithViewSamples",
       "RelativePath": "lib/bootstrap/scss/mixins/_image.scss",
       "AssetKind": "All",
@@ -2006,10 +2006,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\mixins\\_image.scss"
     },
     {
-      "Identity": "F:\\Source\\Samples\\ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_list-group.scss",
+      "Identity": "F:\\Source\\ProAspNetCore06\\04. ASP.NET Core\\09. ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_list-group.scss",
       "SourceId": "ControllersWithViewSamples",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Source\\Samples\\ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\",
+      "ContentRoot": "F:\\Source\\ProAspNetCore06\\04. ASP.NET Core\\09. ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\",
       "BasePath": "_content/ControllersWithViewSamples",
       "RelativePath": "lib/bootstrap/scss/mixins/_list-group.scss",
       "AssetKind": "All",
@@ -2023,10 +2023,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\mixins\\_list-group.scss"
     },
     {
-      "Identity": "F:\\Source\\Samples\\ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_lists.scss",
+      "Identity": "F:\\Source\\ProAspNetCore06\\04. ASP.NET Core\\09. ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_lists.scss",
       "SourceId": "ControllersWithViewSamples",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Source\\Samples\\ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\",
+      "ContentRoot": "F:\\Source\\ProAspNetCore06\\04. ASP.NET Core\\09. ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\",
       "BasePath": "_content/ControllersWithViewSamples",
       "RelativePath": "lib/bootstrap/scss/mixins/_lists.scss",
       "AssetKind": "All",
@@ -2040,10 +2040,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\mixins\\_lists.scss"
     },
     {
-      "Identity": "F:\\Source\\Samples\\ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_pagination.scss",
+      "Identity": "F:\\Source\\ProAspNetCore06\\04. ASP.NET Core\\09. ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_pagination.scss",
       "SourceId": "ControllersWithViewSamples",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Source\\Samples\\ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\",
+      "ContentRoot": "F:\\Source\\ProAspNetCore06\\04. ASP.NET Core\\09. ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\",
       "BasePath": "_content/ControllersWithViewSamples",
       "RelativePath": "lib/bootstrap/scss/mixins/_pagination.scss",
       "AssetKind": "All",
@@ -2057,10 +2057,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\mixins\\_pagination.scss"
     },
     {
-      "Identity": "F:\\Source\\Samples\\ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_reset-text.scss",
+      "Identity": "F:\\Source\\ProAspNetCore06\\04. ASP.NET Core\\09. ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_reset-text.scss",
       "SourceId": "ControllersWithViewSamples",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Source\\Samples\\ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\",
+      "ContentRoot": "F:\\Source\\ProAspNetCore06\\04. ASP.NET Core\\09. ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\",
       "BasePath": "_content/ControllersWithViewSamples",
       "RelativePath": "lib/bootstrap/scss/mixins/_reset-text.scss",
       "AssetKind": "All",
@@ -2074,10 +2074,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\mixins\\_reset-text.scss"
     },
     {
-      "Identity": "F:\\Source\\Samples\\ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_resize.scss",
+      "Identity": "F:\\Source\\ProAspNetCore06\\04. ASP.NET Core\\09. ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_resize.scss",
       "SourceId": "ControllersWithViewSamples",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Source\\Samples\\ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\",
+      "ContentRoot": "F:\\Source\\ProAspNetCore06\\04. ASP.NET Core\\09. ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\",
       "BasePath": "_content/ControllersWithViewSamples",
       "RelativePath": "lib/bootstrap/scss/mixins/_resize.scss",
       "AssetKind": "All",
@@ -2091,10 +2091,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\mixins\\_resize.scss"
     },
     {
-      "Identity": "F:\\Source\\Samples\\ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_table-variants.scss",
+      "Identity": "F:\\Source\\ProAspNetCore06\\04. ASP.NET Core\\09. ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_table-variants.scss",
       "SourceId": "ControllersWithViewSamples",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Source\\Samples\\ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\",
+      "ContentRoot": "F:\\Source\\ProAspNetCore06\\04. ASP.NET Core\\09. ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\",
       "BasePath": "_content/ControllersWithViewSamples",
       "RelativePath": "lib/bootstrap/scss/mixins/_table-variants.scss",
       "AssetKind": "All",
@@ -2108,10 +2108,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\mixins\\_table-variants.scss"
     },
     {
-      "Identity": "F:\\Source\\Samples\\ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_text-truncate.scss",
+      "Identity": "F:\\Source\\ProAspNetCore06\\04. ASP.NET Core\\09. ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_text-truncate.scss",
       "SourceId": "ControllersWithViewSamples",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Source\\Samples\\ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\",
+      "ContentRoot": "F:\\Source\\ProAspNetCore06\\04. ASP.NET Core\\09. ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\",
       "BasePath": "_content/ControllersWithViewSamples",
       "RelativePath": "lib/bootstrap/scss/mixins/_text-truncate.scss",
       "AssetKind": "All",
@@ -2125,10 +2125,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\mixins\\_text-truncate.scss"
     },
     {
-      "Identity": "F:\\Source\\Samples\\ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_transition.scss",
+      "Identity": "F:\\Source\\ProAspNetCore06\\04. ASP.NET Core\\09. ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_transition.scss",
       "SourceId": "ControllersWithViewSamples",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Source\\Samples\\ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\",
+      "ContentRoot": "F:\\Source\\ProAspNetCore06\\04. ASP.NET Core\\09. ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\",
       "BasePath": "_content/ControllersWithViewSamples",
       "RelativePath": "lib/bootstrap/scss/mixins/_transition.scss",
       "AssetKind": "All",
@@ -2142,10 +2142,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\mixins\\_transition.scss"
     },
     {
-      "Identity": "F:\\Source\\Samples\\ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_utilities.scss",
+      "Identity": "F:\\Source\\ProAspNetCore06\\04. ASP.NET Core\\09. ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_utilities.scss",
       "SourceId": "ControllersWithViewSamples",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Source\\Samples\\ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\",
+      "ContentRoot": "F:\\Source\\ProAspNetCore06\\04. ASP.NET Core\\09. ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\",
       "BasePath": "_content/ControllersWithViewSamples",
       "RelativePath": "lib/bootstrap/scss/mixins/_utilities.scss",
       "AssetKind": "All",
@@ -2159,10 +2159,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\mixins\\_utilities.scss"
     },
     {
-      "Identity": "F:\\Source\\Samples\\ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_visually-hidden.scss",
+      "Identity": "F:\\Source\\ProAspNetCore06\\04. ASP.NET Core\\09. ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_visually-hidden.scss",
       "SourceId": "ControllersWithViewSamples",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Source\\Samples\\ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\",
+      "ContentRoot": "F:\\Source\\ProAspNetCore06\\04. ASP.NET Core\\09. ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\",
       "BasePath": "_content/ControllersWithViewSamples",
       "RelativePath": "lib/bootstrap/scss/mixins/_visually-hidden.scss",
       "AssetKind": "All",
@@ -2176,10 +2176,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\mixins\\_visually-hidden.scss"
     },
     {
-      "Identity": "F:\\Source\\Samples\\ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\lib\\bootstrap\\scss\\utilities\\_api.scss",
+      "Identity": "F:\\Source\\ProAspNetCore06\\04. ASP.NET Core\\09. ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\lib\\bootstrap\\scss\\utilities\\_api.scss",
       "SourceId": "ControllersWithViewSamples",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Source\\Samples\\ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\",
+      "ContentRoot": "F:\\Source\\ProAspNetCore06\\04. ASP.NET Core\\09. ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\",
       "BasePath": "_content/ControllersWithViewSamples",
       "RelativePath": "lib/bootstrap/scss/utilities/_api.scss",
       "AssetKind": "All",
@@ -2193,10 +2193,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\utilities\\_api.scss"
     },
     {
-      "Identity": "F:\\Source\\Samples\\ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\lib\\bootstrap\\scss\\vendor\\_rfs.scss",
+      "Identity": "F:\\Source\\ProAspNetCore06\\04. ASP.NET Core\\09. ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\lib\\bootstrap\\scss\\vendor\\_rfs.scss",
       "SourceId": "ControllersWithViewSamples",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Source\\Samples\\ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\",
+      "ContentRoot": "F:\\Source\\ProAspNetCore06\\04. ASP.NET Core\\09. ControllersWithViewSamples\\ControllersWithViewSamples\\wwwroot\\",
       "BasePath": "_content/ControllersWithViewSamples",
       "RelativePath": "lib/bootstrap/scss/vendor/_rfs.scss",
       "AssetKind": "All",
