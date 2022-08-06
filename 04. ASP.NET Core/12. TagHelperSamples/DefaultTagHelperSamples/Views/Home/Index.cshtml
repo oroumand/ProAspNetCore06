@@ -1,0 +1,21 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+    <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+</div>
+
+<cache expires-after="TimeSpan.FromSeconds(10)">
+    @DateTime.Now.Ticks
+</cache>
+<environment include="Development">
+
+    <h1>Development</h1>
+</environment>
+
+<environment include="Production">
+
+    <h1>Production</h1>
+</environment>

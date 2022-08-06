@@ -1,0 +1,31 @@
+﻿@model DefaultTagHelperSamples.Models.Person
+
+<form asp-controller="Person" asp-action="Save" method="post">
+    <div asp-validation-summary="All"></div>
+    <div>
+        <label asp-for="FirstName"></label>
+        <input asp-for="FirstName" type="text" class="form-control" />
+        <span asp-validation-for="FirstName"></span>
+    </div>
+    <div class="input-group">
+        <label asp-for="LastName"></label>
+        <input asp-for="LastName" type="text" class="form-control" />
+        <span asp-validation-for="LastName"></span>
+    </div>
+    <div class="input-group">
+        <label asp-for="Birthday"></label>
+        <input asp-for="Birthday" type="datetime" class="form-control" />
+        <span asp-validation-for="Birthday"></span>
+    </div>
+
+    <div class="input-group">
+        <label asp-for="Age"></label>
+        <input asp-for="Age" type="number" class="form-control" />
+        <span asp-validation-for="Age"></span>
+    </div>
+    <div>
+        <input type="submit" value="Save" />
+    </div>   
+</form>
+
+<a asp-controller="Home" asp-action="Privacy" asp-route-Id="123" asp-route-fullname="AlirezaOroumand">Move To Privacy</a>
