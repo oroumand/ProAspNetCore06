@@ -1,0 +1,72 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = ModelBindingSamples
+build_property.RootNamespace = ModelBindingSamples
+build_property.ProjectDir = F:\Source\Samples\ModelBindingSamples\ModelBindingSamples\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = F:\Source\Samples\ModelBindingSamples\ModelBindingSamples
+build_property._RazorSourceGeneratorDebug = 
+
+[F:/Source/Samples/ModelBindingSamples/ModelBindingSamples/Pages/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Source/Samples/ModelBindingSamples/ModelBindingSamples/Pages/ProductPage.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJvZHVjdFBhZ2UuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Source/Samples/ModelBindingSamples/ModelBindingSamples/Pages/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Source/Samples/ModelBindingSamples/ModelBindingSamples/Views/Home/BoolInput.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxCb29sSW5wdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Source/Samples/ModelBindingSamples/ModelBindingSamples/Views/Home/Collection.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDb2xsZWN0aW9uLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Source/Samples/ModelBindingSamples/ModelBindingSamples/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Source/Samples/ModelBindingSamples/ModelBindingSamples/Views/Home/IntInput.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbnRJbnB1dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Source/Samples/ModelBindingSamples/ModelBindingSamples/Views/Products/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdHNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Source/Samples/ModelBindingSamples/ModelBindingSamples/Views/Products/InvalidId.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdHNcSW52YWxpZElkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Source/Samples/ModelBindingSamples/ModelBindingSamples/Views/Products/Result.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdHNcUmVzdWx0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Source/Samples/ModelBindingSamples/ModelBindingSamples/Views/Products/Save.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdHNcU2F2ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Source/Samples/ModelBindingSamples/ModelBindingSamples/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Source/Samples/ModelBindingSamples/ModelBindingSamples/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Source/Samples/ModelBindingSamples/ModelBindingSamples/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
