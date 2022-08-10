@@ -1,0 +1,22 @@
+﻿@model SavePersonVm
+@{
+    if (TempData.Keys.Contains("Validation"))
+    {
+        var validation = TempData["Validation"];
+
+        List<string> messages = (List<string>)validation;
+    }
+}
+<form asp-controller="Person" asp-action="ExplicitSave" method="post">
+    <div class="form-group">
+        <label asp-for="FirstName"></label>
+        <input type="text" asp-for="FirstName" class="form-control" />
+    </div>
+    <div class="form-group">
+        <label asp-for="LastName"></label>
+        <input type="text" asp-for="LastName" class="form-control" />
+    </div>
+    <div>
+        <input type="submit" value="Save" class="btn btn-success" />
+    </div>
+</form>
