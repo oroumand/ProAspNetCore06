@@ -1,0 +1,41 @@
+﻿@model List<IdentityRole>
+<h3>Role List</h3>
+<table class="table table-bordered table-striped">
+    <tr>
+        <td>Id</td>
+        <td>Name</td>
+        <td>Actions</td>
+    </tr>
+    @if (Model.Any())
+    {
+        foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @item.Id
+                </td>
+                <td>
+                    @item.Name
+                </td>
+                <td>
+                    <form asp-action="Delete" method="post">
+                        <input type="hidden" value="@item.Name" name="Name">
+                        <button type="submit" class="btn btn-danger">Remove</button>
+                    </form>
+                    <a asp-action="Edit" asp-route-id="@item.Id" class="btn btn-info">Edit</a>
+                </td>
+
+            </tr>
+        }
+    }
+    else
+
+    {
+        <tr>
+            <td colspan="3">There is no Role</td>
+        </tr>
+    }
+
+</table>
+
+<a asp-action="Create" class="btn btn-success">Create</a>
