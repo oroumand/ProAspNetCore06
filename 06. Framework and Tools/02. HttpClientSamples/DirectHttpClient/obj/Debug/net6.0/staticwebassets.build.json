@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "eX6+J4E3aHQVAFhZz0ACNL0pj3IA9hGgqAtI0EbHXPA=",
+  "Source": "DirectHttpClient",
+  "BasePath": "_content/DirectHttpClient",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

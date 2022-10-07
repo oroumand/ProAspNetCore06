@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "S9cQyRvqc+UM3g4lp2nLwn/DAuKIQOkVin3luhxlQc0=",
+  "Source": "MyHttpClient",
+  "BasePath": "_content/MyHttpClient",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
