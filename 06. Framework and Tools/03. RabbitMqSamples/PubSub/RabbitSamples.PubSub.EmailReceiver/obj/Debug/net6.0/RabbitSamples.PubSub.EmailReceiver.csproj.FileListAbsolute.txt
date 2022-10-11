@@ -1,0 +1,17 @@
+F:\Source\ProMicroservice\33. RabbitMqSamples\PubSub\RabbitSamples.PubSub.EmailReceiver\bin\Debug\net6.0\RabbitSamples.PubSub.EmailReceiver.exe
+F:\Source\ProMicroservice\33. RabbitMqSamples\PubSub\RabbitSamples.PubSub.EmailReceiver\bin\Debug\net6.0\RabbitSamples.PubSub.EmailReceiver.deps.json
+F:\Source\ProMicroservice\33. RabbitMqSamples\PubSub\RabbitSamples.PubSub.EmailReceiver\bin\Debug\net6.0\RabbitSamples.PubSub.EmailReceiver.runtimeconfig.json
+F:\Source\ProMicroservice\33. RabbitMqSamples\PubSub\RabbitSamples.PubSub.EmailReceiver\bin\Debug\net6.0\RabbitSamples.PubSub.EmailReceiver.dll
+F:\Source\ProMicroservice\33. RabbitMqSamples\PubSub\RabbitSamples.PubSub.EmailReceiver\bin\Debug\net6.0\RabbitSamples.PubSub.EmailReceiver.pdb
+F:\Source\ProMicroservice\33. RabbitMqSamples\PubSub\RabbitSamples.PubSub.EmailReceiver\bin\Debug\net6.0\RabbitMQ.Client.dll
+F:\Source\ProMicroservice\33. RabbitMqSamples\PubSub\RabbitSamples.PubSub.EmailReceiver\obj\Debug\net6.0\RabbitSamples.PubSub.EmailReceiver.csproj.AssemblyReference.cache
+F:\Source\ProMicroservice\33. RabbitMqSamples\PubSub\RabbitSamples.PubSub.EmailReceiver\obj\Debug\net6.0\RabbitSamples.PubSub.EmailReceiver.GeneratedMSBuildEditorConfig.editorconfig
+F:\Source\ProMicroservice\33. RabbitMqSamples\PubSub\RabbitSamples.PubSub.EmailReceiver\obj\Debug\net6.0\RabbitSamples.PubSub.EmailReceiver.AssemblyInfoInputs.cache
+F:\Source\ProMicroservice\33. RabbitMqSamples\PubSub\RabbitSamples.PubSub.EmailReceiver\obj\Debug\net6.0\RabbitSamples.PubSub.EmailReceiver.AssemblyInfo.cs
+F:\Source\ProMicroservice\33. RabbitMqSamples\PubSub\RabbitSamples.PubSub.EmailReceiver\obj\Debug\net6.0\RabbitSamples.PubSub.EmailReceiver.csproj.CoreCompileInputs.cache
+F:\Source\ProMicroservice\33. RabbitMqSamples\PubSub\RabbitSamples.PubSub.EmailReceiver\obj\Debug\net6.0\RabbitSamples.PubSub.EmailReceiver.csproj.CopyComplete
+F:\Source\ProMicroservice\33. RabbitMqSamples\PubSub\RabbitSamples.PubSub.EmailReceiver\obj\Debug\net6.0\RabbitSamples.PubSub.EmailReceiver.dll
+F:\Source\ProMicroservice\33. RabbitMqSamples\PubSub\RabbitSamples.PubSub.EmailReceiver\obj\Debug\net6.0\refint\RabbitSamples.PubSub.EmailReceiver.dll
+F:\Source\ProMicroservice\33. RabbitMqSamples\PubSub\RabbitSamples.PubSub.EmailReceiver\obj\Debug\net6.0\RabbitSamples.PubSub.EmailReceiver.pdb
+F:\Source\ProMicroservice\33. RabbitMqSamples\PubSub\RabbitSamples.PubSub.EmailReceiver\obj\Debug\net6.0\RabbitSamples.PubSub.EmailReceiver.genruntimeconfig.cache
+F:\Source\ProMicroservice\33. RabbitMqSamples\PubSub\RabbitSamples.PubSub.EmailReceiver\obj\Debug\net6.0\ref\RabbitSamples.PubSub.EmailReceiver.dll

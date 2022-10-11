@@ -1,0 +1,17 @@
+F:\Source\ProMicroservice\33. RabbitMqSamples\TopicRouting\RabbitSamples.TopicRouting.EmailReceiver\bin\Debug\net6.0\RabbitSamples.TopicRouting.EmailReceiver.exe
+F:\Source\ProMicroservice\33. RabbitMqSamples\TopicRouting\RabbitSamples.TopicRouting.EmailReceiver\bin\Debug\net6.0\RabbitSamples.TopicRouting.EmailReceiver.deps.json
+F:\Source\ProMicroservice\33. RabbitMqSamples\TopicRouting\RabbitSamples.TopicRouting.EmailReceiver\bin\Debug\net6.0\RabbitSamples.TopicRouting.EmailReceiver.runtimeconfig.json
+F:\Source\ProMicroservice\33. RabbitMqSamples\TopicRouting\RabbitSamples.TopicRouting.EmailReceiver\bin\Debug\net6.0\RabbitSamples.TopicRouting.EmailReceiver.dll
+F:\Source\ProMicroservice\33. RabbitMqSamples\TopicRouting\RabbitSamples.TopicRouting.EmailReceiver\bin\Debug\net6.0\RabbitSamples.TopicRouting.EmailReceiver.pdb
+F:\Source\ProMicroservice\33. RabbitMqSamples\TopicRouting\RabbitSamples.TopicRouting.EmailReceiver\bin\Debug\net6.0\RabbitMQ.Client.dll
+F:\Source\ProMicroservice\33. RabbitMqSamples\TopicRouting\RabbitSamples.TopicRouting.EmailReceiver\obj\Debug\net6.0\RabbitSamples.TopicRouting.EmailReceiver.csproj.AssemblyReference.cache
+F:\Source\ProMicroservice\33. RabbitMqSamples\TopicRouting\RabbitSamples.TopicRouting.EmailReceiver\obj\Debug\net6.0\RabbitSamples.TopicRouting.EmailReceiver.GeneratedMSBuildEditorConfig.editorconfig
+F:\Source\ProMicroservice\33. RabbitMqSamples\TopicRouting\RabbitSamples.TopicRouting.EmailReceiver\obj\Debug\net6.0\RabbitSamples.TopicRouting.EmailReceiver.AssemblyInfoInputs.cache
+F:\Source\ProMicroservice\33. RabbitMqSamples\TopicRouting\RabbitSamples.TopicRouting.EmailReceiver\obj\Debug\net6.0\RabbitSamples.TopicRouting.EmailReceiver.AssemblyInfo.cs
+F:\Source\ProMicroservice\33. RabbitMqSamples\TopicRouting\RabbitSamples.TopicRouting.EmailReceiver\obj\Debug\net6.0\RabbitSamples.TopicRouting.EmailReceiver.csproj.CoreCompileInputs.cache
+F:\Source\ProMicroservice\33. RabbitMqSamples\TopicRouting\RabbitSamples.TopicRouting.EmailReceiver\obj\Debug\net6.0\RabbitSamples.TopicRouting.EmailReceiver.csproj.CopyComplete
+F:\Source\ProMicroservice\33. RabbitMqSamples\TopicRouting\RabbitSamples.TopicRouting.EmailReceiver\obj\Debug\net6.0\RabbitSamples.TopicRouting.EmailReceiver.dll
+F:\Source\ProMicroservice\33. RabbitMqSamples\TopicRouting\RabbitSamples.TopicRouting.EmailReceiver\obj\Debug\net6.0\refint\RabbitSamples.TopicRouting.EmailReceiver.dll
+F:\Source\ProMicroservice\33. RabbitMqSamples\TopicRouting\RabbitSamples.TopicRouting.EmailReceiver\obj\Debug\net6.0\RabbitSamples.TopicRouting.EmailReceiver.pdb
+F:\Source\ProMicroservice\33. RabbitMqSamples\TopicRouting\RabbitSamples.TopicRouting.EmailReceiver\obj\Debug\net6.0\RabbitSamples.TopicRouting.EmailReceiver.genruntimeconfig.cache
+F:\Source\ProMicroservice\33. RabbitMqSamples\TopicRouting\RabbitSamples.TopicRouting.EmailReceiver\obj\Debug\net6.0\ref\RabbitSamples.TopicRouting.EmailReceiver.dll

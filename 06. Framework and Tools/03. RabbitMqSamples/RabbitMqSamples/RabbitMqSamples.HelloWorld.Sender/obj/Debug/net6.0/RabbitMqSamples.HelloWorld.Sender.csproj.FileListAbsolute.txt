@@ -1,0 +1,34 @@
+F:\Source\Samples\RabbitMqSamples\RabbitMqSamples\RabbitMqSamples.HelloWorld.Sender\bin\Debug\net6.0\RabbitMqSamples.HelloWorld.Sender.exe
+F:\Source\Samples\RabbitMqSamples\RabbitMqSamples\RabbitMqSamples.HelloWorld.Sender\bin\Debug\net6.0\RabbitMqSamples.HelloWorld.Sender.deps.json
+F:\Source\Samples\RabbitMqSamples\RabbitMqSamples\RabbitMqSamples.HelloWorld.Sender\bin\Debug\net6.0\RabbitMqSamples.HelloWorld.Sender.runtimeconfig.json
+F:\Source\Samples\RabbitMqSamples\RabbitMqSamples\RabbitMqSamples.HelloWorld.Sender\bin\Debug\net6.0\RabbitMqSamples.HelloWorld.Sender.dll
+F:\Source\Samples\RabbitMqSamples\RabbitMqSamples\RabbitMqSamples.HelloWorld.Sender\bin\Debug\net6.0\RabbitMqSamples.HelloWorld.Sender.pdb
+F:\Source\Samples\RabbitMqSamples\RabbitMqSamples\RabbitMqSamples.HelloWorld.Sender\bin\Debug\net6.0\RabbitMQ.Client.dll
+F:\Source\Samples\RabbitMqSamples\RabbitMqSamples\RabbitMqSamples.HelloWorld.Sender\obj\Debug\net6.0\RabbitMqSamples.HelloWorld.Sender.csproj.AssemblyReference.cache
+F:\Source\Samples\RabbitMqSamples\RabbitMqSamples\RabbitMqSamples.HelloWorld.Sender\obj\Debug\net6.0\RabbitMqSamples.HelloWorld.Sender.GeneratedMSBuildEditorConfig.editorconfig
+F:\Source\Samples\RabbitMqSamples\RabbitMqSamples\RabbitMqSamples.HelloWorld.Sender\obj\Debug\net6.0\RabbitMqSamples.HelloWorld.Sender.AssemblyInfoInputs.cache
+F:\Source\Samples\RabbitMqSamples\RabbitMqSamples\RabbitMqSamples.HelloWorld.Sender\obj\Debug\net6.0\RabbitMqSamples.HelloWorld.Sender.AssemblyInfo.cs
+F:\Source\Samples\RabbitMqSamples\RabbitMqSamples\RabbitMqSamples.HelloWorld.Sender\obj\Debug\net6.0\RabbitMqSamples.HelloWorld.Sender.csproj.CoreCompileInputs.cache
+F:\Source\Samples\RabbitMqSamples\RabbitMqSamples\RabbitMqSamples.HelloWorld.Sender\obj\Debug\net6.0\RabbitMqSamples.HelloWorld.Sender.csproj.CopyComplete
+F:\Source\Samples\RabbitMqSamples\RabbitMqSamples\RabbitMqSamples.HelloWorld.Sender\obj\Debug\net6.0\RabbitMqSamples.HelloWorld.Sender.dll
+F:\Source\Samples\RabbitMqSamples\RabbitMqSamples\RabbitMqSamples.HelloWorld.Sender\obj\Debug\net6.0\refint\RabbitMqSamples.HelloWorld.Sender.dll
+F:\Source\Samples\RabbitMqSamples\RabbitMqSamples\RabbitMqSamples.HelloWorld.Sender\obj\Debug\net6.0\RabbitMqSamples.HelloWorld.Sender.pdb
+F:\Source\Samples\RabbitMqSamples\RabbitMqSamples\RabbitMqSamples.HelloWorld.Sender\obj\Debug\net6.0\RabbitMqSamples.HelloWorld.Sender.genruntimeconfig.cache
+F:\Source\Samples\RabbitMqSamples\RabbitMqSamples\RabbitMqSamples.HelloWorld.Sender\obj\Debug\net6.0\ref\RabbitMqSamples.HelloWorld.Sender.dll
+F:\Source\ProMicroservice\33. RabbitMqSamples\RabbitMqSamples\RabbitMqSamples.HelloWorld.Sender\bin\Debug\net6.0\RabbitMqSamples.HelloWorld.Sender.exe
+F:\Source\ProMicroservice\33. RabbitMqSamples\RabbitMqSamples\RabbitMqSamples.HelloWorld.Sender\bin\Debug\net6.0\RabbitMqSamples.HelloWorld.Sender.deps.json
+F:\Source\ProMicroservice\33. RabbitMqSamples\RabbitMqSamples\RabbitMqSamples.HelloWorld.Sender\bin\Debug\net6.0\RabbitMqSamples.HelloWorld.Sender.runtimeconfig.json
+F:\Source\ProMicroservice\33. RabbitMqSamples\RabbitMqSamples\RabbitMqSamples.HelloWorld.Sender\bin\Debug\net6.0\RabbitMqSamples.HelloWorld.Sender.dll
+F:\Source\ProMicroservice\33. RabbitMqSamples\RabbitMqSamples\RabbitMqSamples.HelloWorld.Sender\bin\Debug\net6.0\RabbitMqSamples.HelloWorld.Sender.pdb
+F:\Source\ProMicroservice\33. RabbitMqSamples\RabbitMqSamples\RabbitMqSamples.HelloWorld.Sender\bin\Debug\net6.0\RabbitMQ.Client.dll
+F:\Source\ProMicroservice\33. RabbitMqSamples\RabbitMqSamples\RabbitMqSamples.HelloWorld.Sender\obj\Debug\net6.0\RabbitMqSamples.HelloWorld.Sender.csproj.AssemblyReference.cache
+F:\Source\ProMicroservice\33. RabbitMqSamples\RabbitMqSamples\RabbitMqSamples.HelloWorld.Sender\obj\Debug\net6.0\RabbitMqSamples.HelloWorld.Sender.GeneratedMSBuildEditorConfig.editorconfig
+F:\Source\ProMicroservice\33. RabbitMqSamples\RabbitMqSamples\RabbitMqSamples.HelloWorld.Sender\obj\Debug\net6.0\RabbitMqSamples.HelloWorld.Sender.AssemblyInfoInputs.cache
+F:\Source\ProMicroservice\33. RabbitMqSamples\RabbitMqSamples\RabbitMqSamples.HelloWorld.Sender\obj\Debug\net6.0\RabbitMqSamples.HelloWorld.Sender.AssemblyInfo.cs
+F:\Source\ProMicroservice\33. RabbitMqSamples\RabbitMqSamples\RabbitMqSamples.HelloWorld.Sender\obj\Debug\net6.0\RabbitMqSamples.HelloWorld.Sender.csproj.CoreCompileInputs.cache
+F:\Source\ProMicroservice\33. RabbitMqSamples\RabbitMqSamples\RabbitMqSamples.HelloWorld.Sender\obj\Debug\net6.0\RabbitMqSamples.HelloWorld.Sender.csproj.CopyComplete
+F:\Source\ProMicroservice\33. RabbitMqSamples\RabbitMqSamples\RabbitMqSamples.HelloWorld.Sender\obj\Debug\net6.0\RabbitMqSamples.HelloWorld.Sender.dll
+F:\Source\ProMicroservice\33. RabbitMqSamples\RabbitMqSamples\RabbitMqSamples.HelloWorld.Sender\obj\Debug\net6.0\refint\RabbitMqSamples.HelloWorld.Sender.dll
+F:\Source\ProMicroservice\33. RabbitMqSamples\RabbitMqSamples\RabbitMqSamples.HelloWorld.Sender\obj\Debug\net6.0\RabbitMqSamples.HelloWorld.Sender.pdb
+F:\Source\ProMicroservice\33. RabbitMqSamples\RabbitMqSamples\RabbitMqSamples.HelloWorld.Sender\obj\Debug\net6.0\RabbitMqSamples.HelloWorld.Sender.genruntimeconfig.cache
+F:\Source\ProMicroservice\33. RabbitMqSamples\RabbitMqSamples\RabbitMqSamples.HelloWorld.Sender\obj\Debug\net6.0\ref\RabbitMqSamples.HelloWorld.Sender.dll

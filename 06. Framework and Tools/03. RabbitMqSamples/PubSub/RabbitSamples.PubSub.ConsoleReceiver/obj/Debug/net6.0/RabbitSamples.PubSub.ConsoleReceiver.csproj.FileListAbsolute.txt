@@ -1,0 +1,17 @@
+F:\Source\ProMicroservice\33. RabbitMqSamples\PubSub\RabbitSamples.PubSub.ConsoleReceiver\bin\Debug\net6.0\RabbitSamples.PubSub.ConsoleReceiver.exe
+F:\Source\ProMicroservice\33. RabbitMqSamples\PubSub\RabbitSamples.PubSub.ConsoleReceiver\bin\Debug\net6.0\RabbitSamples.PubSub.ConsoleReceiver.deps.json
+F:\Source\ProMicroservice\33. RabbitMqSamples\PubSub\RabbitSamples.PubSub.ConsoleReceiver\bin\Debug\net6.0\RabbitSamples.PubSub.ConsoleReceiver.runtimeconfig.json
+F:\Source\ProMicroservice\33. RabbitMqSamples\PubSub\RabbitSamples.PubSub.ConsoleReceiver\bin\Debug\net6.0\RabbitSamples.PubSub.ConsoleReceiver.dll
+F:\Source\ProMicroservice\33. RabbitMqSamples\PubSub\RabbitSamples.PubSub.ConsoleReceiver\bin\Debug\net6.0\RabbitSamples.PubSub.ConsoleReceiver.pdb
+F:\Source\ProMicroservice\33. RabbitMqSamples\PubSub\RabbitSamples.PubSub.ConsoleReceiver\bin\Debug\net6.0\RabbitMQ.Client.dll
+F:\Source\ProMicroservice\33. RabbitMqSamples\PubSub\RabbitSamples.PubSub.ConsoleReceiver\obj\Debug\net6.0\RabbitSamples.PubSub.ConsoleReceiver.csproj.AssemblyReference.cache
+F:\Source\ProMicroservice\33. RabbitMqSamples\PubSub\RabbitSamples.PubSub.ConsoleReceiver\obj\Debug\net6.0\RabbitSamples.PubSub.ConsoleReceiver.GeneratedMSBuildEditorConfig.editorconfig
+F:\Source\ProMicroservice\33. RabbitMqSamples\PubSub\RabbitSamples.PubSub.ConsoleReceiver\obj\Debug\net6.0\RabbitSamples.PubSub.ConsoleReceiver.AssemblyInfoInputs.cache
+F:\Source\ProMicroservice\33. RabbitMqSamples\PubSub\RabbitSamples.PubSub.ConsoleReceiver\obj\Debug\net6.0\RabbitSamples.PubSub.ConsoleReceiver.AssemblyInfo.cs
+F:\Source\ProMicroservice\33. RabbitMqSamples\PubSub\RabbitSamples.PubSub.ConsoleReceiver\obj\Debug\net6.0\RabbitSamples.PubSub.ConsoleReceiver.csproj.CoreCompileInputs.cache
+F:\Source\ProMicroservice\33. RabbitMqSamples\PubSub\RabbitSamples.PubSub.ConsoleReceiver\obj\Debug\net6.0\RabbitSamples.PubSub.ConsoleReceiver.csproj.CopyComplete
+F:\Source\ProMicroservice\33. RabbitMqSamples\PubSub\RabbitSamples.PubSub.ConsoleReceiver\obj\Debug\net6.0\RabbitSamples.PubSub.ConsoleReceiver.dll
+F:\Source\ProMicroservice\33. RabbitMqSamples\PubSub\RabbitSamples.PubSub.ConsoleReceiver\obj\Debug\net6.0\refint\RabbitSamples.PubSub.ConsoleReceiver.dll
+F:\Source\ProMicroservice\33. RabbitMqSamples\PubSub\RabbitSamples.PubSub.ConsoleReceiver\obj\Debug\net6.0\RabbitSamples.PubSub.ConsoleReceiver.pdb
+F:\Source\ProMicroservice\33. RabbitMqSamples\PubSub\RabbitSamples.PubSub.ConsoleReceiver\obj\Debug\net6.0\RabbitSamples.PubSub.ConsoleReceiver.genruntimeconfig.cache
+F:\Source\ProMicroservice\33. RabbitMqSamples\PubSub\RabbitSamples.PubSub.ConsoleReceiver\obj\Debug\net6.0\ref\RabbitSamples.PubSub.ConsoleReceiver.dll

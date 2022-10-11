@@ -1,0 +1,17 @@
+F:\Source\ProMicroservice\33. RabbitMqSamples\TopicRouting\RabbitSamples.DirectRouting.ConsoleReceiver\bin\Debug\net6.0\RabbitSamples.DirectRouting.ConsoleReceiver.exe
+F:\Source\ProMicroservice\33. RabbitMqSamples\TopicRouting\RabbitSamples.DirectRouting.ConsoleReceiver\bin\Debug\net6.0\RabbitSamples.DirectRouting.ConsoleReceiver.deps.json
+F:\Source\ProMicroservice\33. RabbitMqSamples\TopicRouting\RabbitSamples.DirectRouting.ConsoleReceiver\bin\Debug\net6.0\RabbitSamples.DirectRouting.ConsoleReceiver.runtimeconfig.json
+F:\Source\ProMicroservice\33. RabbitMqSamples\TopicRouting\RabbitSamples.DirectRouting.ConsoleReceiver\bin\Debug\net6.0\RabbitSamples.DirectRouting.ConsoleReceiver.dll
+F:\Source\ProMicroservice\33. RabbitMqSamples\TopicRouting\RabbitSamples.DirectRouting.ConsoleReceiver\bin\Debug\net6.0\RabbitSamples.DirectRouting.ConsoleReceiver.pdb
+F:\Source\ProMicroservice\33. RabbitMqSamples\TopicRouting\RabbitSamples.DirectRouting.ConsoleReceiver\bin\Debug\net6.0\RabbitMQ.Client.dll
+F:\Source\ProMicroservice\33. RabbitMqSamples\TopicRouting\RabbitSamples.DirectRouting.ConsoleReceiver\obj\Debug\net6.0\RabbitSamples.DirectRouting.ConsoleReceiver.csproj.AssemblyReference.cache
+F:\Source\ProMicroservice\33. RabbitMqSamples\TopicRouting\RabbitSamples.DirectRouting.ConsoleReceiver\obj\Debug\net6.0\RabbitSamples.DirectRouting.ConsoleReceiver.GeneratedMSBuildEditorConfig.editorconfig
+F:\Source\ProMicroservice\33. RabbitMqSamples\TopicRouting\RabbitSamples.DirectRouting.ConsoleReceiver\obj\Debug\net6.0\RabbitSamples.DirectRouting.ConsoleReceiver.AssemblyInfoInputs.cache
+F:\Source\ProMicroservice\33. RabbitMqSamples\TopicRouting\RabbitSamples.DirectRouting.ConsoleReceiver\obj\Debug\net6.0\RabbitSamples.DirectRouting.ConsoleReceiver.AssemblyInfo.cs
+F:\Source\ProMicroservice\33. RabbitMqSamples\TopicRouting\RabbitSamples.DirectRouting.ConsoleReceiver\obj\Debug\net6.0\RabbitSamples.DirectRouting.ConsoleReceiver.csproj.CoreCompileInputs.cache
+F:\Source\ProMicroservice\33. RabbitMqSamples\TopicRouting\RabbitSamples.DirectRouting.ConsoleReceiver\obj\Debug\net6.0\RabbitSamples.DirectRouting.ConsoleReceiver.csproj.CopyComplete
+F:\Source\ProMicroservice\33. RabbitMqSamples\TopicRouting\RabbitSamples.DirectRouting.ConsoleReceiver\obj\Debug\net6.0\RabbitSamples.DirectRouting.ConsoleReceiver.dll
+F:\Source\ProMicroservice\33. RabbitMqSamples\TopicRouting\RabbitSamples.DirectRouting.ConsoleReceiver\obj\Debug\net6.0\refint\RabbitSamples.DirectRouting.ConsoleReceiver.dll
+F:\Source\ProMicroservice\33. RabbitMqSamples\TopicRouting\RabbitSamples.DirectRouting.ConsoleReceiver\obj\Debug\net6.0\RabbitSamples.DirectRouting.ConsoleReceiver.pdb
+F:\Source\ProMicroservice\33. RabbitMqSamples\TopicRouting\RabbitSamples.DirectRouting.ConsoleReceiver\obj\Debug\net6.0\RabbitSamples.DirectRouting.ConsoleReceiver.genruntimeconfig.cache
+F:\Source\ProMicroservice\33. RabbitMqSamples\TopicRouting\RabbitSamples.DirectRouting.ConsoleReceiver\obj\Debug\net6.0\ref\RabbitSamples.DirectRouting.ConsoleReceiver.dll

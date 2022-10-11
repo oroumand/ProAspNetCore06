@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "HtKLajp1NSG4at1xMuS+GDrPcOrIFPEMs9JY09+de1djYTguyureNMYalvEsWONdNThvHEC8CT4DPCM8OiV1KQ==",
+  "success": true,
+  "projectFilePath": "F:\\Source\\ProMicroservice\\33. RabbitMqSamples\\DirectRouting\\RabbitSamples.DirectRouting.ConsoleReceiver\\RabbitSamples.DirectRouting.ConsoleReceiver.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Alireza\\.nuget\\packages\\rabbitmq.client\\6.4.0\\rabbitmq.client.6.4.0.nupkg.sha512",
+    "C:\\Users\\Alireza\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\Alireza\\.nuget\\packages\\system.threading.channels\\4.7.1\\system.threading.channels.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}

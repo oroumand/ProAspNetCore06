@@ -1,0 +1,17 @@
+F:\Source\ProMicroservice\33. RabbitMqSamples\TopicRouting\RabbitSamples.TopicRouting.Sender\bin\Debug\net6.0\RabbitSamples.TopicRouting.Sender.exe
+F:\Source\ProMicroservice\33. RabbitMqSamples\TopicRouting\RabbitSamples.TopicRouting.Sender\bin\Debug\net6.0\RabbitSamples.TopicRouting.Sender.deps.json
+F:\Source\ProMicroservice\33. RabbitMqSamples\TopicRouting\RabbitSamples.TopicRouting.Sender\bin\Debug\net6.0\RabbitSamples.TopicRouting.Sender.runtimeconfig.json
+F:\Source\ProMicroservice\33. RabbitMqSamples\TopicRouting\RabbitSamples.TopicRouting.Sender\bin\Debug\net6.0\RabbitSamples.TopicRouting.Sender.dll
+F:\Source\ProMicroservice\33. RabbitMqSamples\TopicRouting\RabbitSamples.TopicRouting.Sender\bin\Debug\net6.0\RabbitSamples.TopicRouting.Sender.pdb
+F:\Source\ProMicroservice\33. RabbitMqSamples\TopicRouting\RabbitSamples.TopicRouting.Sender\bin\Debug\net6.0\RabbitMQ.Client.dll
+F:\Source\ProMicroservice\33. RabbitMqSamples\TopicRouting\RabbitSamples.TopicRouting.Sender\obj\Debug\net6.0\RabbitSamples.TopicRouting.Sender.csproj.AssemblyReference.cache
+F:\Source\ProMicroservice\33. RabbitMqSamples\TopicRouting\RabbitSamples.TopicRouting.Sender\obj\Debug\net6.0\RabbitSamples.TopicRouting.Sender.GeneratedMSBuildEditorConfig.editorconfig
+F:\Source\ProMicroservice\33. RabbitMqSamples\TopicRouting\RabbitSamples.TopicRouting.Sender\obj\Debug\net6.0\RabbitSamples.TopicRouting.Sender.AssemblyInfoInputs.cache
+F:\Source\ProMicroservice\33. RabbitMqSamples\TopicRouting\RabbitSamples.TopicRouting.Sender\obj\Debug\net6.0\RabbitSamples.TopicRouting.Sender.AssemblyInfo.cs
+F:\Source\ProMicroservice\33. RabbitMqSamples\TopicRouting\RabbitSamples.TopicRouting.Sender\obj\Debug\net6.0\RabbitSamples.TopicRouting.Sender.csproj.CoreCompileInputs.cache
+F:\Source\ProMicroservice\33. RabbitMqSamples\TopicRouting\RabbitSamples.TopicRouting.Sender\obj\Debug\net6.0\RabbitSamples.TopicRouting.Sender.csproj.CopyComplete
+F:\Source\ProMicroservice\33. RabbitMqSamples\TopicRouting\RabbitSamples.TopicRouting.Sender\obj\Debug\net6.0\RabbitSamples.TopicRouting.Sender.dll
+F:\Source\ProMicroservice\33. RabbitMqSamples\TopicRouting\RabbitSamples.TopicRouting.Sender\obj\Debug\net6.0\refint\RabbitSamples.TopicRouting.Sender.dll
+F:\Source\ProMicroservice\33. RabbitMqSamples\TopicRouting\RabbitSamples.TopicRouting.Sender\obj\Debug\net6.0\RabbitSamples.TopicRouting.Sender.pdb
+F:\Source\ProMicroservice\33. RabbitMqSamples\TopicRouting\RabbitSamples.TopicRouting.Sender\obj\Debug\net6.0\RabbitSamples.TopicRouting.Sender.genruntimeconfig.cache
+F:\Source\ProMicroservice\33. RabbitMqSamples\TopicRouting\RabbitSamples.TopicRouting.Sender\obj\Debug\net6.0\ref\RabbitSamples.TopicRouting.Sender.dll

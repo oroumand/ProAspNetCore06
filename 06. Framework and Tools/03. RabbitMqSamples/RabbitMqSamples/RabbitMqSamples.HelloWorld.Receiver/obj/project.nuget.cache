@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "/XYZfZcA7K3C2eVCoQFpx2mYyKdAcOK0PCjkEFw2g6ddTuSDlK8B+exbOYxL+bvm2MubZt1aXo1ticp9/loRUQ==",
+  "success": true,
+  "projectFilePath": "F:\\Source\\ProMicroservice\\33. RabbitMqSamples\\RabbitMqSamples\\RabbitMqSamples.HelloWorld.Receiver\\RabbitMqSamples.HelloWorld.Receiver.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Alireza\\.nuget\\packages\\rabbitmq.client\\6.4.0\\rabbitmq.client.6.4.0.nupkg.sha512",
+    "C:\\Users\\Alireza\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\Alireza\\.nuget\\packages\\system.threading.channels\\4.7.1\\system.threading.channels.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}

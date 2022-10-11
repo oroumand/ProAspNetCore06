@@ -1,0 +1,17 @@
+F:\Source\ProMicroservice\33. RabbitMqSamples\DirectRouting\RabbitSamples.DirectRouting.Logger\bin\Debug\net6.0\RabbitSamples.DirectRouting.Logger.exe
+F:\Source\ProMicroservice\33. RabbitMqSamples\DirectRouting\RabbitSamples.DirectRouting.Logger\bin\Debug\net6.0\RabbitSamples.DirectRouting.Logger.deps.json
+F:\Source\ProMicroservice\33. RabbitMqSamples\DirectRouting\RabbitSamples.DirectRouting.Logger\bin\Debug\net6.0\RabbitSamples.DirectRouting.Logger.runtimeconfig.json
+F:\Source\ProMicroservice\33. RabbitMqSamples\DirectRouting\RabbitSamples.DirectRouting.Logger\bin\Debug\net6.0\RabbitSamples.DirectRouting.Logger.dll
+F:\Source\ProMicroservice\33. RabbitMqSamples\DirectRouting\RabbitSamples.DirectRouting.Logger\bin\Debug\net6.0\RabbitSamples.DirectRouting.Logger.pdb
+F:\Source\ProMicroservice\33. RabbitMqSamples\DirectRouting\RabbitSamples.DirectRouting.Logger\bin\Debug\net6.0\RabbitMQ.Client.dll
+F:\Source\ProMicroservice\33. RabbitMqSamples\DirectRouting\RabbitSamples.DirectRouting.Logger\obj\Debug\net6.0\RabbitSamples.DirectRouting.Logger.csproj.AssemblyReference.cache
+F:\Source\ProMicroservice\33. RabbitMqSamples\DirectRouting\RabbitSamples.DirectRouting.Logger\obj\Debug\net6.0\RabbitSamples.DirectRouting.Logger.GeneratedMSBuildEditorConfig.editorconfig
+F:\Source\ProMicroservice\33. RabbitMqSamples\DirectRouting\RabbitSamples.DirectRouting.Logger\obj\Debug\net6.0\RabbitSamples.DirectRouting.Logger.AssemblyInfoInputs.cache
+F:\Source\ProMicroservice\33. RabbitMqSamples\DirectRouting\RabbitSamples.DirectRouting.Logger\obj\Debug\net6.0\RabbitSamples.DirectRouting.Logger.AssemblyInfo.cs
+F:\Source\ProMicroservice\33. RabbitMqSamples\DirectRouting\RabbitSamples.DirectRouting.Logger\obj\Debug\net6.0\RabbitSamples.DirectRouting.Logger.csproj.CoreCompileInputs.cache
+F:\Source\ProMicroservice\33. RabbitMqSamples\DirectRouting\RabbitSamples.DirectRouting.Logger\obj\Debug\net6.0\RabbitSamples.DirectRouting.Logger.csproj.CopyComplete
+F:\Source\ProMicroservice\33. RabbitMqSamples\DirectRouting\RabbitSamples.DirectRouting.Logger\obj\Debug\net6.0\RabbitSamples.DirectRouting.Logger.dll
+F:\Source\ProMicroservice\33. RabbitMqSamples\DirectRouting\RabbitSamples.DirectRouting.Logger\obj\Debug\net6.0\refint\RabbitSamples.DirectRouting.Logger.dll
+F:\Source\ProMicroservice\33. RabbitMqSamples\DirectRouting\RabbitSamples.DirectRouting.Logger\obj\Debug\net6.0\RabbitSamples.DirectRouting.Logger.pdb
+F:\Source\ProMicroservice\33. RabbitMqSamples\DirectRouting\RabbitSamples.DirectRouting.Logger\obj\Debug\net6.0\RabbitSamples.DirectRouting.Logger.genruntimeconfig.cache
+F:\Source\ProMicroservice\33. RabbitMqSamples\DirectRouting\RabbitSamples.DirectRouting.Logger\obj\Debug\net6.0\ref\RabbitSamples.DirectRouting.Logger.dll

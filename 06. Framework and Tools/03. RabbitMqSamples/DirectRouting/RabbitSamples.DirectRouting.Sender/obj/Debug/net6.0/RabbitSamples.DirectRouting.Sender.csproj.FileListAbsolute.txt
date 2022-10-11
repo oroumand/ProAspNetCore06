@@ -1,0 +1,17 @@
+F:\Source\ProMicroservice\33. RabbitMqSamples\DirectRouting\RabbitSamples.DirectRouting.Sender\bin\Debug\net6.0\RabbitSamples.DirectRouting.Sender.exe
+F:\Source\ProMicroservice\33. RabbitMqSamples\DirectRouting\RabbitSamples.DirectRouting.Sender\bin\Debug\net6.0\RabbitSamples.DirectRouting.Sender.deps.json
+F:\Source\ProMicroservice\33. RabbitMqSamples\DirectRouting\RabbitSamples.DirectRouting.Sender\bin\Debug\net6.0\RabbitSamples.DirectRouting.Sender.runtimeconfig.json
+F:\Source\ProMicroservice\33. RabbitMqSamples\DirectRouting\RabbitSamples.DirectRouting.Sender\bin\Debug\net6.0\RabbitSamples.DirectRouting.Sender.dll
+F:\Source\ProMicroservice\33. RabbitMqSamples\DirectRouting\RabbitSamples.DirectRouting.Sender\bin\Debug\net6.0\RabbitSamples.DirectRouting.Sender.pdb
+F:\Source\ProMicroservice\33. RabbitMqSamples\DirectRouting\RabbitSamples.DirectRouting.Sender\bin\Debug\net6.0\RabbitMQ.Client.dll
+F:\Source\ProMicroservice\33. RabbitMqSamples\DirectRouting\RabbitSamples.DirectRouting.Sender\obj\Debug\net6.0\RabbitSamples.DirectRouting.Sender.csproj.AssemblyReference.cache
+F:\Source\ProMicroservice\33. RabbitMqSamples\DirectRouting\RabbitSamples.DirectRouting.Sender\obj\Debug\net6.0\RabbitSamples.DirectRouting.Sender.GeneratedMSBuildEditorConfig.editorconfig
+F:\Source\ProMicroservice\33. RabbitMqSamples\DirectRouting\RabbitSamples.DirectRouting.Sender\obj\Debug\net6.0\RabbitSamples.DirectRouting.Sender.AssemblyInfoInputs.cache
+F:\Source\ProMicroservice\33. RabbitMqSamples\DirectRouting\RabbitSamples.DirectRouting.Sender\obj\Debug\net6.0\RabbitSamples.DirectRouting.Sender.AssemblyInfo.cs
+F:\Source\ProMicroservice\33. RabbitMqSamples\DirectRouting\RabbitSamples.DirectRouting.Sender\obj\Debug\net6.0\RabbitSamples.DirectRouting.Sender.csproj.CoreCompileInputs.cache
+F:\Source\ProMicroservice\33. RabbitMqSamples\DirectRouting\RabbitSamples.DirectRouting.Sender\obj\Debug\net6.0\RabbitSamples.DirectRouting.Sender.csproj.CopyComplete
+F:\Source\ProMicroservice\33. RabbitMqSamples\DirectRouting\RabbitSamples.DirectRouting.Sender\obj\Debug\net6.0\RabbitSamples.DirectRouting.Sender.dll
+F:\Source\ProMicroservice\33. RabbitMqSamples\DirectRouting\RabbitSamples.DirectRouting.Sender\obj\Debug\net6.0\refint\RabbitSamples.DirectRouting.Sender.dll
+F:\Source\ProMicroservice\33. RabbitMqSamples\DirectRouting\RabbitSamples.DirectRouting.Sender\obj\Debug\net6.0\RabbitSamples.DirectRouting.Sender.pdb
+F:\Source\ProMicroservice\33. RabbitMqSamples\DirectRouting\RabbitSamples.DirectRouting.Sender\obj\Debug\net6.0\RabbitSamples.DirectRouting.Sender.genruntimeconfig.cache
+F:\Source\ProMicroservice\33. RabbitMqSamples\DirectRouting\RabbitSamples.DirectRouting.Sender\obj\Debug\net6.0\ref\RabbitSamples.DirectRouting.Sender.dll
