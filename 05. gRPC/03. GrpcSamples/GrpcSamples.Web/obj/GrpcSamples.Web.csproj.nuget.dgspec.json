@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\Source\\Samples\\GrpcSamples\\GrpcSamples.Web\\GrpcSamples.Web.csproj": {}
+    "F:\\Source\\ProAspNetCore06\\05. gRPC\\03. GrpcSamples\\GrpcSamples.Web\\GrpcSamples.Web.csproj": {}
   },
   "projects": {
-    "F:\\Source\\Samples\\GrpcSamples\\GrpcSamples.Web\\GrpcSamples.Web.csproj": {
+    "F:\\Source\\ProAspNetCore06\\05. gRPC\\03. GrpcSamples\\GrpcSamples.Web\\GrpcSamples.Web.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\Source\\Samples\\GrpcSamples\\GrpcSamples.Web\\GrpcSamples.Web.csproj",
+        "projectUniqueName": "F:\\Source\\ProAspNetCore06\\05. gRPC\\03. GrpcSamples\\GrpcSamples.Web\\GrpcSamples.Web.csproj",
         "projectName": "GrpcSamples.Web",
-        "projectPath": "F:\\Source\\Samples\\GrpcSamples\\GrpcSamples.Web\\GrpcSamples.Web.csproj",
+        "projectPath": "F:\\Source\\ProAspNetCore06\\05. gRPC\\03. GrpcSamples\\GrpcSamples.Web\\GrpcSamples.Web.csproj",
         "packagesPath": "C:\\Users\\Alireza\\.nuget\\packages\\",
-        "outputPath": "F:\\Source\\Samples\\GrpcSamples\\GrpcSamples.Web\\obj\\",
+        "outputPath": "F:\\Source\\ProAspNetCore06\\05. gRPC\\03. GrpcSamples\\GrpcSamples.Web\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Alireza\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -55,7 +55,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -67,7 +68,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     }

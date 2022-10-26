@@ -1,0 +1,29 @@
+syntax = "proto3";
+package GrpcSamples.v2;
+
+option csharp_namespace = "GrpcSamples.Web.Protos.v2";
+import "google/protobuf/empty.proto";
+
+
+service PersonService{
+	rpc CreatePerson(stream CreatePersonRequest) returns (stream PersonReply);
+	rpc GetPersonById(PersonByIdRequest) returns (PersonReply);
+	rpc GetAll(google.protobuf.Empty) returns (stream PersonReply);
+}
+
+
+message CreatePersonRequest{
+	string FirstName = 1;
+	string LastName = 2;
+}
+
+
+message PersonReply{
+	int32 ID=1;
+	string FirstName = 2;
+	string LastName = 3;
+}
+
+message PersonByIdRequest{
+		int32 ID=1;
+}

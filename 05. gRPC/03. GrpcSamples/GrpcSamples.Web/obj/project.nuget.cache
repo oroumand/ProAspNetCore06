@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "hGYagYTfLJcK4M2AM23EzzDGZyCVfITaGEYWFazmLpp+7m/oaR+2rphJOdZac3kLm2SUy3aZATJitweX67BZdw==",
+  "dgSpecHash": "YetxQ9Iuj1YpTdoRBxhfg6BmnQtGJ+yQcRu3KY6FHJS+3+mH4qwPueluWgWfJi/KZtCOuZ7NXZPR72f1v1DIlA==",
   "success": true,
-  "projectFilePath": "F:\\Source\\Samples\\GrpcSamples\\GrpcSamples.Web\\GrpcSamples.Web.csproj",
+  "projectFilePath": "F:\\Source\\ProAspNetCore06\\05. gRPC\\03. GrpcSamples\\GrpcSamples.Web\\GrpcSamples.Web.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Alireza\\.nuget\\packages\\google.protobuf\\3.19.4\\google.protobuf.3.19.4.nupkg.sha512",
     "C:\\Users\\Alireza\\.nuget\\packages\\grpc.aspnetcore\\2.40.0\\grpc.aspnetcore.2.40.0.nupkg.sha512",
