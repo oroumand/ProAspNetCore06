@@ -5,10 +5,14 @@
       "MediatR.Contracts/1.0.1": {
         "type": "package",
         "compile": {
-          "lib/netstandard2.0/MediatR.Contracts.dll": {}
+          "lib/netstandard2.0/MediatR.Contracts.dll": {
+            "related": ".xml"
+          }
         },
         "runtime": {
-          "lib/netstandard2.0/MediatR.Contracts.dll": {}
+          "lib/netstandard2.0/MediatR.Contracts.dll": {
+            "related": ".xml"
+          }
         }
       }
     }
@@ -42,11 +46,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\Source\\Samples\\CourseStore\\CourseStore.Model\\CourseStore.Model.csproj",
+      "projectUniqueName": "F:\\Source\\ProAspNetCore06\\03. EF Core\\10. Workshop - 02\\CourseStore.Model\\CourseStore.Model.csproj",
       "projectName": "CourseStore.Model",
-      "projectPath": "F:\\Source\\Samples\\CourseStore\\CourseStore.Model\\CourseStore.Model.csproj",
+      "projectPath": "F:\\Source\\ProAspNetCore06\\03. EF Core\\10. Workshop - 02\\CourseStore.Model\\CourseStore.Model.csproj",
       "packagesPath": "C:\\Users\\Alireza\\.nuget\\packages\\",
-      "outputPath": "F:\\Source\\Samples\\CourseStore\\CourseStore.Model\\obj\\",
+      "outputPath": "F:\\Source\\ProAspNetCore06\\03. EF Core\\10. Workshop - 02\\CourseStore.Model\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Alireza\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -86,7 +90,8 @@
           "net47",
           "net471",
           "net472",
-          "net48"
+          "net48",
+          "net481"
         ],
         "assetTargetFallback": true,
         "warn": true,
@@ -95,7 +100,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
       }
     }
   }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\Source\\Samples\\CourseStore\\CourseStore.DAL\\CourseStore.DAL.csproj": {}
+    "F:\\Source\\ProAspNetCore06\\03. EF Core\\10. Workshop - 02\\CourseStore.DAL\\CourseStore.DAL.csproj": {}
   },
   "projects": {
-    "F:\\Source\\Samples\\CourseStore\\CourseStore.DAL\\CourseStore.DAL.csproj": {
+    "F:\\Source\\ProAspNetCore06\\03. EF Core\\10. Workshop - 02\\CourseStore.DAL\\CourseStore.DAL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\Source\\Samples\\CourseStore\\CourseStore.DAL\\CourseStore.DAL.csproj",
+        "projectUniqueName": "F:\\Source\\ProAspNetCore06\\03. EF Core\\10. Workshop - 02\\CourseStore.DAL\\CourseStore.DAL.csproj",
         "projectName": "CourseStore.DAL",
-        "projectPath": "F:\\Source\\Samples\\CourseStore\\CourseStore.DAL\\CourseStore.DAL.csproj",
+        "projectPath": "F:\\Source\\ProAspNetCore06\\03. EF Core\\10. Workshop - 02\\CourseStore.DAL\\CourseStore.DAL.csproj",
         "packagesPath": "C:\\Users\\Alireza\\.nuget\\packages\\",
-        "outputPath": "F:\\Source\\Samples\\CourseStore\\CourseStore.DAL\\obj\\",
+        "outputPath": "F:\\Source\\ProAspNetCore06\\03. EF Core\\10. Workshop - 02\\CourseStore.DAL\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Alireza\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "F:\\Source\\Samples\\CourseStore\\CourseStore.Model\\CourseStore.Model.csproj": {
-                "projectPath": "F:\\Source\\Samples\\CourseStore\\CourseStore.Model\\CourseStore.Model.csproj"
+              "F:\\Source\\ProAspNetCore06\\03. EF Core\\10. Workshop - 02\\CourseStore.Model\\CourseStore.Model.csproj": {
+                "projectPath": "F:\\Source\\ProAspNetCore06\\03. EF Core\\10. Workshop - 02\\CourseStore.Model\\CourseStore.Model.csproj"
               }
             }
           }
@@ -61,7 +61,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -70,18 +71,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "F:\\Source\\Samples\\CourseStore\\CourseStore.Model\\CourseStore.Model.csproj": {
+    "F:\\Source\\ProAspNetCore06\\03. EF Core\\10. Workshop - 02\\CourseStore.Model\\CourseStore.Model.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\Source\\Samples\\CourseStore\\CourseStore.Model\\CourseStore.Model.csproj",
+        "projectUniqueName": "F:\\Source\\ProAspNetCore06\\03. EF Core\\10. Workshop - 02\\CourseStore.Model\\CourseStore.Model.csproj",
         "projectName": "CourseStore.Model",
-        "projectPath": "F:\\Source\\Samples\\CourseStore\\CourseStore.Model\\CourseStore.Model.csproj",
+        "projectPath": "F:\\Source\\ProAspNetCore06\\03. EF Core\\10. Workshop - 02\\CourseStore.Model\\CourseStore.Model.csproj",
         "packagesPath": "C:\\Users\\Alireza\\.nuget\\packages\\",
-        "outputPath": "F:\\Source\\Samples\\CourseStore\\CourseStore.Model\\obj\\",
+        "outputPath": "F:\\Source\\ProAspNetCore06\\03. EF Core\\10. Workshop - 02\\CourseStore.Model\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Alireza\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -121,7 +122,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -130,7 +132,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     }

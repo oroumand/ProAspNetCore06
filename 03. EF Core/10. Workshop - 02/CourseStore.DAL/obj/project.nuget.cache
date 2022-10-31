@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "sT4IeDVU8F+k+X3RgPBXJXIWF+xWyVbGSF6LgU8KY7tpILC5aCT8Xlh24UXI2zgEymf7PrBI9wmcgrX+Dppikg==",
+  "dgSpecHash": "D7he5ZE6CyOMDLLT9k8wXNkeDTdPBHWCagoC05RUlBj4TR2Hp9VGH4tCDf6sj2rux7TCwUHm/5PTzoEIcVvbCQ==",
   "success": true,
-  "projectFilePath": "F:\\Source\\Samples\\CourseStore\\CourseStore.DAL\\CourseStore.DAL.csproj",
+  "projectFilePath": "F:\\Source\\ProAspNetCore06\\03. EF Core\\10. Workshop - 02\\CourseStore.DAL\\CourseStore.DAL.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Alireza\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Alireza\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512",

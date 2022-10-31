@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "S5nuIbRy20zeNA75v6YJE5nVdBj4kN5K8/vXBcSY/MlmqPXhQ/2FS8Gf6XeIt3aUcfbvjXhx83L6OaDRSLT+xg==",
+  "dgSpecHash": "DPR3YKk5A6BWHn1xnI5nTYcl/ddGfmM8Wr7GSgxqZuYBKRiTXROeeBzPXbVWN+FmtoJAgJXlTNKccxa0W2HBcg==",
   "success": true,
-  "projectFilePath": "F:\\Source\\Samples\\CourseStore\\CourseStore.BLL\\CourseStore.BLL.csproj",
+  "projectFilePath": "F:\\Source\\ProAspNetCore06\\03. EF Core\\10. Workshop - 02\\CourseStore.BLL\\CourseStore.BLL.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Alireza\\.nuget\\packages\\mediatr\\10.0.1\\mediatr.10.0.1.nupkg.sha512",
     "C:\\Users\\Alireza\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512",

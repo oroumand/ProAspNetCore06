@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "atpnxax//AZuWscK41SCfgPunxyclmw879xdhNin7LtMsgu68R2U4LA9Ss4t1Sz1BH+tjLkYAUsByqKSuvaqKg==",
+  "dgSpecHash": "VG+MIu4I7l1HYY8oQLVpwVoQ3ekCbGgC5KEfwFzRUF/dmV6jChOMuO0kkSZIa6jy7Fr1e9TaA39D/LGyWQPl0Q==",
   "success": true,
-  "projectFilePath": "F:\\Source\\Samples\\CourseStore\\CourseStore.WebAPI\\CourseStore.WebAPI.csproj",
+  "projectFilePath": "F:\\Source\\ProAspNetCore06\\03. EF Core\\10. Workshop - 02\\CourseStore.WebAPI\\CourseStore.WebAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Alireza\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Alireza\\.nuget\\packages\\mediatr\\10.0.1\\mediatr.10.0.1.nupkg.sha512",

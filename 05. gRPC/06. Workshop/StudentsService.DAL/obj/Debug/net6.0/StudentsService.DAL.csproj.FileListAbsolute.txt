@@ -1,0 +1,17 @@
+F:\Source\Samples\StudentsService\StudentsService.DAL\bin\Debug\net6.0\StudentsService.DAL.deps.json
+F:\Source\Samples\StudentsService\StudentsService.DAL\bin\Debug\net6.0\StudentsService.DAL.dll
+F:\Source\Samples\StudentsService\StudentsService.DAL\bin\Debug\net6.0\StudentsService.DAL.pdb
+F:\Source\Samples\StudentsService\StudentsService.DAL\bin\Debug\net6.0\StudentsService.Domain.dll
+F:\Source\Samples\StudentsService\StudentsService.DAL\bin\Debug\net6.0\StudentsService.Domain.pdb
+F:\Source\Samples\StudentsService\StudentsService.DAL\obj\Debug\net6.0\StudentsService.DAL.csproj.AssemblyReference.cache
+F:\Source\Samples\StudentsService\StudentsService.DAL\obj\Debug\net6.0\StudentsService.DAL.GeneratedMSBuildEditorConfig.editorconfig
+F:\Source\Samples\StudentsService\StudentsService.DAL\obj\Debug\net6.0\StudentsService.DAL.AssemblyInfoInputs.cache
+F:\Source\Samples\StudentsService\StudentsService.DAL\obj\Debug\net6.0\StudentsService.DAL.AssemblyInfo.cs
+F:\Source\Samples\StudentsService\StudentsService.DAL\obj\Debug\net6.0\StudentsService.DAL.csproj.CoreCompileInputs.cache
+F:\Source\Samples\StudentsService\StudentsService.DAL\obj\Debug\net6.0\StudentsService.DAL.csproj.CopyComplete
+F:\Source\Samples\StudentsService\StudentsService.DAL\obj\Debug\net6.0\StudentsService.DAL.dll
+F:\Source\Samples\StudentsService\StudentsService.DAL\obj\Debug\net6.0\refint\StudentsService.DAL.dll
+F:\Source\Samples\StudentsService\StudentsService.DAL\obj\Debug\net6.0\StudentsService.DAL.pdb
+F:\Source\Samples\StudentsService\StudentsService.DAL\obj\Debug\net6.0\ref\StudentsService.DAL.dll
+F:\Source\Samples\StudentsService\StudentsService.DAL\bin\Debug\net6.0\StudentsService.DAL.runtimeconfig.json
+F:\Source\Samples\StudentsService\StudentsService.DAL\obj\Debug\net6.0\StudentsService.DAL.genruntimeconfig.cache
