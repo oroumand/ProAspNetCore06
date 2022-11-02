@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "gtCTNT6ZFBRoMhLIwruehYHCegqB4U+w6oy8pVcX/D3V5zaVCzvfdZTY1OcM131HGU9gSWl2bAjLFdo/3bE2ew==",
+  "dgSpecHash": "29KRgr8MN096pdOVR5iPiTvkMIURFGXiA7c/eXfyUPxkZ7GLWx6UnYVJ8WUYSeM1j7/usjBFpt4mcGqVtWrrRg==",
   "success": true,
-  "projectFilePath": "F:\\Source\\Samples\\GrpcClientSamples\\GrpcClientSamples.Console\\GrpcClientSamples.Console.csproj",
+  "projectFilePath": "F:\\Source\\ProAspNetCore06\\05. gRPC\\05. GrpcClientSamples\\GrpcClientSamples.Console\\GrpcClientSamples.Console.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Alireza\\.nuget\\packages\\google.protobuf\\3.21.8\\google.protobuf.3.21.8.nupkg.sha512",
     "C:\\Users\\Alireza\\.nuget\\packages\\google.protobuf.tools\\3.21.8\\google.protobuf.tools.3.21.8.nupkg.sha512",

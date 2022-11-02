@@ -1,0 +1,15 @@
+F:\Source\Samples\StudentsClient\StudentsClient.BLL\bin\Debug\net6.0\StudentsClient.BLL.deps.json
+F:\Source\Samples\StudentsClient\StudentsClient.BLL\bin\Debug\net6.0\StudentsClient.BLL.dll
+F:\Source\Samples\StudentsClient\StudentsClient.BLL\bin\Debug\net6.0\StudentsClient.BLL.pdb
+F:\Source\Samples\StudentsClient\StudentsClient.BLL\bin\Debug\net6.0\StudentsClient.Domain.dll
+F:\Source\Samples\StudentsClient\StudentsClient.BLL\bin\Debug\net6.0\StudentsClient.Domain.pdb
+F:\Source\Samples\StudentsClient\StudentsClient.BLL\obj\Debug\net6.0\StudentsClient.BLL.csproj.AssemblyReference.cache
+F:\Source\Samples\StudentsClient\StudentsClient.BLL\obj\Debug\net6.0\StudentsClient.BLL.GeneratedMSBuildEditorConfig.editorconfig
+F:\Source\Samples\StudentsClient\StudentsClient.BLL\obj\Debug\net6.0\StudentsClient.BLL.AssemblyInfoInputs.cache
+F:\Source\Samples\StudentsClient\StudentsClient.BLL\obj\Debug\net6.0\StudentsClient.BLL.AssemblyInfo.cs
+F:\Source\Samples\StudentsClient\StudentsClient.BLL\obj\Debug\net6.0\StudentsClient.BLL.csproj.CoreCompileInputs.cache
+F:\Source\Samples\StudentsClient\StudentsClient.BLL\obj\Debug\net6.0\StudentsClient.BLL.csproj.CopyComplete
+F:\Source\Samples\StudentsClient\StudentsClient.BLL\obj\Debug\net6.0\StudentsClient.BLL.dll
+F:\Source\Samples\StudentsClient\StudentsClient.BLL\obj\Debug\net6.0\refint\StudentsClient.BLL.dll
+F:\Source\Samples\StudentsClient\StudentsClient.BLL\obj\Debug\net6.0\StudentsClient.BLL.pdb
+F:\Source\Samples\StudentsClient\StudentsClient.BLL\obj\Debug\net6.0\ref\StudentsClient.BLL.dll

@@ -1,0 +1,12 @@
+F:\Source\Samples\StudentsClient\StudentsClient.Domain\bin\Debug\net6.0\StudentsClient.Domain.deps.json
+F:\Source\Samples\StudentsClient\StudentsClient.Domain\bin\Debug\net6.0\StudentsClient.Domain.dll
+F:\Source\Samples\StudentsClient\StudentsClient.Domain\bin\Debug\net6.0\StudentsClient.Domain.pdb
+F:\Source\Samples\StudentsClient\StudentsClient.Domain\obj\Debug\net6.0\StudentsClient.Domain.csproj.AssemblyReference.cache
+F:\Source\Samples\StudentsClient\StudentsClient.Domain\obj\Debug\net6.0\StudentsClient.Domain.GeneratedMSBuildEditorConfig.editorconfig
+F:\Source\Samples\StudentsClient\StudentsClient.Domain\obj\Debug\net6.0\StudentsClient.Domain.AssemblyInfoInputs.cache
+F:\Source\Samples\StudentsClient\StudentsClient.Domain\obj\Debug\net6.0\StudentsClient.Domain.AssemblyInfo.cs
+F:\Source\Samples\StudentsClient\StudentsClient.Domain\obj\Debug\net6.0\StudentsClient.Domain.csproj.CoreCompileInputs.cache
+F:\Source\Samples\StudentsClient\StudentsClient.Domain\obj\Debug\net6.0\StudentsClient.Domain.dll
+F:\Source\Samples\StudentsClient\StudentsClient.Domain\obj\Debug\net6.0\refint\StudentsClient.Domain.dll
+F:\Source\Samples\StudentsClient\StudentsClient.Domain\obj\Debug\net6.0\StudentsClient.Domain.pdb
+F:\Source\Samples\StudentsClient\StudentsClient.Domain\obj\Debug\net6.0\ref\StudentsClient.Domain.dll

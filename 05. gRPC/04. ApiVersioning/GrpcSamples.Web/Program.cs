@@ -12,6 +12,7 @@ builder.Services.AddGrpcReflection();
 
 var app = builder.Build();
 app.MapGrpcReflectionService();
+
 // Configure the HTTP request pipeline.
 app.MapGrpcService< GrpcSamples.Web.Services.v1.PersonGrpcService >();
 app.MapGrpcService< GrpcSamples.Web.Services.v2.PersonGrpcService >();

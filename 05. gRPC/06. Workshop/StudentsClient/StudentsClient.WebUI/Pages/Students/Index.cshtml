@@ -1,0 +1,27 @@
+﻿@page
+@model StudentsClient.WebUI.Pages.Students.IndexModel
+@{
+}
+<table class="table table-bordered table-striped">
+    <thead>
+        <tr>
+            <th>Id</th>
+            <th>First Name</th>
+            <th>Last Name</th>
+            <th>Student Number</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model.Students)
+        {
+            <tr>
+                <td>@item.Id</td>
+                <td>@item.FirstName</td>
+                <td>@item.LastName</td>
+                <td>@item.StudentNumber</td>
+            </tr>
+        }
+    </tbody>
+</table>
+<hr />
+<a asp-page="Create" class="btn btn-success">Crearte</a>

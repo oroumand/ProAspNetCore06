@@ -1114,11 +1114,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\Source\\Samples\\GrpcClientSamples\\GrpcClientSamples.Console\\GrpcClientSamples.Console.csproj",
+      "projectUniqueName": "F:\\Source\\ProAspNetCore06\\05. gRPC\\05. GrpcClientSamples\\GrpcClientSamples.Console\\GrpcClientSamples.Console.csproj",
       "projectName": "GrpcClientSamples.Console",
-      "projectPath": "F:\\Source\\Samples\\GrpcClientSamples\\GrpcClientSamples.Console\\GrpcClientSamples.Console.csproj",
+      "projectPath": "F:\\Source\\ProAspNetCore06\\05. gRPC\\05. GrpcClientSamples\\GrpcClientSamples.Console\\GrpcClientSamples.Console.csproj",
       "packagesPath": "C:\\Users\\Alireza\\.nuget\\packages\\",
-      "outputPath": "F:\\Source\\Samples\\GrpcClientSamples\\GrpcClientSamples.Console\\obj\\",
+      "outputPath": "F:\\Source\\ProAspNetCore06\\05. gRPC\\05. GrpcClientSamples\\GrpcClientSamples.Console\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Alireza\\AppData\\Roaming\\NuGet\\NuGet.Config",
