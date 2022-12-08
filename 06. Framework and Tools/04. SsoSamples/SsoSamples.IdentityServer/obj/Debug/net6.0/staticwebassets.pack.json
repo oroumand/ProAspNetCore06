@@ -1,0 +1,213 @@
+{
+  "Files": [
+    {
+      "Id": "F:\\Source\\Samples\\SsoSamples\\SsoSamples.IdentityServer\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "F:\\Source\\Samples\\SsoSamples\\SsoSamples.IdentityServer\\wwwroot\\css\\site.min.css",
+      "PackagePath": "staticwebassets\\css\\site.min.css"
+    },
+    {
+      "Id": "F:\\Source\\Samples\\SsoSamples\\SsoSamples.IdentityServer\\wwwroot\\css\\site.scss",
+      "PackagePath": "staticwebassets\\css\\site.scss"
+    },
+    {
+      "Id": "F:\\Source\\Samples\\SsoSamples\\SsoSamples.IdentityServer\\wwwroot\\duende-logo.svg",
+      "PackagePath": "staticwebassets\\duende-logo.svg"
+    },
+    {
+      "Id": "F:\\Source\\Samples\\SsoSamples\\SsoSamples.IdentityServer\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "F:\\Source\\Samples\\SsoSamples\\SsoSamples.IdentityServer\\wwwroot\\js\\signin-redirect.js",
+      "PackagePath": "staticwebassets\\js\\signin-redirect.js"
+    },
+    {
+      "Id": "F:\\Source\\Samples\\SsoSamples\\SsoSamples.IdentityServer\\wwwroot\\js\\signout-redirect.js",
+      "PackagePath": "staticwebassets\\js\\signout-redirect.js"
+    },
+    {
+      "Id": "F:\\Source\\Samples\\SsoSamples\\SsoSamples.IdentityServer\\wwwroot\\lib\\bootstrap4-glyphicons\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap4-glyphicons"
+    },
+    {
+      "Id": "F:\\Source\\Samples\\SsoSamples\\SsoSamples.IdentityServer\\wwwroot\\lib\\bootstrap4-glyphicons\\css\\bootstrap-glyphicons.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap4-glyphicons\\css\\bootstrap-glyphicons.css"
+    },
+    {
+      "Id": "F:\\Source\\Samples\\SsoSamples\\SsoSamples.IdentityServer\\wwwroot\\lib\\bootstrap4-glyphicons\\css\\bootstrap-glyphicons.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap4-glyphicons\\css\\bootstrap-glyphicons.min.css"
+    },
+    {
+      "Id": "F:\\Source\\Samples\\SsoSamples\\SsoSamples.IdentityServer\\wwwroot\\lib\\bootstrap4-glyphicons\\fonts\\glyphicons\\glyphicons-halflings-regular.eot",
+      "PackagePath": "staticwebassets\\lib\\bootstrap4-glyphicons\\fonts\\glyphicons\\glyphicons-halflings-regular.eot"
+    },
+    {
+      "Id": "F:\\Source\\Samples\\SsoSamples\\SsoSamples.IdentityServer\\wwwroot\\lib\\bootstrap4-glyphicons\\fonts\\glyphicons\\glyphicons-halflings-regular.svg",
+      "PackagePath": "staticwebassets\\lib\\bootstrap4-glyphicons\\fonts\\glyphicons\\glyphicons-halflings-regular.svg"
+    },
+    {
+      "Id": "F:\\Source\\Samples\\SsoSamples\\SsoSamples.IdentityServer\\wwwroot\\lib\\bootstrap4-glyphicons\\fonts\\glyphicons\\glyphicons-halflings-regular.ttf",
+      "PackagePath": "staticwebassets\\lib\\bootstrap4-glyphicons\\fonts\\glyphicons\\glyphicons-halflings-regular.ttf"
+    },
+    {
+      "Id": "F:\\Source\\Samples\\SsoSamples\\SsoSamples.IdentityServer\\wwwroot\\lib\\bootstrap4-glyphicons\\fonts\\glyphicons\\glyphicons-halflings-regular.woff",
+      "PackagePath": "staticwebassets\\lib\\bootstrap4-glyphicons\\fonts\\glyphicons\\glyphicons-halflings-regular.woff"
+    },
+    {
+      "Id": "F:\\Source\\Samples\\SsoSamples\\SsoSamples.IdentityServer\\wwwroot\\lib\\bootstrap4-glyphicons\\fonts\\glyphicons\\glyphicons-halflings-regular.woff2",
+      "PackagePath": "staticwebassets\\lib\\bootstrap4-glyphicons\\fonts\\glyphicons\\glyphicons-halflings-regular.woff2"
+    },
+    {
+      "Id": "F:\\Source\\Samples\\SsoSamples\\SsoSamples.IdentityServer\\wwwroot\\lib\\bootstrap4-glyphicons\\maps\\glyphicons-fontawesome.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap4-glyphicons\\maps\\glyphicons-fontawesome.css"
+    },
+    {
+      "Id": "F:\\Source\\Samples\\SsoSamples\\SsoSamples.IdentityServer\\wwwroot\\lib\\bootstrap4-glyphicons\\maps\\glyphicons-fontawesome.less",
+      "PackagePath": "staticwebassets\\lib\\bootstrap4-glyphicons\\maps\\glyphicons-fontawesome.less"
+    },
+    {
+      "Id": "F:\\Source\\Samples\\SsoSamples\\SsoSamples.IdentityServer\\wwwroot\\lib\\bootstrap4-glyphicons\\maps\\glyphicons-fontawesome.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap4-glyphicons\\maps\\glyphicons-fontawesome.min.css"
+    },
+    {
+      "Id": "F:\\Source\\Samples\\SsoSamples\\SsoSamples.IdentityServer\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "F:\\Source\\Samples\\SsoSamples\\SsoSamples.IdentityServer\\wwwroot\\lib\\bootstrap\\README.md",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\README.md"
+    },
+    {
+      "Id": "F:\\Source\\Samples\\SsoSamples\\SsoSamples.IdentityServer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "F:\\Source\\Samples\\SsoSamples\\SsoSamples.IdentityServer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "F:\\Source\\Samples\\SsoSamples\\SsoSamples.IdentityServer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "F:\\Source\\Samples\\SsoSamples\\SsoSamples.IdentityServer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "F:\\Source\\Samples\\SsoSamples\\SsoSamples.IdentityServer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "F:\\Source\\Samples\\SsoSamples\\SsoSamples.IdentityServer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "F:\\Source\\Samples\\SsoSamples\\SsoSamples.IdentityServer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "F:\\Source\\Samples\\SsoSamples\\SsoSamples.IdentityServer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "F:\\Source\\Samples\\SsoSamples\\SsoSamples.IdentityServer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "F:\\Source\\Samples\\SsoSamples\\SsoSamples.IdentityServer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "F:\\Source\\Samples\\SsoSamples\\SsoSamples.IdentityServer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "F:\\Source\\Samples\\SsoSamples\\SsoSamples.IdentityServer\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "F:\\Source\\Samples\\SsoSamples\\SsoSamples.IdentityServer\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "F:\\Source\\Samples\\SsoSamples\\SsoSamples.IdentityServer\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "F:\\Source\\Samples\\SsoSamples\\SsoSamples.IdentityServer\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "F:\\Source\\Samples\\SsoSamples\\SsoSamples.IdentityServer\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "F:\\Source\\Samples\\SsoSamples\\SsoSamples.IdentityServer\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "F:\\Source\\Samples\\SsoSamples\\SsoSamples.IdentityServer\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "F:\\Source\\Samples\\SsoSamples\\SsoSamples.IdentityServer\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "F:\\Source\\Samples\\SsoSamples\\SsoSamples.IdentityServer\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "F:\\Source\\Samples\\SsoSamples\\SsoSamples.IdentityServer\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "F:\\Source\\Samples\\SsoSamples\\SsoSamples.IdentityServer\\wwwroot\\lib\\jquery\\README.md",
+      "PackagePath": "staticwebassets\\lib\\jquery\\README.md"
+    },
+    {
+      "Id": "F:\\Source\\Samples\\SsoSamples\\SsoSamples.IdentityServer\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "F:\\Source\\Samples\\SsoSamples\\SsoSamples.IdentityServer\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "F:\\Source\\Samples\\SsoSamples\\SsoSamples.IdentityServer\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "F:\\Source\\Samples\\SsoSamples\\SsoSamples.IdentityServer\\wwwroot\\lib\\jquery\\dist\\jquery.slim.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.slim.js"
+    },
+    {
+      "Id": "F:\\Source\\Samples\\SsoSamples\\SsoSamples.IdentityServer\\wwwroot\\lib\\jquery\\dist\\jquery.slim.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.slim.min.js"
+    },
+    {
+      "Id": "F:\\Source\\Samples\\SsoSamples\\SsoSamples.IdentityServer\\wwwroot\\lib\\jquery\\dist\\jquery.slim.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.slim.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.SsoSamples.IdentityServer.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.SsoSamples.IdentityServer.props",
+      "PackagePath": "build\\SsoSamples.IdentityServer.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.SsoSamples.IdentityServer.props",
+      "PackagePath": "buildMultiTargeting\\SsoSamples.IdentityServer.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.SsoSamples.IdentityServer.props",
+      "PackagePath": "buildTransitive\\SsoSamples.IdentityServer.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

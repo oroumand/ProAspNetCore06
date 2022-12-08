@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "mwEGztzOYemBrcheFfiRdFKPLdBxEJbHs3srhdUz9xw=",
+  "Source": "SsoSamples.API",
+  "BasePath": "_content/SsoSamples.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
