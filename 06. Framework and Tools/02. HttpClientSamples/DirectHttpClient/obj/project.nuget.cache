@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Y+BVpKLUWvSabV36hhh4MPq12vClfJV+Wjxux2HX0yO9BYzdU+WbvcM8GWWM03/QLAbCyzc60n0tYuSrriPlkg==",
+  "dgSpecHash": "FaH2ZyhC9HXY4/L/2EFGqCcnC1iavwuegt/mc2T1qAOUzXh3tV6dOwWouA88hK/3Teo2dwrV0IaMvA3L5CK1Qw==",
   "success": true,
-  "projectFilePath": "F:\\Source\\Samples\\HttpClientSamples\\DirectHttpClient\\DirectHttpClient.csproj",
+  "projectFilePath": "F:\\Source\\ProAspNetCore06\\06. Framework and Tools\\02. HttpClientSamples\\DirectHttpClient\\DirectHttpClient.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Alireza\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\Alireza\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",

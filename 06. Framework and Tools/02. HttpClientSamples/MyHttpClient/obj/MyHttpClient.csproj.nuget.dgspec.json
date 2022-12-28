@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\Source\\Samples\\HttpClientSamples\\MyHttpClient\\MyHttpClient.csproj": {}
+    "F:\\Source\\ProAspNetCore06\\06. Framework and Tools\\02. HttpClientSamples\\MyHttpClient\\MyHttpClient.csproj": {}
   },
   "projects": {
-    "F:\\Source\\Samples\\HttpClientSamples\\MyHttpClient\\MyHttpClient.csproj": {
+    "F:\\Source\\ProAspNetCore06\\06. Framework and Tools\\02. HttpClientSamples\\MyHttpClient\\MyHttpClient.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\Source\\Samples\\HttpClientSamples\\MyHttpClient\\MyHttpClient.csproj",
+        "projectUniqueName": "F:\\Source\\ProAspNetCore06\\06. Framework and Tools\\02. HttpClientSamples\\MyHttpClient\\MyHttpClient.csproj",
         "projectName": "MyHttpClient",
-        "projectPath": "F:\\Source\\Samples\\HttpClientSamples\\MyHttpClient\\MyHttpClient.csproj",
+        "projectPath": "F:\\Source\\ProAspNetCore06\\06. Framework and Tools\\02. HttpClientSamples\\MyHttpClient\\MyHttpClient.csproj",
         "packagesPath": "C:\\Users\\Alireza\\.nuget\\packages\\",
-        "outputPath": "F:\\Source\\Samples\\HttpClientSamples\\MyHttpClient\\obj\\",
+        "outputPath": "F:\\Source\\ProAspNetCore06\\06. Framework and Tools\\02. HttpClientSamples\\MyHttpClient\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Alireza\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -22,6 +22,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "F:\\Nuget": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -72,7 +73,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     }

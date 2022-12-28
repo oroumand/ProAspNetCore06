@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\HostedServiceSamples.PostsSample.props" />
+</Project>

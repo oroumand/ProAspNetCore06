@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "ldg3H2XTr14gFUJjfM46nJs85mlkTAz71lWsiGl6zuk=",
+  "Source": "HostedServiceSamples.PostsSample",
+  "BasePath": "_content/HostedServiceSamples.PostsSample",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

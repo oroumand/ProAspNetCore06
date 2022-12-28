@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "vA3fgLDAvhuW0bOUiHxa2t1f06X2EpFIOUSBaSm6rhFJLiFpjGRzNHjU2JG0+8uV084gpUIYsE1PGaF6ao8Y9A==",
+  "dgSpecHash": "eXEKnn2DYxoDyxkUxvIifKqEgqo9oJRYMCgdbQRRAzemeAQpD9FUcuf4mwvFqfp4HXSrEgYtegYC/UCa/EDEMg==",
   "success": true,
-  "projectFilePath": "F:\\Source\\Samples\\HttpClientSamples\\MyHttpClient\\MyHttpClient.csproj",
+  "projectFilePath": "F:\\Source\\ProAspNetCore06\\06. Framework and Tools\\02. HttpClientSamples\\MyHttpClient\\MyHttpClient.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Alireza\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\Alireza\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\6.0.0\\microsoft.extensions.dependencyinjection.6.0.0.nupkg.sha512",

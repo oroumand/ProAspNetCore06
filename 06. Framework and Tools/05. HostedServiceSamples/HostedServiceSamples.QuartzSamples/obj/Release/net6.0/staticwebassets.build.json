@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "MSI6srZDrcMm4SoGkA1oEcCcd8IUZ8qp9EEKQ+lgc58=",
+  "Source": "HostedServiceSamples.QuartzSamples",
+  "BasePath": "_content/HostedServiceSamples.QuartzSamples",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
