@@ -1,0 +1,40 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Home page";
+}
+
+<div class="container">
+    <div class="row p-1">
+        <div class="col-2">User Name: </div>
+        <div class="col-6">
+            <input type="text" id="userName" />
+        </div>
+    </div>
+    <div class="row p-1">
+        <div class="col-2">Message: </div>
+        <div class="col-6">
+            <input type="text" id="message" class="w-100"/>
+        </div>
+    </div>
+    <div class="row p-1">
+        <div class="col-8">
+            <input type="button" id="sendMessage" value="Send Message" class="btn btn-success" />
+        </div>
+    </div>
+    <div class="row p-1">
+        <div class="col-8">
+            <hr />
+        </div>
+    </div>
+    <div class="row p-1">
+        <div class="col-8">
+           <ul id="messages">
+           </ul>
+        </div>
+    </div>
+</div>
+
+<script src="~/lib/microsoft/signalr/dist/browser/signalr.js"></script>
+<script src="~/lib/microsoft/signalr/dist/browser/signalr.js"></script>
+<script src="~/js/chat.js"></script>
