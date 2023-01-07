@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\RealTimeWebSamples.Polling.props" />
+</Project>
