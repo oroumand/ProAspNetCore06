@@ -9,29 +9,33 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = browser
 build_property.RootNamespace = BlazorSample.FoodRecipes.UI
 build_property.RootNamespace = BlazorSample.FoodRecipes.UI
-build_property.ProjectDir = F:\Source\Samples\BlazorSample.FoodRecipes\BlazorSample.FoodRecipes.UI\
+build_property.ProjectDir = F:\Source\ProAspNetCore06\07. Blazor\01. Introduction To Blazor\BlazorSample.FoodRecipes\BlazorSample.FoodRecipes.UI\
 build_property.RazorLangVersion = 7.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = F:\Source\Samples\BlazorSample.FoodRecipes\BlazorSample.FoodRecipes.UI
+build_property.MSBuildProjectDirectory = F:\Source\ProAspNetCore06\07. Blazor\01. Introduction To Blazor\BlazorSample.FoodRecipes\BlazorSample.FoodRecipes.UI
 build_property._RazorSourceGeneratorDebug = 
 
-[F:/Source/Samples/BlazorSample.FoodRecipes/BlazorSample.FoodRecipes.UI/App.razor]
+[F:/Source/ProAspNetCore06/07. Blazor/01. Introduction To Blazor/BlazorSample.FoodRecipes/BlazorSample.FoodRecipes.UI/App.razor]
 build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/Source/Samples/BlazorSample.FoodRecipes/BlazorSample.FoodRecipes.UI/Features/Home/HomePage.razor]
+[F:/Source/ProAspNetCore06/07. Blazor/01. Introduction To Blazor/BlazorSample.FoodRecipes/BlazorSample.FoodRecipes.UI/Features/Home/HomePage.razor]
 build_metadata.AdditionalFiles.TargetPath = RmVhdHVyZXNcSG9tZVxIb21lUGFnZS5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/Source/Samples/BlazorSample.FoodRecipes/BlazorSample.FoodRecipes.UI/Features/Shared/Layouts/Header.razor]
+[F:/Source/ProAspNetCore06/07. Blazor/01. Introduction To Blazor/BlazorSample.FoodRecipes/BlazorSample.FoodRecipes.UI/Features/Home/RecipeCard.razor]
+build_metadata.AdditionalFiles.TargetPath = RmVhdHVyZXNcSG9tZVxSZWNpcGVDYXJkLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Source/ProAspNetCore06/07. Blazor/01. Introduction To Blazor/BlazorSample.FoodRecipes/BlazorSample.FoodRecipes.UI/Features/Shared/Layouts/Header.razor]
 build_metadata.AdditionalFiles.TargetPath = RmVhdHVyZXNcU2hhcmVkXExheW91dHNcSGVhZGVyLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/Source/Samples/BlazorSample.FoodRecipes/BlazorSample.FoodRecipes.UI/Features/Shared/Layouts/MainLayout.razor]
+[F:/Source/ProAspNetCore06/07. Blazor/01. Introduction To Blazor/BlazorSample.FoodRecipes/BlazorSample.FoodRecipes.UI/Features/Shared/Layouts/MainLayout.razor]
 build_metadata.AdditionalFiles.TargetPath = RmVhdHVyZXNcU2hhcmVkXExheW91dHNcTWFpbkxheW91dC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/Source/Samples/BlazorSample.FoodRecipes/BlazorSample.FoodRecipes.UI/_Imports.razor]
+[F:/Source/ProAspNetCore06/07. Blazor/01. Introduction To Blazor/BlazorSample.FoodRecipes/BlazorSample.FoodRecipes.UI/_Imports.razor]
 build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 

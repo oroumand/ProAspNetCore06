@@ -1,0 +1,23 @@
+﻿<div class=" col-@Col">
+    <div class="card shadow">
+        <img class="card-img-top img-thumbnail" src="@recipe.ImageUrl">
+    </div>
+    <div class="card-body">
+        <h5 class="card-title">@recipe.Name</h5>
+        <h6 class="card-subtitle">@recipe.Originality</h6>
+    </div>
+    <div class="d-flex justify-content-between">
+        <span>
+            @recipe.Price
+        </span>
+        <span>
+            @recipe.TimeInMinuts
+        </span>
+    </div>
+</div>
+@code {
+    [Parameter, EditorRequired]
+    public Recipe recipe { get; set; } 
+    [Parameter, EditorRequired]
+    public int Col { get; set; }
+}

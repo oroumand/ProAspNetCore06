@@ -1,0 +1,44 @@
+[
+  {
+    "Id": 1,
+    "Name": "Ghorme sabzi",
+    "Description": "Description of Ghorme sabzi",
+    "ImageUrl": "https://patoghonline.com/sites/default/files/field/image/qwrmh-sbzy-3.jpg",
+    "Originality": "Iran, Tehran",
+    "TimeInMinuts": 120,
+    "Price": 100000,
+    "Ingridients": [
+      {
+        "Id": 1,
+        "Name": "Loobia"
+
+      },
+      {
+        "Id": 2,
+        "Name": "Sabzi"
+
+      }
+    ]
+  },
+  {
+    "Id": 2,
+    "Name": "Gheimeh",
+    "Description": "Description of Gheimeh",
+    "ImageUrl": "https://www.tasvirezendegi.com/wp-content/uploads/2022/02/%D8%AE%D9%88%D8%B1%D8%B4%D8%AA-%D9%82%DB%8C%D9%85%D9%87.jpg",
+    "Originality": "Iran, Tehran",
+    "TimeInMinuts": 100,
+    "Price": 120000,
+    "Ingridients": [
+      {
+        "Id": 1,
+        "Name": "Sibzamini"
+
+      },
+      {
+        "Id": 2,
+        "Name": "Goosht"
+
+      }
+    ]
+  }
+]

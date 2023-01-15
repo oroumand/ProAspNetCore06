@@ -198,13 +198,13 @@
       "mscorlib.dll": "sha256-UH9jptJH1wZ3XMBPuMMAEaUKpfRxc5AgXkLdAFAvNVE=",
       "netstandard.dll": "sha256-+jUzj0FB0YcoBUeSkSNEjhVDTG08qbZ2twfCBMbzT+Q=",
       "System.Private.CoreLib.dll": "sha256-l+\/quNqfNCSUDSMJcp0+IxlSdOdnAtwVVWMXmYGHMpg=",
-      "BlazorSample.FoodRecipes.UI.dll": "sha256-OO5lLawgE5nvc8dq5ZSYAmqQC9l1E9Q88vUcURHDUb0="
+      "BlazorSample.FoodRecipes.UI.dll": "sha256-Mv54Tev1JoQyK6IQ8j87tmauPJFc4ljixZrjlZYj7SE="
     },
     "extensions": null,
     "lazyAssembly": null,
     "libraryInitializers": null,
     "pdb": {
-      "BlazorSample.FoodRecipes.UI.pdb": "sha256-+nUFlD63K+szXlsOp1jAKS+nbVMp\/ts5uCZvNobM+2w="
+      "BlazorSample.FoodRecipes.UI.pdb": "sha256-\/IVobPFyVFa+81DjraKZUlau6HAxkPiyKvo8I9jHUhs="
     },
     "runtime": {
       "dotnet.7.0.1.vcmw2og3mw.js": "sha256-jjax3FMRXzFAziWowdtJf6vipP2xXAaA5gD6VBYB6Y0=",

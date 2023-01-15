@@ -1806,11 +1806,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\Source\\Samples\\BlazorSample.FoodRecipes\\BlazorSample.FoodRecipes.UI\\BlazorSample.FoodRecipes.UI.csproj",
+      "projectUniqueName": "F:\\Source\\ProAspNetCore06\\07. Blazor\\01. Introduction To Blazor\\BlazorSample.FoodRecipes\\BlazorSample.FoodRecipes.UI\\BlazorSample.FoodRecipes.UI.csproj",
       "projectName": "BlazorSample.FoodRecipes.UI",
-      "projectPath": "F:\\Source\\Samples\\BlazorSample.FoodRecipes\\BlazorSample.FoodRecipes.UI\\BlazorSample.FoodRecipes.UI.csproj",
+      "projectPath": "F:\\Source\\ProAspNetCore06\\07. Blazor\\01. Introduction To Blazor\\BlazorSample.FoodRecipes\\BlazorSample.FoodRecipes.UI\\BlazorSample.FoodRecipes.UI.csproj",
       "packagesPath": "C:\\Users\\Alireza\\.nuget\\packages\\",
-      "outputPath": "F:\\Source\\Samples\\BlazorSample.FoodRecipes\\BlazorSample.FoodRecipes.UI\\obj\\",
+      "outputPath": "F:\\Source\\ProAspNetCore06\\07. Blazor\\01. Introduction To Blazor\\BlazorSample.FoodRecipes\\BlazorSample.FoodRecipes.UI\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Alireza\\AppData\\Roaming\\NuGet\\NuGet.Config",

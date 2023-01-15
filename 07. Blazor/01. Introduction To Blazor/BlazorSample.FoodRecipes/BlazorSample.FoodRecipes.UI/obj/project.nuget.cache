@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "hOKleGmQo/Dnj+IcjUKSTNJECX1+EPh+oFZBRmaZX4Y02dmOrHZ4jT1Y8VyBltcuaK2r/h8Oox6ibfVC36EZeg==",
+  "dgSpecHash": "um93khPviB4b32c/C6Z90lQ4vgyeviHfGm4kW5L7EJNntvuQdRdNntx/dUK7vzcVQLRwawNIZGpRdXeR/1kRXw==",
   "success": true,
-  "projectFilePath": "F:\\Source\\Samples\\BlazorSample.FoodRecipes\\BlazorSample.FoodRecipes.UI\\BlazorSample.FoodRecipes.UI.csproj",
+  "projectFilePath": "F:\\Source\\ProAspNetCore06\\07. Blazor\\01. Introduction To Blazor\\BlazorSample.FoodRecipes\\BlazorSample.FoodRecipes.UI\\BlazorSample.FoodRecipes.UI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Alireza\\.nuget\\packages\\microsoft.aspnetcore.authorization\\7.0.1\\microsoft.aspnetcore.authorization.7.0.1.nupkg.sha512",
     "C:\\Users\\Alireza\\.nuget\\packages\\microsoft.aspnetcore.components\\7.0.1\\microsoft.aspnetcore.components.7.0.1.nupkg.sha512",
