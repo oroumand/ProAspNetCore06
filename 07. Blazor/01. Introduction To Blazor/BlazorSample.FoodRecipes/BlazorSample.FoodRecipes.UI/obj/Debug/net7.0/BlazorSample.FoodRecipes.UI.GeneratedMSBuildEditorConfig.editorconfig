@@ -28,6 +28,10 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = RmVhdHVyZXNcSG9tZVxSZWNpcGVDYXJkLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
+[F:/Source/ProAspNetCore06/07. Blazor/01. Introduction To Blazor/BlazorSample.FoodRecipes/BlazorSample.FoodRecipes.UI/Features/Shared/Layouts/Footer.razor]
+build_metadata.AdditionalFiles.TargetPath = RmVhdHVyZXNcU2hhcmVkXExheW91dHNcRm9vdGVyLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
 [F:/Source/ProAspNetCore06/07. Blazor/01. Introduction To Blazor/BlazorSample.FoodRecipes/BlazorSample.FoodRecipes.UI/Features/Shared/Layouts/Header.razor]
 build_metadata.AdditionalFiles.TargetPath = RmVhdHVyZXNcU2hhcmVkXExheW91dHNcSGVhZGVyLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
