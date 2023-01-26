@@ -1,0 +1,69 @@
+﻿@page "/counter"
+@implements IDisposable
+@implements IAsyncDisposable
+<PageTitle>Counter</PageTitle>
+
+@foreach (var name in Names)
+{
+    <h2>@name</h2>
+}
+
+@code {
+    public List<string> Names { get; set; } = new List<string>();
+
+    public override async Task SetParametersAsync(ParameterView parameters)
+    {
+        Console.WriteLine("SetParametersAsync Strat");
+        await base.SetParametersAsync(parameters);
+        Console.WriteLine("SetParametersAsync End");
+
+    }
+
+    protected override void OnInitialized()
+    {
+        Console.WriteLine("OnInitialized");
+    }
+    protected override async Task OnInitializedAsync()
+    {
+        Console.WriteLine("OnInitializedAsync Start");
+        Names.Add("Alireza Oroumand");
+        await Task.Delay(1000);
+        Names.Add("Omid Ghorbani");
+        StateHasChanged();
+        await Task.Delay(1000);
+        Names.Add("Mohammad Abbasi");
+        StateHasChanged();
+        await Task.Delay(1000);
+        Names.Add("Mohammad Lotfi");
+        StateHasChanged();
+        await Task.Delay(1000);
+        Console.WriteLine("OnInitializedAsync End");
+    }
+    protected override void OnParametersSet()
+    {
+        Console.WriteLine("OnParametersSet");
+    }
+    protected override async Task OnParametersSetAsync()
+    {
+        Console.WriteLine("OnParametersSetAsync");
+    }
+    protected override void OnAfterRender(bool firstRender)
+    {
+        Console.WriteLine($"OnAfterRender First Render:{firstRender}");
+    }
+    protected override async Task OnAfterRenderAsync(bool firstRender)
+    {
+        Console.WriteLine($"OnAfterRenderAsync First Render:{firstRender}");
+    }
+
+    public void Dispose()
+    {
+        Console.WriteLine("Dispose");
+
+    }
+    public async ValueTask DisposeAsync()
+    {
+        Console.WriteLine("DisposeAsync");
+
+    }
+}

@@ -1,0 +1,263 @@
+[
+  {
+    "Id": 1,
+    "Name": "Ghorme sabzi",
+    "Description": "How to prepare Tehrani Qormah Sabzi Stew: First, we have to soak red beans or pinto beans in a bowl of water the night before. If possible, we change the water in the bowl two to three times and pour fresh water until the swelling of the beans is completely removed.",
+    "ImageUrl": "https://darnahayat.ir/wp-content/uploads/2021/09/ghorme-sabzi.jpg",
+    "Originality": "Iran, Tehran",
+    "TimeInMinuts": 120,
+    "Price": 100000,
+    "Ingridients": [
+      {
+        "Id": 1,
+        "Name": "onion"
+
+      },
+      {
+        "Id": 2,
+        "Name": "Meat"
+      },
+      {
+        "Id": 3,
+        "Name": "Beans"
+      },
+      {
+        "Id": 4,
+        "Name": "Salt"
+      }
+    ]
+  },
+  {
+    "Id": 2,
+    "Name": "Gheeme",
+    "Description": "To prepare gheeme majlisi stew, first we pour the cob in a bowl of water a few hours before and let it soak well to remove the swelling. Next, finely chop or grate the onion.",
+    "ImageUrl": "https://darnahayat.ir/wp-content/uploads/2021/09/khoresh-gheyme.jpg",
+    "Originality": "Iran, Tehran",
+    "TimeInMinuts": 100,
+    "Price": 120000,
+    "Ingridients": [
+      {
+        "Id": 1,
+        "Name": "potato"
+
+      },
+      {
+        "Id": 2,
+        "Name": "Meat"
+
+      },
+      {
+        "Id": 3,
+        "Name": "Cinnamon"
+      },
+      {
+        "Id": 4,
+        "Name": "Salt"
+      }
+    ]
+  },
+  {
+    "Id": 3,
+    "Name": "Celery",
+    "Description": "Celery stew is one of the traditional Iranian stews, which is prepared with a combination of meat or chicken and celery. This stew needs time to cook and set, but it has many fans because of its wonderful taste and aroma. The pickle of this stew is from watercress, but you can replace it with orange juice or lemon juice. This stew can be served with saffron rice or kate.",
+    "ImageUrl": "https://darnahayat.ir/wp-content/uploads/2021/08/khoresh-karafs.jpg",
+    "Originality": "Iran, Tehran",
+    "TimeInMinuts": 90,
+    "Price": 80000,
+    "Ingridients": [
+      {
+        "Id": 1,
+        "Name": "Celery"
+
+      },
+      {
+        "Id": 2,
+        "Name": "Meat"
+
+      },
+      {
+        "Id": 3,
+        "Name": "Parsley"
+      },
+      {
+        "Id": 4,
+        "Name": "Mint"
+      },
+      {
+        "Id": 5,
+        "Name": "Salt"
+      }
+    ]
+  },
+
+  {
+    "Id": 4,
+    "Name": "Chicken soup",
+    "Description": "Celery stew is one of the traditional Iranian stews, which is prepared with a combination of meat or chicken and celery. This stew needs time to cook and set, but it has many fans because of its wonderful taste and aroma. The pickle of this stew is from watercress, but you can replace it with orange juice or lemon juice. This stew can be served with saffron rice or kate.",
+    "ImageUrl": "https://darnahayat.ir/wp-content/uploads/2023/01/soup-morgh.jpg",
+    "Originality": "Iran, Tehran",
+    "TimeInMinuts": 60,
+    "Price": 50000,
+    "Ingridients": [
+      {
+        "Id": 1,
+        "Name": "Onion"
+
+      },
+      {
+        "Id": 2,
+        "Name": "Chicken"
+
+      },
+      {
+        "Id": 3,
+        "Name": "Parsley"
+      },
+      {
+        "Id": 4,
+        "Name": "Cilantro"
+      },
+      {
+        "Id": 5,
+        "Name": "Salt"
+      }
+    ]
+  },
+
+  {
+    "Id": 5,
+    "Name": "Mushroom salad",
+    "Description": "Mushroom salad is one of the delicious and international salads, which is a suitable option for people on a diet and vegetarians.",
+    "ImageUrl": "https://panamag.ir/wp-content/uploads/2023/01/salad-gharch.jpg",
+    "Originality": "Iran, Tehran",
+    "TimeInMinuts": 20,
+    "Price": 45000,
+    "Ingridients": [
+      {
+        "Id": 1,
+        "Name": "Mushroom"
+
+      },
+      {
+        "Id": 2,
+        "Name": "Pickled"
+
+      },
+      {
+        "Id": 3,
+        "Name": "Parsley"
+      },
+      {
+        "Id": 4,
+        "Name": "Become"
+      },
+      {
+        "Id": 5,
+        "Name": "Salt"
+      },
+      {
+        "Id": 6,
+        "Name": "Lemon juice"
+      }
+    ]
+  },
+  {
+    "Id": 6,
+    "Name": "Fish and Chips",
+    "Description": "To prepare delicious fish and chips, at the beginning of the work, we completely remove the skin from the fish and cut it into the size of a finger. It is better to use fish that have less or no bones.",
+    "ImageUrl": "https://panamag.ir/wp-content/uploads/2023/01/fish-and-chips.jpg",
+    "Originality": "England, London",
+    "TimeInMinuts": 60,
+    "Price": 200000,
+    "Ingridients": [
+      {
+        "Id": 1,
+        "Name": "Fish"
+
+      },
+      {
+        "Id": 2,
+        "Name": "Potato"
+
+      },
+      {
+        "Id": 3,
+        "Name": "Onion"
+      },
+      {
+        "Id": 4,
+        "Name": "Pepper"
+      },
+      {
+        "Id": 5,
+        "Name": "Salt"
+      }
+    ]
+  },
+  {
+    "Id": 7,
+    "Name": "Homs",
+    "Description": "Mas, which is also known as hummus, is one of the most popular dishes in Lebanon, which is made with a variety of flavors.",
+    "ImageUrl": "https://panamag.ir/wp-content/uploads/2022/05/homs.jpg",
+    "Originality": "Lebanon, Beirut",
+    "TimeInMinuts": 60,
+    "Price": 20000,
+    "Ingridients": [
+      {
+        "Id": 1,
+        "Name": "Pea"
+
+      },
+      {
+        "Id": 2,
+        "Name": "Olive oil"
+
+      },
+      {
+        "Id": 3,
+        "Name": "Onion"
+      },
+      {
+        "Id": 4,
+        "Name": "Garlic"
+      },
+      {
+        "Id": 5,
+        "Name": "Salt"
+      }
+    ]
+  },
+  {
+    "Id": 8,
+    "Name": "Lebanese grilled chicken",
+    "Description": "Lebanese grilled chicken is one of the simple and delicious dishes of Lebanon, which is made with various flavors and recipes.",
+    "ImageUrl": "https://panamag.ir/wp-content/uploads/2022/01/jooje-kabab-lobnani.jpg",
+    "Originality": "Lebanon, Beirut",
+    "TimeInMinuts": 60,
+    "Price": 250000,
+    "Ingridients": [
+      {
+        "Id": 1,
+        "Name": "Chicken"
+
+      },
+      {
+        "Id": 2,
+        "Name": "Olive oil"
+
+      },
+      {
+        "Id": 3,
+        "Name": "Onion"
+      },
+      {
+        "Id": 4,
+        "Name": "Tomato paste"
+      },
+      {
+        "Id": 5,
+        "Name": "Salt"
+      }
+    ]
+  }
+]
