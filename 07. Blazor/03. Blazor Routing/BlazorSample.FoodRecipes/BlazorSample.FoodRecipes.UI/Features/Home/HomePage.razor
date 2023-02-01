@@ -1,0 +1,42 @@
+﻿@page "/"
+@inject HttpClient _httpClient;
+<PageTitle>Recipes Home Page</PageTitle>
+<RecipeSearch></RecipeSearch>
+@if (_recipes == null)
+{
+    <div>Loading Recipes ...</div>
+}
+else
+{
+    <div class="row row-cols-1 row-cols-sm-2 row-cols-md-3 g-3">
+
+        @foreach (var recipe in _recipes)
+        {
+            <RecipeCard recipe="recipe" OnSelectRecipe="OnSelectRecipeHandler"></RecipeCard>
+        }
+    </div>
+    <RecipeDetail recipe="selectedRecipe"></RecipeDetail>
+}
+
+@code {
+    public IEnumerable<Recipe> _recipes { get; set; }
+    public Recipe selectedRecipe { get; set; }
+    protected override async Task OnInitializedAsync()
+    {
+        try
+        {
+            _recipes = await _httpClient.GetFromJsonAsync<IEnumerable<Recipe>>("/Data.json");
+        }
+        catch (Exception ex)
+        {
+            Console.WriteLine($"Badness->{ex.Message}");
+
+        }
+    }
+
+    void OnSelectRecipeHandler(Recipe recipe)
+    {
+        selectedRecipe = recipe;
+
+    }
+}

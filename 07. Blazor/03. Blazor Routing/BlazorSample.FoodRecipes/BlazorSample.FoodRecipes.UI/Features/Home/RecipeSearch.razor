@@ -1,0 +1,17 @@
+﻿@inject NavigationManager _navigationManager
+<div>
+    <div class="display-4 text-center">Welcome to Blazor Food Recipe</div>
+    <p>Find your favorite recipe</p>
+    <p class="mt-5">
+        <input @onkeydown="searchRecipe" @bind="_searchTerm" type="text" class="form-control form-control-lg" placeholder="Search for recipe..." @bind:event="oninput" />
+    </p>
+</div>
+
+@code {
+    private string _searchTerm = "";
+    private void searchRecipe(KeyboardEventArgs args)
+    {
+        if (args.Key != "Enter") return;
+        _navigationManager.NavigateTo($"/search/{_searchTerm}");
+    }
+}
