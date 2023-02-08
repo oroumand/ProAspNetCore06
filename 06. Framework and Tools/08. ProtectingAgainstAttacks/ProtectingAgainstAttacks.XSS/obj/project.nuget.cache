@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "teaeuqaGhv9obKdunuh2XPH5nPWM6MS6v6d6iQBvpBBi9t3Y/d/NqnhADOBxbD2crrEqTBWM7CplFX9Ga8bXDA==",
+  "success": true,
+  "projectFilePath": "F:\\Source\\Samples\\ProtectingAgainstAttacks\\ProtectingAgainstAttacks.XSS\\ProtectingAgainstAttacks.XSS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Alireza\\.nuget\\packages\\nwebsec.aspnetcore.core\\3.0.0\\nwebsec.aspnetcore.core.3.0.0.nupkg.sha512",
+    "C:\\Users\\Alireza\\.nuget\\packages\\nwebsec.aspnetcore.middleware\\3.0.0\\nwebsec.aspnetcore.middleware.3.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

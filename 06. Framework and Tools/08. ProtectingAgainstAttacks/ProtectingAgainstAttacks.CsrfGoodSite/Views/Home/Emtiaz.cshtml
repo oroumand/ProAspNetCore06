@@ -1,0 +1,19 @@
+﻿@model Customer
+
+<h3>
+    @Model.Name
+</h3>
+<h4>
+    @Model.Emtiaz
+</h4>
+
+<hr />
+<form action="Transfer" method="post" asp-antiforgery="true">
+
+<label>
+Transfer Emtiaz To Customer Id:
+</label>
+<input type="text" name="newCustomerId"/>
+<hr />
+<input type="submit" value="Submit"/>
+</form>

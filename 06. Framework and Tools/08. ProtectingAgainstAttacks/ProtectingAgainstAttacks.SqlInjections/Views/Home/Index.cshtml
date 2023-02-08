@@ -1,0 +1,28 @@
+﻿@model System.Data.SqlClient.SqlDataReader;
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<form>
+    <div>
+        <label>Search Text</label>
+        <input type="text" class="form-control" name="searchText" />
+    </div>
+    <input type="submit" value="Search" class="btn btn-success" />
+</form>
+<hr class="m-2"/>
+<table class="table table-bordered table-light">
+    <tr>
+        <td>Id</td>
+        <td>LastName</td>
+    </tr>
+
+    @while (Model.Read())
+    {
+        <tr>
+            <td>@Model[0]</td>
+            <td>@Model[1]</td>
+        </tr>
+    }
+
+</table>

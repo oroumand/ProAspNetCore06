@@ -1,0 +1,13 @@
+﻿@model string
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<form>
+    <input type="text" class="form-control" name="term" />
+    <input type="submit" value="Save" />
+</form>
+<p>
+    @*@Html.Raw(Model)*@
+    @Model
+</p>

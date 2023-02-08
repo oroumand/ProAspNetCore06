@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\ProtectingAgainstAttacks.HttpSample.props" />
+</Project>

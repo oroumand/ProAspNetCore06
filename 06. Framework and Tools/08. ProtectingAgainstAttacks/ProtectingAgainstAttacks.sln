@@ -1,0 +1,73 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ProtectingAgainstAttacks.HttpSample", "ProtectingAgainstAttacks.HttpSample\ProtectingAgainstAttacks.HttpSample.csproj", "{44152A00-311C-4962-A22A-92CBF938A8B6}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ProtectingAgainstAttacks.HSTSSamples", "ProtectingAgainstAttacks.HSTSSamples\ProtectingAgainstAttacks.HSTSSamples.csproj", "{F8693AF9-00FE-40F0-A4D5-BF02EB81D941}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ProtectingAgainstAttacks.SqlInjections", "ProtectingAgainstAttacks.SqlInjections\ProtectingAgainstAttacks.SqlInjections.csproj", "{60AE13DE-9800-4579-B191-960155E4E3E1}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ProtectingAgainstAttacks.CsrfGoodSite", "ProtectingAgainstAttacks.CsrfGoodSite\ProtectingAgainstAttacks.CsrfGoodSite.csproj", "{B7766581-550B-4C2E-9AA9-171D0BE22CAE}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ProtectingAgainstAttacks.CsrfBadSite", "ProtectingAgainstAttacks.CsrfBadSite\ProtectingAgainstAttacks.CsrfBadSite.csproj", "{1EC1657C-0080-4818-9FC9-34B7342D57AD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProtectingAgainstAttacks.XSS", "ProtectingAgainstAttacks.XSS\ProtectingAgainstAttacks.XSS.csproj", "{C7AFF1D5-81D4-4372-A047-1DC4EF230493}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProtectingAgainstAttacks.OpenRedirection", "ProtectingAgainstAttacks.OpenRedirection\ProtectingAgainstAttacks.OpenRedirection.csproj", "{05D9AB35-FE5A-465A-9BDB-CE174EE0CEC3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProtectingAgainstAttacks.Cors", "ProtectingAgainstAttacks.Cors\ProtectingAgainstAttacks.Cors.csproj", "{BE92E55A-AE22-4925-8020-435D987CB6BB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProtectingAgainstAttacks.DataprotectionSamples", "ProtectingAgainstAttacks.DataprotectionSamples\ProtectingAgainstAttacks.DataprotectionSamples.csproj", "{F2BC7AD7-6A57-45BB-8D3B-0B9FBF64913F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{44152A00-311C-4962-A22A-92CBF938A8B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44152A00-311C-4962-A22A-92CBF938A8B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44152A00-311C-4962-A22A-92CBF938A8B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44152A00-311C-4962-A22A-92CBF938A8B6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F8693AF9-00FE-40F0-A4D5-BF02EB81D941}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F8693AF9-00FE-40F0-A4D5-BF02EB81D941}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F8693AF9-00FE-40F0-A4D5-BF02EB81D941}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F8693AF9-00FE-40F0-A4D5-BF02EB81D941}.Release|Any CPU.Build.0 = Release|Any CPU
+		{60AE13DE-9800-4579-B191-960155E4E3E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60AE13DE-9800-4579-B191-960155E4E3E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{60AE13DE-9800-4579-B191-960155E4E3E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{60AE13DE-9800-4579-B191-960155E4E3E1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B7766581-550B-4C2E-9AA9-171D0BE22CAE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7766581-550B-4C2E-9AA9-171D0BE22CAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7766581-550B-4C2E-9AA9-171D0BE22CAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7766581-550B-4C2E-9AA9-171D0BE22CAE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1EC1657C-0080-4818-9FC9-34B7342D57AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1EC1657C-0080-4818-9FC9-34B7342D57AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1EC1657C-0080-4818-9FC9-34B7342D57AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1EC1657C-0080-4818-9FC9-34B7342D57AD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C7AFF1D5-81D4-4372-A047-1DC4EF230493}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C7AFF1D5-81D4-4372-A047-1DC4EF230493}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C7AFF1D5-81D4-4372-A047-1DC4EF230493}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C7AFF1D5-81D4-4372-A047-1DC4EF230493}.Release|Any CPU.Build.0 = Release|Any CPU
+		{05D9AB35-FE5A-465A-9BDB-CE174EE0CEC3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05D9AB35-FE5A-465A-9BDB-CE174EE0CEC3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05D9AB35-FE5A-465A-9BDB-CE174EE0CEC3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05D9AB35-FE5A-465A-9BDB-CE174EE0CEC3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BE92E55A-AE22-4925-8020-435D987CB6BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE92E55A-AE22-4925-8020-435D987CB6BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE92E55A-AE22-4925-8020-435D987CB6BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE92E55A-AE22-4925-8020-435D987CB6BB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F2BC7AD7-6A57-45BB-8D3B-0B9FBF64913F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2BC7AD7-6A57-45BB-8D3B-0B9FBF64913F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F2BC7AD7-6A57-45BB-8D3B-0B9FBF64913F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F2BC7AD7-6A57-45BB-8D3B-0B9FBF64913F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5F310EF1-4298-4995-BDD7-F5C8C8BBB14E}
+	EndGlobalSection
+EndGlobal
