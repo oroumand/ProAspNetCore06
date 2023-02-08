@@ -1,0 +1,15 @@
+F:\Source\Samples\DisposeAndGcSamples\DisposeAndGcSamples\bin\Debug\net6.0\DisposeAndGcSamples.exe
+F:\Source\Samples\DisposeAndGcSamples\DisposeAndGcSamples\bin\Debug\net6.0\DisposeAndGcSamples.deps.json
+F:\Source\Samples\DisposeAndGcSamples\DisposeAndGcSamples\bin\Debug\net6.0\DisposeAndGcSamples.runtimeconfig.json
+F:\Source\Samples\DisposeAndGcSamples\DisposeAndGcSamples\bin\Debug\net6.0\DisposeAndGcSamples.dll
+F:\Source\Samples\DisposeAndGcSamples\DisposeAndGcSamples\bin\Debug\net6.0\DisposeAndGcSamples.pdb
+F:\Source\Samples\DisposeAndGcSamples\DisposeAndGcSamples\obj\Debug\net6.0\DisposeAndGcSamples.csproj.AssemblyReference.cache
+F:\Source\Samples\DisposeAndGcSamples\DisposeAndGcSamples\obj\Debug\net6.0\DisposeAndGcSamples.GeneratedMSBuildEditorConfig.editorconfig
+F:\Source\Samples\DisposeAndGcSamples\DisposeAndGcSamples\obj\Debug\net6.0\DisposeAndGcSamples.AssemblyInfoInputs.cache
+F:\Source\Samples\DisposeAndGcSamples\DisposeAndGcSamples\obj\Debug\net6.0\DisposeAndGcSamples.AssemblyInfo.cs
+F:\Source\Samples\DisposeAndGcSamples\DisposeAndGcSamples\obj\Debug\net6.0\DisposeAndGcSamples.csproj.CoreCompileInputs.cache
+F:\Source\Samples\DisposeAndGcSamples\DisposeAndGcSamples\obj\Debug\net6.0\DisposeAndGcSamples.dll
+F:\Source\Samples\DisposeAndGcSamples\DisposeAndGcSamples\obj\Debug\net6.0\refint\DisposeAndGcSamples.dll
+F:\Source\Samples\DisposeAndGcSamples\DisposeAndGcSamples\obj\Debug\net6.0\DisposeAndGcSamples.pdb
+F:\Source\Samples\DisposeAndGcSamples\DisposeAndGcSamples\obj\Debug\net6.0\DisposeAndGcSamples.genruntimeconfig.cache
+F:\Source\Samples\DisposeAndGcSamples\DisposeAndGcSamples\obj\Debug\net6.0\ref\DisposeAndGcSamples.dll
