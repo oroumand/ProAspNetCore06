@@ -99,3 +99,4 @@ F:\Source\ProAspNetCore06\07. Blazor\04. Blazor Forms\BlazorSample.FoodRecipes\B
 F:\Source\ProAspNetCore06\07. Blazor\04. Blazor Forms\BlazorSample.FoodRecipes\BlazorSample.FoodRecipes.API\bin\Debug\net7.0\FluentValidation.DependencyInjectionExtensions.dll
 F:\Source\ProAspNetCore06\07. Blazor\04. Blazor Forms\BlazorSample.FoodRecipes\BlazorSample.FoodRecipes.API\obj\Debug\net7.0\BlazorSample.FoodRecipes.API.MvcApplicationPartsAssemblyInfo.cs
 F:\Source\ProAspNetCore06\07. Blazor\04. Blazor Forms\BlazorSample.FoodRecipes\BlazorSample.FoodRecipes.API\bin\Debug\net7.0\Blazored.FluentValidation.dll
+F:\Source\ProAspNetCore06\07. Blazor\04. Blazor Forms\BlazorSample.FoodRecipes\BlazorSample.FoodRecipes.API\bin\Debug\net7.0\SixLabors.ImageSharp.dll

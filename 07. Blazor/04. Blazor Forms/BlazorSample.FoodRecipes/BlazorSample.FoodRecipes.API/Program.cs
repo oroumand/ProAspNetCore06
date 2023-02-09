@@ -2,6 +2,7 @@ using BlazorSample.FoodRecipes.DAL;
 using Microsoft.EntityFrameworkCore;
 using FluentValidation.AspNetCore;
 using System.Reflection;
+using Microsoft.Extensions.FileProviders;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -21,6 +22,11 @@ if (app.Environment.IsDevelopment())
 
 app.UseBlazorFrameworkFiles();
 app.UseStaticFiles();
+app.UseStaticFiles(new StaticFileOptions()
+{
+    FileProvider = new PhysicalFileProvider(Path.Combine(Directory.GetCurrentDirectory(),"Images")),
+    RequestPath = new Microsoft.AspNetCore.Http.PathString("/Images")
+});
 app.UseHttpsRedirection();
 
 app.UseAuthorization();

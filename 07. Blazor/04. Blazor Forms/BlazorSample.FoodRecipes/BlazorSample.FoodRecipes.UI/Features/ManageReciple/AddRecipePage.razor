@@ -15,7 +15,7 @@ else if (!string.IsNullOrEmpty(_errorMessage))
         @_errorMessage
     </div>
 }
-<EditForm Model="_recipe" OnValidSubmit="SubmitForm">
+<EditForm EditContext="_editContext" OnValidSubmit="SubmitForm">
     <FluentValidationValidator></FluentValidationValidator>
     <FormSection Title="Basic Data" Description="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat">
         <FormFieldSet>
@@ -53,9 +53,15 @@ else if (!string.IsNullOrEmpty(_errorMessage))
             <lable for="TimeInMinuts" class="fw-bold text-secondary">
                 TimeInMinuts
             </lable>
-            <InputNumber @bind-Value="_recipe.TimeInMinuts" class="form-control" id="recipeTimeInMinuts"></InputNumber>
+            <InputTime @bind-Value="_recipe.TimeInMinuts" id="recipeTimeInMinuts"></InputTime>
             <ValidationMessage For="@(()=>_recipe.TimeInMinuts)" />
 
+        </FormFieldSet>
+        <FormFieldSet>
+            <lable for="RecipeImage" class="fw-bold text-secondary">
+                Recipe Image
+            </lable>
+            <InputFile OnChange="LoadRecipeFile" id="recipeImage" accept=".jpg, .png, .jpeg" On></InputFile>
         </FormFieldSet>
     </FormSection>
 
@@ -112,9 +118,22 @@ else if (!string.IsNullOrEmpty(_errorMessage))
 </EditForm>
 @code {
     private RecipeDto _recipe = new RecipeDto();
+    private EditContext _editContext = default;
     private bool _success;
     private int _id;
     private string _errorMessage;
+    private IBrowserFile? _recipeFile;
+
+    private void LoadRecipeFile(InputFileChangeEventArgs args)
+    {
+        _recipeFile = args.File;
+    }
+
+    protected override void OnInitialized()
+    {
+        _editContext = new EditContext(_recipe);
+        _editContext.SetFieldCssClassProvider(new BootstrapCssClassProvider());
+    }
     public async Task SubmitForm()
     {
         var response = await _httpClient.PostAsJsonAsync("/api/Recipe", _recipe);
@@ -124,6 +143,24 @@ else if (!string.IsNullOrEmpty(_errorMessage))
             _errorMessage = string.Empty;
             _id = int.Parse(await response.Content.ReadAsStringAsync());
             _success = true;
+            if(_recipeFile is not null)
+            {
+                var fileContent = _recipeFile.OpenReadStream(_recipeFile.Size);
+                using var content = new MultipartFormDataContent();
+                content.Add(new StreamContent(fileContent), "image", _recipeFile.Name);
+                var imageResponse = await _httpClient.PostAsync($"/api/Recipe/{_id}", content);
+                if(imageResponse.IsSuccessStatusCode)
+                {
+                    _recipeFile = null;
+                }
+                else
+                {
+                    
+                }
+
+            }
+
+
         }
         else
         {

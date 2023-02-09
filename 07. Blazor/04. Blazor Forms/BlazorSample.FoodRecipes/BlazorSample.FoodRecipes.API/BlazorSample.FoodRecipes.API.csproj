@@ -14,12 +14,17 @@
 		  <PrivateAssets>all</PrivateAssets>
 		  <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
 	  </PackageReference>
+	  <PackageReference Include="SixLabors.ImageSharp" Version="2.1.3" />
   </ItemGroup>
 
   <ItemGroup>
     <ProjectReference Include="..\BlazorSample.FoodRecipes.DAL\BlazorSample.FoodRecipes.DAL.csproj" />
     <ProjectReference Include="..\BlazorSample.FoodRecipes.Shared\BlazorSample.FoodRecipes.Shared.csproj" />
     <ProjectReference Include="..\BlazorSample.FoodRecipes.UI\BlazorSample.FoodRecipes.UI.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Images\" />
   </ItemGroup>
 
 </Project>

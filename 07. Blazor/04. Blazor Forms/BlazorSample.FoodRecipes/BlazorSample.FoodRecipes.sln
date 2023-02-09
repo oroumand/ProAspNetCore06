@@ -5,11 +5,11 @@ VisualStudioVersion = 17.4.33205.214
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BlazorSample.FoodRecipes.UI", "BlazorSample.FoodRecipes.UI\BlazorSample.FoodRecipes.UI.csproj", "{DEEDF4A0-44F3-473F-B075-A4DA08CE2F9C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlazorSample.FoodRecipes.API", "BlazorSample.FoodRecipes.API\BlazorSample.FoodRecipes.API.csproj", "{1C12DCFF-03CF-484B-A746-D14F8A3F146D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BlazorSample.FoodRecipes.API", "BlazorSample.FoodRecipes.API\BlazorSample.FoodRecipes.API.csproj", "{1C12DCFF-03CF-484B-A746-D14F8A3F146D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlazorSample.FoodRecipes.Shared", "BlazorSample.FoodRecipes.Shared\BlazorSample.FoodRecipes.Shared.csproj", "{841C3CF1-7157-4701-8888-C5E7757F1A11}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BlazorSample.FoodRecipes.Shared", "BlazorSample.FoodRecipes.Shared\BlazorSample.FoodRecipes.Shared.csproj", "{841C3CF1-7157-4701-8888-C5E7757F1A11}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlazorSample.FoodRecipes.DAL", "BlazorSample.FoodRecipes.DAL\BlazorSample.FoodRecipes.DAL.csproj", "{3483238E-AC74-4D6B-AA50-AC362792B6C9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BlazorSample.FoodRecipes.DAL", "BlazorSample.FoodRecipes.DAL\BlazorSample.FoodRecipes.DAL.csproj", "{3483238E-AC74-4D6B-AA50-AC362792B6C9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
