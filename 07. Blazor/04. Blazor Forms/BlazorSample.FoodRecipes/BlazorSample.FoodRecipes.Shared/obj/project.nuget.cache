@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "fy34OJrlC9JvzZtSx2Ifp4yXrjdttYooVb7yLMCKLwEJAg+CJpZ2o6JvtZNGNAnAT8GzVhti1c/1qPtug3lB2A==",
+  "success": true,
+  "projectFilePath": "F:\\Source\\ProAspNetCore06\\07. Blazor\\04. Blazor Forms\\BlazorSample.FoodRecipes\\BlazorSample.FoodRecipes.Shared\\BlazorSample.FoodRecipes.Shared.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Alireza\\.nuget\\packages\\fluentvalidation\\11.4.0\\fluentvalidation.11.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,27 @@
+﻿@inject NavigationManager _navigationManager
+
+
+<div>
+    <lable for="maxTime">Max Time</lable>
+    <input id="maxTime" type="number" class="form-control" @bind="_maxTime"/>
+    <input type="button" value="Filter" @onclick="Filter" class="btn btn-success"/>
+    <input type="button" value="Clear" @onclick="Clear" class="btn btn-danger" />
+</div>
+
+@code {
+    private int _maxTime;
+    [Parameter,EditorRequired]
+    public string SearchTerm { get; set; } = string.Empty;
+
+    private void Filter()
+    {
+        string myNewAddress = _navigationManager.GetUriWithQueryParameter("MaxTime", _maxTime);
+        _navigationManager.NavigateTo(myNewAddress);
+    }
+
+    private void Clear()
+    {
+        _maxTime = 0;
+        _navigationManager.NavigateTo($"/search/{SearchTerm}");
+    }
+}
