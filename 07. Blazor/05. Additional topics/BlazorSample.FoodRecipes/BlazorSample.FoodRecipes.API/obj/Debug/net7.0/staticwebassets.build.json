@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "xbpIZXovPJAlk4mYoxv2cNuZK5VIrvlCPt2kgwiMcFY=",
+  "Hash": "RmztWhdGrPDfwMslNLGLaY6CGtk8bQNJ96bT2LGTQxI=",
   "Source": "BlazorSample.FoodRecipes.API",
   "BasePath": "_content/BlazorSample.FoodRecipes.API",
   "Mode": "Default",
@@ -7219,6 +7219,23 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "F:\\Source\\ProAspNetCore06\\07. Blazor\\05. Additional topics\\BlazorSample.FoodRecipes\\BlazorSample.FoodRecipes.UI\\bin\\Debug\\net7.0\\wwwroot\\_framework\\System.Xml.XPath.dll"
+    },
+    {
+      "Identity": "F:\\Source\\ProAspNetCore06\\07. Blazor\\05. Additional topics\\BlazorSample.FoodRecipes\\BlazorSample.FoodRecipes.UI\\wwwroot\\appsettings.json",
+      "SourceId": "BlazorSample.FoodRecipes.UI",
+      "SourceType": "Project",
+      "ContentRoot": "F:\\Source\\ProAspNetCore06\\07. Blazor\\05. Additional topics\\BlazorSample.FoodRecipes\\BlazorSample.FoodRecipes.UI\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "appsettings.json",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "BlazorWebAssemblyResource",
+      "AssetTraitValue": "settings",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\appsettings.json"
     },
     {
       "Identity": "F:\\Source\\ProAspNetCore06\\07. Blazor\\05. Additional topics\\BlazorSample.FoodRecipes\\BlazorSample.FoodRecipes.UI\\wwwroot\\css\\app.css",

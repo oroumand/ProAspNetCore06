@@ -1,4 +1,5 @@
 using BlazorSample.FoodRecipes.UI;
+using BlazorSample.FoodRecipes.UI.Features.Auth;
 using Microsoft.AspNetCore.Components.Web;
 using Microsoft.AspNetCore.Components.WebAssembly.Authentication;
 using Microsoft.AspNetCore.Components.WebAssembly.Hosting;
@@ -14,6 +15,6 @@ builder.Services.AddOidcAuthentication(c =>
     builder.Configuration.Bind("auth0", c.ProviderOptions);
     c.ProviderOptions.ResponseType = "code";
 }
-);
+).AddAccountClaimsPrincipalFactory<CustomUserFactory<RemoteUserAccount>>();
 
 await builder.Build().RunAsync();

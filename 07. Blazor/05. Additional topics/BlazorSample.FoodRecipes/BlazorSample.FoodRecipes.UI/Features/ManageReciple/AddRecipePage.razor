@@ -1,4 +1,5 @@
 ﻿@page "/add-recipe"
+@attribute [Authorize(Roles ="Admin")]
 @inject HttpClient _httpClient;
 <PageTitle>Add Recipe</PageTitle>
 
@@ -143,19 +144,19 @@ else if (!string.IsNullOrEmpty(_errorMessage))
             _errorMessage = string.Empty;
             _id = int.Parse(await response.Content.ReadAsStringAsync());
             _success = true;
-            if(_recipeFile is not null)
+            if (_recipeFile is not null)
             {
                 var fileContent = _recipeFile.OpenReadStream(_recipeFile.Size);
                 using var content = new MultipartFormDataContent();
                 content.Add(new StreamContent(fileContent), "image", _recipeFile.Name);
                 var imageResponse = await _httpClient.PostAsync($"/api/Recipe/{_id}", content);
-                if(imageResponse.IsSuccessStatusCode)
+                if (imageResponse.IsSuccessStatusCode)
                 {
                     _recipeFile = null;
                 }
                 else
                 {
-                    
+
                 }
 
             }
