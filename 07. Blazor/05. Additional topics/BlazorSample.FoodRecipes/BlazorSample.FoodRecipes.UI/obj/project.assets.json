@@ -514,6 +514,19 @@
         "runtime": {
           "bin/placeholder/BlazorSample.FoodRecipes.Shared.dll": {}
         }
+      },
+      "BlazorSample.FoodRecipes.UiComponents/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "Microsoft.AspNetCore.Components.Web": "7.0.1"
+        },
+        "compile": {
+          "bin/placeholder/BlazorSample.FoodRecipes.UiComponents.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/BlazorSample.FoodRecipes.UiComponents.dll": {}
+        }
       }
     },
     "net7.0/browser-wasm": {
@@ -1022,6 +1035,19 @@
         },
         "runtime": {
           "bin/placeholder/BlazorSample.FoodRecipes.Shared.dll": {}
+        }
+      },
+      "BlazorSample.FoodRecipes.UiComponents/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "Microsoft.AspNetCore.Components.Web": "7.0.1"
+        },
+        "compile": {
+          "bin/placeholder/BlazorSample.FoodRecipes.UiComponents.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/BlazorSample.FoodRecipes.UiComponents.dll": {}
         }
       }
     }
@@ -1912,11 +1938,17 @@
       "type": "project",
       "path": "../BlazorSample.FoodRecipes.Shared/BlazorSample.FoodRecipes.Shared.csproj",
       "msbuildProject": "../BlazorSample.FoodRecipes.Shared/BlazorSample.FoodRecipes.Shared.csproj"
+    },
+    "BlazorSample.FoodRecipes.UiComponents/1.0.0": {
+      "type": "project",
+      "path": "../BlazorSample.FoodRecipes.UiComponents/BlazorSample.FoodRecipes.UiComponents.csproj",
+      "msbuildProject": "../BlazorSample.FoodRecipes.UiComponents/BlazorSample.FoodRecipes.UiComponents.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net7.0": [
       "BlazorSample.FoodRecipes.Shared >= 1.0.0",
+      "BlazorSample.FoodRecipes.UiComponents >= 1.0.0",
       "Blazored.FluentValidation >= 2.1.0",
       "Microsoft.AspNetCore.Components.WebAssembly >= 7.0.1",
       "Microsoft.AspNetCore.Components.WebAssembly.DevServer >= 7.0.1"
@@ -1951,6 +1983,9 @@
           "projectReferences": {
             "F:\\Source\\ProAspNetCore06\\07. Blazor\\05. Additional topics\\BlazorSample.FoodRecipes\\BlazorSample.FoodRecipes.Shared\\BlazorSample.FoodRecipes.Shared.csproj": {
               "projectPath": "F:\\Source\\ProAspNetCore06\\07. Blazor\\05. Additional topics\\BlazorSample.FoodRecipes\\BlazorSample.FoodRecipes.Shared\\BlazorSample.FoodRecipes.Shared.csproj"
+            },
+            "F:\\Source\\ProAspNetCore06\\07. Blazor\\05. Additional topics\\BlazorSample.FoodRecipes\\BlazorSample.FoodRecipes.UiComponents\\BlazorSample.FoodRecipes.UiComponents.csproj": {
+              "projectPath": "F:\\Source\\ProAspNetCore06\\07. Blazor\\05. Additional topics\\BlazorSample.FoodRecipes\\BlazorSample.FoodRecipes.UiComponents\\BlazorSample.FoodRecipes.UiComponents.csproj"
             }
           }
         }

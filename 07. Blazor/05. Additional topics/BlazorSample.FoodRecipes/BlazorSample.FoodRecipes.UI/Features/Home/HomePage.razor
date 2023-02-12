@@ -8,57 +8,44 @@
 }
 else
 {
-    <ViewSwithcher>
-        <CardTemplate>
-            <div class="row row-cols-1 row-cols-sm-2 row-cols-md-3 g-3">
-
-                @foreach (var recipe in _recipes)
-                {
-                    <RecipeCard recipe="recipe" OnSelectRecipe="OnSelectRecipeHandler"></RecipeCard>
-                }
-            </div>
+    <ViewSwithcher Items="_recipes">
+        <CardTemplate Context="recipe">
+            <RecipeCard recipe="recipe" OnSelectRecipe="OnSelectRecipeHandler"></RecipeCard>
         </CardTemplate>
-        <TableTemplate>
-            <table class="table table-bordered table-striped">
-                <tr>
-                    <th>
-                        Name
-                    </th>
-                    <th>
-                        Originality
-                    </th>
-                    <th>
-                        Price
-                    </th>
-                    <th>
-                        Time
-                    </th>
-                    <th>
-                        View
-                    </th>
-                </tr>
-                @foreach (var recipe in _recipes)
-                {
-                 <tr>
-                     <td>
-                         @recipe.Name
-                     </td>
-                                       <td>
-                         @recipe.Originality
-                     </td>
-                        <td>
-                            @recipe.Price
-                        </td>
-                        <td>
-                            @recipe.TimeInString
-                        </td>
-                        <td>
-                            <button class="btn btn-success" @onclick="@(()=> OnSelectRecipeHandler(recipe))">Select</button>
-                        </td>
-                 </tr>                   
-                }
-            </table>
-        </TableTemplate>
+        <TableHeaderTemplate>
+            <th>
+                Name
+            </th>
+            <th>
+                Originality
+            </th>
+            <th>
+                Price
+            </th>
+            <th>
+                Time
+            </th>
+            <th>
+                View
+            </th>
+        </TableHeaderTemplate>
+        <TableRowTemplate Context="recipe">
+            <td>
+                @recipe.Name
+            </td>
+            <td>
+                @recipe.Originality
+            </td>
+            <td>
+                @recipe.Price
+            </td>
+            <td>
+                @recipe.TimeInString
+            </td>
+            <td>
+                <button class="btn btn-success" @onclick="@(()=> OnSelectRecipeHandler(recipe))">Select</button>
+            </td>
+        </TableRowTemplate>
     </ViewSwithcher>
 
     <RecipeDetail recipe="selectedRecipe"></RecipeDetail>

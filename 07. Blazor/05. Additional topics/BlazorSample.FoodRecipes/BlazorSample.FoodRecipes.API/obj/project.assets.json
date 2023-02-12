@@ -1575,6 +1575,7 @@
         "framework": ".NETCoreApp,Version=v7.0",
         "dependencies": {
           "BlazorSample.FoodRecipes.Shared": "1.0.0",
+          "BlazorSample.FoodRecipes.UiComponents": "1.0.0",
           "Blazored.FluentValidation": "2.1.0",
           "Microsoft.AspNetCore.Components.WebAssembly": "7.0.1"
         },
@@ -1583,6 +1584,19 @@
         },
         "runtime": {
           "bin/placeholder/BlazorSample.FoodRecipes.UI.dll": {}
+        }
+      },
+      "BlazorSample.FoodRecipes.UiComponents/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "Microsoft.AspNetCore.Components.Web": "7.0.1"
+        },
+        "compile": {
+          "bin/placeholder/BlazorSample.FoodRecipes.UiComponents.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/BlazorSample.FoodRecipes.UiComponents.dll": {}
         }
       }
     }
@@ -4435,6 +4449,11 @@
       "type": "project",
       "path": "../BlazorSample.FoodRecipes.UI/BlazorSample.FoodRecipes.UI.csproj",
       "msbuildProject": "../BlazorSample.FoodRecipes.UI/BlazorSample.FoodRecipes.UI.csproj"
+    },
+    "BlazorSample.FoodRecipes.UiComponents/1.0.0": {
+      "type": "project",
+      "path": "../BlazorSample.FoodRecipes.UiComponents/BlazorSample.FoodRecipes.UiComponents.csproj",
+      "msbuildProject": "../BlazorSample.FoodRecipes.UiComponents/BlazorSample.FoodRecipes.UiComponents.csproj"
     }
   },
   "projectFileDependencyGroups": {

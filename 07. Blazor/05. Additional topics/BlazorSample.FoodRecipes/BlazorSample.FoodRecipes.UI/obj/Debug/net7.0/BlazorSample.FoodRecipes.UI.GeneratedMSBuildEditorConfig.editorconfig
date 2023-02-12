@@ -44,8 +44,8 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = RmVhdHVyZXNcSG9tZVxTZWFyY2hQYWdlLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/Source/ProAspNetCore06/07. Blazor/05. Additional topics/BlazorSample.FoodRecipes/BlazorSample.FoodRecipes.UI/Features/Home/ViewSwithcher.razor]
-build_metadata.AdditionalFiles.TargetPath = RmVhdHVyZXNcSG9tZVxWaWV3U3dpdGhjaGVyLnJhem9y
+[F:/Source/ProAspNetCore06/07. Blazor/05. Additional topics/BlazorSample.FoodRecipes/BlazorSample.FoodRecipes.UI/Features/Home/ViewSwithcherOld.razor]
+build_metadata.AdditionalFiles.TargetPath = RmVhdHVyZXNcSG9tZVxWaWV3U3dpdGhjaGVyT2xkLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
 [F:/Source/ProAspNetCore06/07. Blazor/05. Additional topics/BlazorSample.FoodRecipes/BlazorSample.FoodRecipes.UI/Features/ManageReciple/AddRecipePage.razor]

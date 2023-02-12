@@ -202,3 +202,6 @@ F:\Source\ProAspNetCore06\07. Blazor\05. Additional topics\BlazorSample.FoodReci
 F:\Source\ProAspNetCore06\07. Blazor\05. Additional topics\BlazorSample.FoodRecipes\BlazorSample.FoodRecipes.API\obj\Debug\net7.0\BlazorSample.FoodRecipes.API.pdb
 F:\Source\ProAspNetCore06\07. Blazor\05. Additional topics\BlazorSample.FoodRecipes\BlazorSample.FoodRecipes.API\obj\Debug\net7.0\BlazorSample.FoodRecipes.API.genruntimeconfig.cache
 F:\Source\ProAspNetCore06\07. Blazor\05. Additional topics\BlazorSample.FoodRecipes\BlazorSample.FoodRecipes.API\obj\Debug\net7.0\ref\BlazorSample.FoodRecipes.API.dll
+F:\Source\ProAspNetCore06\07. Blazor\05. Additional topics\BlazorSample.FoodRecipes\BlazorSample.FoodRecipes.API\bin\Debug\net7.0\BlazorSample.FoodRecipes.UiComponents.staticwebassets.runtime.json
+F:\Source\ProAspNetCore06\07. Blazor\05. Additional topics\BlazorSample.FoodRecipes\BlazorSample.FoodRecipes.API\bin\Debug\net7.0\BlazorSample.FoodRecipes.UiComponents.dll
+F:\Source\ProAspNetCore06\07. Blazor\05. Additional topics\BlazorSample.FoodRecipes\BlazorSample.FoodRecipes.API\bin\Debug\net7.0\BlazorSample.FoodRecipes.UiComponents.pdb

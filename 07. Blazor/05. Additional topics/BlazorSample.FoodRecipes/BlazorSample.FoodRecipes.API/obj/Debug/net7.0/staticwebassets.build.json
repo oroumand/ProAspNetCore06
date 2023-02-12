@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "9uBmbFfgYBJd++ShR9Jzo4Rf6/Iv1NfOE0viaJTxCd4=",
+  "Hash": "zfO5Pkuc1D5dlfRTKN3O97lIAXE9t001QDY0GQRJ5zM=",
   "Source": "BlazorSample.FoodRecipes.API",
   "BasePath": "_content/BlazorSample.FoodRecipes.API",
   "Mode": "Default",
@@ -16,6 +16,17 @@
       "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
       "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
       "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework"
+    },
+    {
+      "Identity": "F:\\Source\\ProAspNetCore06\\07. Blazor\\05. Additional topics\\BlazorSample.FoodRecipes\\BlazorSample.FoodRecipes.UiComponents\\BlazorSample.FoodRecipes.UiComponents.csproj",
+      "Version": 2,
+      "Source": "BlazorSample.FoodRecipes.UiComponents",
+      "GetPublishAssetsTargets": "ComputeReferencedStaticWebAssetsPublishManifest;GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained"
     }
   ],
   "DiscoveryPatterns": [
@@ -24,6 +35,13 @@
       "Source": "BlazorSample.FoodRecipes.UI",
       "ContentRoot": "F:\\Source\\ProAspNetCore06\\07. Blazor\\05. Additional topics\\BlazorSample.FoodRecipes\\BlazorSample.FoodRecipes.UI\\wwwroot\\",
       "BasePath": "/",
+      "Pattern": "**"
+    },
+    {
+      "Name": "BlazorSample.FoodRecipes.UiComponents\\wwwroot",
+      "Source": "BlazorSample.FoodRecipes.UiComponents",
+      "ContentRoot": "F:\\Source\\ProAspNetCore06\\07. Blazor\\05. Additional topics\\BlazorSample.FoodRecipes\\BlazorSample.FoodRecipes.UiComponents\\wwwroot\\",
+      "BasePath": "_content/BlazorSample.FoodRecipes.UiComponents",
       "Pattern": "**"
     }
   ],
@@ -146,6 +164,40 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "obj\\Debug\\net7.0\\BlazorSample.FoodRecipes.UI.pdb"
+    },
+    {
+      "Identity": "F:\\Source\\ProAspNetCore06\\07. Blazor\\05. Additional topics\\BlazorSample.FoodRecipes\\BlazorSample.FoodRecipes.UI\\bin\\Debug\\net7.0\\wwwroot\\_framework\\BlazorSample.FoodRecipes.UiComponents.dll",
+      "SourceId": "BlazorSample.FoodRecipes.UI",
+      "SourceType": "Project",
+      "ContentRoot": "F:\\Source\\ProAspNetCore06\\07. Blazor\\05. Additional topics\\BlazorSample.FoodRecipes\\BlazorSample.FoodRecipes.UI\\bin\\Debug\\net7.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/BlazorSample.FoodRecipes.UiComponents.dll",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "BlazorWebAssemblyResource",
+      "AssetTraitValue": "runtime",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "F:\\Source\\ProAspNetCore06\\07. Blazor\\05. Additional topics\\BlazorSample.FoodRecipes\\BlazorSample.FoodRecipes.UiComponents\\bin\\Debug\\net7.0\\BlazorSample.FoodRecipes.UiComponents.dll"
+    },
+    {
+      "Identity": "F:\\Source\\ProAspNetCore06\\07. Blazor\\05. Additional topics\\BlazorSample.FoodRecipes\\BlazorSample.FoodRecipes.UI\\bin\\Debug\\net7.0\\wwwroot\\_framework\\BlazorSample.FoodRecipes.UiComponents.pdb",
+      "SourceId": "BlazorSample.FoodRecipes.UI",
+      "SourceType": "Project",
+      "ContentRoot": "F:\\Source\\ProAspNetCore06\\07. Blazor\\05. Additional topics\\BlazorSample.FoodRecipes\\BlazorSample.FoodRecipes.UI\\bin\\Debug\\net7.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/BlazorSample.FoodRecipes.UiComponents.pdb",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "BlazorWebAssemblyResource",
+      "AssetTraitValue": "symbol",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "F:\\Source\\ProAspNetCore06\\07. Blazor\\05. Additional topics\\BlazorSample.FoodRecipes\\BlazorSample.FoodRecipes.UiComponents\\bin\\Debug\\net7.0\\BlazorSample.FoodRecipes.UiComponents.pdb"
     },
     {
       "Identity": "F:\\Source\\ProAspNetCore06\\07. Blazor\\05. Additional topics\\BlazorSample.FoodRecipes\\BlazorSample.FoodRecipes.UI\\bin\\Debug\\net7.0\\wwwroot\\_framework\\dotnet.7.0.1.vcmw2og3mw.js",
@@ -6591,6 +6643,23 @@
       "OriginalItemSpec": "F:\\Source\\ProAspNetCore06\\07. Blazor\\05. Additional topics\\BlazorSample.FoodRecipes\\BlazorSample.FoodRecipes.UI\\bin\\Debug\\net7.0\\wwwroot\\_framework\\icudt_no_CJK.dat"
     },
     {
+      "Identity": "F:\\Source\\ProAspNetCore06\\07. Blazor\\05. Additional topics\\BlazorSample.FoodRecipes\\BlazorSample.FoodRecipes.UI\\obj\\Debug\\net7.0\\build-gz\\VZipQQ7g.gz",
+      "SourceId": "BlazorSample.FoodRecipes.UI",
+      "SourceType": "Project",
+      "ContentRoot": "F:\\Source\\ProAspNetCore06\\07. Blazor\\05. Additional topics\\BlazorSample.FoodRecipes\\BlazorSample.FoodRecipes.UI\\bin\\Debug\\net7.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/BlazorSample.FoodRecipes.UiComponents.pdb.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "RelatedAsset": "F:\\Source\\ProAspNetCore06\\07. Blazor\\05. Additional topics\\BlazorSample.FoodRecipes\\BlazorSample.FoodRecipes.UI\\bin\\Debug\\net7.0\\wwwroot\\_framework\\BlazorSample.FoodRecipes.UiComponents.pdb",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "F:\\Source\\ProAspNetCore06\\07. Blazor\\05. Additional topics\\BlazorSample.FoodRecipes\\BlazorSample.FoodRecipes.UI\\bin\\Debug\\net7.0\\wwwroot\\_framework\\BlazorSample.FoodRecipes.UiComponents.pdb"
+    },
+    {
       "Identity": "F:\\Source\\ProAspNetCore06\\07. Blazor\\05. Additional topics\\BlazorSample.FoodRecipes\\BlazorSample.FoodRecipes.UI\\obj\\Debug\\net7.0\\build-gz\\W0aZYaLz.gz",
       "SourceId": "BlazorSample.FoodRecipes.UI",
       "SourceType": "Project",
@@ -6997,6 +7066,23 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "F:\\Source\\ProAspNetCore06\\07. Blazor\\05. Additional topics\\BlazorSample.FoodRecipes\\BlazorSample.FoodRecipes.UI\\bin\\Debug\\net7.0\\wwwroot\\_framework\\System.Linq.dll"
+    },
+    {
+      "Identity": "F:\\Source\\ProAspNetCore06\\07. Blazor\\05. Additional topics\\BlazorSample.FoodRecipes\\BlazorSample.FoodRecipes.UI\\obj\\Debug\\net7.0\\build-gz\\zx2+jkFy.gz",
+      "SourceId": "BlazorSample.FoodRecipes.UI",
+      "SourceType": "Project",
+      "ContentRoot": "F:\\Source\\ProAspNetCore06\\07. Blazor\\05. Additional topics\\BlazorSample.FoodRecipes\\BlazorSample.FoodRecipes.UI\\bin\\Debug\\net7.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/BlazorSample.FoodRecipes.UiComponents.dll.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "RelatedAsset": "F:\\Source\\ProAspNetCore06\\07. Blazor\\05. Additional topics\\BlazorSample.FoodRecipes\\BlazorSample.FoodRecipes.UI\\bin\\Debug\\net7.0\\wwwroot\\_framework\\BlazorSample.FoodRecipes.UiComponents.dll",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "F:\\Source\\ProAspNetCore06\\07. Blazor\\05. Additional topics\\BlazorSample.FoodRecipes\\BlazorSample.FoodRecipes.UI\\bin\\Debug\\net7.0\\wwwroot\\_framework\\BlazorSample.FoodRecipes.UiComponents.dll"
     },
     {
       "Identity": "F:\\Source\\ProAspNetCore06\\07. Blazor\\05. Additional topics\\BlazorSample.FoodRecipes\\BlazorSample.FoodRecipes.UI\\obj\\Debug\\net7.0\\build-gz\\zYQ1PRbM.gz",

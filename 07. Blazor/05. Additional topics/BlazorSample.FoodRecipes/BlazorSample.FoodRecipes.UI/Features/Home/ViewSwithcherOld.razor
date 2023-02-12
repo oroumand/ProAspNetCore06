@@ -1,4 +1,4 @@
-﻿<div>
+﻿@*<div>
     <div class="mb-3">
         <div class="btn-group">
             <button @onclick="@(()=>_mode= ViewMode.Card)" type="button" class="btn @(_mode == ViewMode.Card? "btn-primary" : "btn-secondary")">Card</button>
@@ -31,3 +31,4 @@
     [Parameter, EditorRequired]
     public RenderFragment TableTemplate { get; set; }
 }
+*@

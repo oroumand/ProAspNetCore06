@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "naD/6BkZU9q+ISStT9ziu3xTxM4e20LgnmVIXUYWPtw=",
+  "Source": "BlazorSample.FoodRecipes.UiComponents",
+  "BasePath": "_content/BlazorSample.FoodRecipes.UiComponents",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "BlazorSample.FoodRecipes.UiComponents\\wwwroot",
+      "Source": "BlazorSample.FoodRecipes.UiComponents",
+      "ContentRoot": "F:\\Source\\ProAspNetCore06\\07. Blazor\\05. Additional topics\\BlazorSample.FoodRecipes\\BlazorSample.FoodRecipes.UiComponents\\wwwroot\\",
+      "BasePath": "_content/BlazorSample.FoodRecipes.UiComponents",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}

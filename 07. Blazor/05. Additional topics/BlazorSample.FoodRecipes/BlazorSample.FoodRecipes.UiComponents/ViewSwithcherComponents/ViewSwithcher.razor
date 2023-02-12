@@ -1,0 +1,55 @@
+﻿@typeparam TItem
+<div>
+    <div class="mb-3">
+        <div class="btn-group">
+            <button @onclick="@(()=>_mode= ViewMode.Card)" type="button" class="btn @(_mode == ViewMode.Card? "btn-primary" : "btn-secondary")">Card</button>
+            <button @onclick="@(()=>_mode= ViewMode.Table)" type="button" class="btn @(_mode == ViewMode.Table? "btn-primary" : "btn-secondary")">Table</button>
+        </div>
+    </div>
+
+    @if (_mode == ViewMode.Card)
+    {
+        <div class="row row-cols-1 row-cols-sm-2 row-cols-md-3 g-3">
+
+            @foreach (var item in Items)
+            {
+                @CardTemplate(item)
+            }
+        </div>
+    }
+    else if (_mode == ViewMode.Table)
+    {
+        <table class="table table-bordered table-striped">
+            <tr>
+                @TableHeaderTemplate
+            </tr>
+            @foreach (var item in Items)
+            {
+                <tr>
+                    @TableRowTemplate(item)
+                </tr>
+            }
+        </table>
+    }
+</div>
+
+@code {
+    private enum ViewMode
+    {
+        Card,
+        Table
+    }
+
+    private ViewMode _mode = ViewMode.Card;
+    [Parameter,EditorRequired]
+    public IEnumerable<TItem> Items { get; set; }
+
+    [Parameter, EditorRequired]
+    public RenderFragment<TItem> CardTemplate { get; set; }
+
+    [Parameter, EditorRequired]
+    public RenderFragment TableHeaderTemplate { get; set; }
+
+    [Parameter, EditorRequired]
+    public RenderFragment<TItem> TableRowTemplate { get; set; }
+    }

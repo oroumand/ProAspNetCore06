@@ -4980,3 +4980,12 @@ F:\Source\ProAspNetCore06\07. Blazor\05. Additional topics\BlazorSample.FoodReci
 F:\Source\ProAspNetCore06\07. Blazor\05. Additional topics\BlazorSample.FoodRecipes\BlazorSample.FoodRecipes.UI\obj\Debug\net7.0\refint\BlazorSample.FoodRecipes.UI.dll
 F:\Source\ProAspNetCore06\07. Blazor\05. Additional topics\BlazorSample.FoodRecipes\BlazorSample.FoodRecipes.UI\obj\Debug\net7.0\BlazorSample.FoodRecipes.UI.pdb
 F:\Source\ProAspNetCore06\07. Blazor\05. Additional topics\BlazorSample.FoodRecipes\BlazorSample.FoodRecipes.UI\obj\Debug\net7.0\ref\BlazorSample.FoodRecipes.UI.dll
+F:\Source\ProAspNetCore06\07. Blazor\05. Additional topics\BlazorSample.FoodRecipes\BlazorSample.FoodRecipes.UI\bin\Debug\net7.0\wwwroot\_framework\BlazorSample.FoodRecipes.UiComponents.dll
+F:\Source\ProAspNetCore06\07. Blazor\05. Additional topics\BlazorSample.FoodRecipes\BlazorSample.FoodRecipes.UI\bin\Debug\net7.0\wwwroot\_framework\BlazorSample.FoodRecipes.UiComponents.pdb
+F:\Source\ProAspNetCore06\07. Blazor\05. Additional topics\BlazorSample.FoodRecipes\BlazorSample.FoodRecipes.UI\bin\Debug\net7.0\wwwroot\_framework\BlazorSample.FoodRecipes.UiComponents.pdb.gz
+F:\Source\ProAspNetCore06\07. Blazor\05. Additional topics\BlazorSample.FoodRecipes\BlazorSample.FoodRecipes.UI\bin\Debug\net7.0\wwwroot\_framework\BlazorSample.FoodRecipes.UiComponents.dll.gz
+F:\Source\ProAspNetCore06\07. Blazor\05. Additional topics\BlazorSample.FoodRecipes\BlazorSample.FoodRecipes.UI\bin\Debug\net7.0\BlazorSample.FoodRecipes.UiComponents.staticwebassets.runtime.json
+F:\Source\ProAspNetCore06\07. Blazor\05. Additional topics\BlazorSample.FoodRecipes\BlazorSample.FoodRecipes.UI\bin\Debug\net7.0\BlazorSample.FoodRecipes.UiComponents.dll
+F:\Source\ProAspNetCore06\07. Blazor\05. Additional topics\BlazorSample.FoodRecipes\BlazorSample.FoodRecipes.UI\bin\Debug\net7.0\BlazorSample.FoodRecipes.UiComponents.pdb
+F:\Source\ProAspNetCore06\07. Blazor\05. Additional topics\BlazorSample.FoodRecipes\BlazorSample.FoodRecipes.UI\obj\Debug\net7.0\build-gz\zx2+jkFy.gz
+F:\Source\ProAspNetCore06\07. Blazor\05. Additional topics\BlazorSample.FoodRecipes\BlazorSample.FoodRecipes.UI\obj\Debug\net7.0\build-gz\VZipQQ7g.gz

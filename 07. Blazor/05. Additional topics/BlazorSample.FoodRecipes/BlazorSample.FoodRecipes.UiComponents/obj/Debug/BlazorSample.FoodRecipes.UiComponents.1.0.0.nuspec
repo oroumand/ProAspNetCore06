@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>BlazorSample.FoodRecipes.UiComponents</id>
+    <version>1.0.0</version>
+    <authors>BlazorSample.FoodRecipes.UiComponents</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework="net7.0">
+        <dependency id="Microsoft.AspNetCore.Components.Web" version="7.0.1" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="F:\Source\ProAspNetCore06\07. Blazor\05. Additional topics\BlazorSample.FoodRecipes\BlazorSample.FoodRecipes.UiComponents\bin\Debug\net7.0\BlazorSample.FoodRecipes.UiComponents.dll" target="lib\net7.0\BlazorSample.FoodRecipes.UiComponents.dll" />
+  </files>
+</package>

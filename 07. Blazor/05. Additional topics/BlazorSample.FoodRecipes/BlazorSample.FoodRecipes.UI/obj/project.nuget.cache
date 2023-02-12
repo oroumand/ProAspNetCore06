@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "MialSr3eoPpC+SbAP/1A2UW/FP2bY+yzzc1rqEAH3NnzVr39V9jcJbkss913o5hEHvRJhbfWH+b/uxeibImd2w==",
+  "dgSpecHash": "vURm+p5qwMslS+/0m4OEEYka23Pn5wwvbaP67xhoq7aEMmZ+pkpVqPKK1qfiq1gw9WaSV57pAQfRxgIcJciXRA==",
   "success": true,
   "projectFilePath": "F:\\Source\\ProAspNetCore06\\07. Blazor\\05. Additional topics\\BlazorSample.FoodRecipes\\BlazorSample.FoodRecipes.UI\\BlazorSample.FoodRecipes.UI.csproj",
   "expectedPackageFiles": [

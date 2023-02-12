@@ -201,14 +201,16 @@
       "netstandard.dll": "sha256-+jUzj0FB0YcoBUeSkSNEjhVDTG08qbZ2twfCBMbzT+Q=",
       "System.Private.CoreLib.dll": "sha256-l+\/quNqfNCSUDSMJcp0+IxlSdOdnAtwVVWMXmYGHMpg=",
       "BlazorSample.FoodRecipes.Shared.dll": "sha256-oGePnfcCuk9pumDYJgdYwFrgJZ6wH4liTtnu8slCbtY=",
-      "BlazorSample.FoodRecipes.UI.dll": "sha256-M0\/eI8fq+t9xzK0vaR6cl6JvJQNJk\/h\/GAzol\/FOp2s="
+      "BlazorSample.FoodRecipes.UiComponents.dll": "sha256-\/fIjxi8XYVcvGHj\/34vjAdbDoEKT2bLr7knfGxk2ND8=",
+      "BlazorSample.FoodRecipes.UI.dll": "sha256-\/D6w3bkKICqtgpEvlhgvA\/hlXOTGtJw8rOYKnTjEZAM="
     },
     "extensions": null,
     "lazyAssembly": null,
     "libraryInitializers": null,
     "pdb": {
       "BlazorSample.FoodRecipes.Shared.pdb": "sha256-YVrYwbY5y7dIF\/LajpwqhtILEMauwJb68ipp1guxHwM=",
-      "BlazorSample.FoodRecipes.UI.pdb": "sha256-djeP8glyz8gGTwpleJBTkFfxRok6al1Pfk0uTwwI2Ic="
+      "BlazorSample.FoodRecipes.UiComponents.pdb": "sha256-2jN4rb+Judifg1vJyMlmB6nnS9q1jrI0ugxkIBJ1QkM=",
+      "BlazorSample.FoodRecipes.UI.pdb": "sha256-8dbUuA7PLyKamNrtIGpDv3KGkUrguuAiJxJnkZIQEI0="
     },
     "runtime": {
       "dotnet.7.0.1.vcmw2og3mw.js": "sha256-jjax3FMRXzFAziWowdtJf6vipP2xXAaA5gD6VBYB6Y0=",
