@@ -1,6 +1,7 @@
 ﻿@page "/"
 @inject HttpClient _httpClient;
 <PageTitle>Recipes Home Page</PageTitle>
+<LoginStatus></LoginStatus>
 <RecipeSearch></RecipeSearch>
 @if (_recipes == null)
 {

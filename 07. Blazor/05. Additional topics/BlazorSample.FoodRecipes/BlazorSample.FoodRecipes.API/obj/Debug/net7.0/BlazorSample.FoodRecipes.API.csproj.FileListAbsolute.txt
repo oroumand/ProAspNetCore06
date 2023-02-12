@@ -205,3 +205,6 @@ F:\Source\ProAspNetCore06\07. Blazor\05. Additional topics\BlazorSample.FoodReci
 F:\Source\ProAspNetCore06\07. Blazor\05. Additional topics\BlazorSample.FoodRecipes\BlazorSample.FoodRecipes.API\bin\Debug\net7.0\BlazorSample.FoodRecipes.UiComponents.staticwebassets.runtime.json
 F:\Source\ProAspNetCore06\07. Blazor\05. Additional topics\BlazorSample.FoodRecipes\BlazorSample.FoodRecipes.API\bin\Debug\net7.0\BlazorSample.FoodRecipes.UiComponents.dll
 F:\Source\ProAspNetCore06\07. Blazor\05. Additional topics\BlazorSample.FoodRecipes\BlazorSample.FoodRecipes.API\bin\Debug\net7.0\BlazorSample.FoodRecipes.UiComponents.pdb
+F:\Source\ProAspNetCore06\07. Blazor\05. Additional topics\BlazorSample.FoodRecipes\BlazorSample.FoodRecipes.API\bin\Debug\net7.0\Microsoft.AspNetCore.Components.Authorization.dll
+F:\Source\ProAspNetCore06\07. Blazor\05. Additional topics\BlazorSample.FoodRecipes\BlazorSample.FoodRecipes.API\bin\Debug\net7.0\Microsoft.AspNetCore.Components.WebAssembly.Authentication.dll
+F:\Source\ProAspNetCore06\07. Blazor\05. Additional topics\BlazorSample.FoodRecipes\BlazorSample.FoodRecipes.API\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll

@@ -20,6 +20,14 @@ build_property._RazorSourceGeneratorDebug =
 build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
+[F:/Source/ProAspNetCore06/07. Blazor/05. Additional topics/BlazorSample.FoodRecipes/BlazorSample.FoodRecipes.UI/Features/Auth/AuthenticationPage.razor]
+build_metadata.AdditionalFiles.TargetPath = RmVhdHVyZXNcQXV0aFxBdXRoZW50aWNhdGlvblBhZ2UucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Source/ProAspNetCore06/07. Blazor/05. Additional topics/BlazorSample.FoodRecipes/BlazorSample.FoodRecipes.UI/Features/Auth/LoginStatus.razor]
+build_metadata.AdditionalFiles.TargetPath = RmVhdHVyZXNcQXV0aFxMb2dpblN0YXR1cy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
 [F:/Source/ProAspNetCore06/07. Blazor/05. Additional topics/BlazorSample.FoodRecipes/BlazorSample.FoodRecipes.UI/Features/Home/HomePage.razor]
 build_metadata.AdditionalFiles.TargetPath = RmVhdHVyZXNcSG9tZVxIb21lUGFnZS5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 

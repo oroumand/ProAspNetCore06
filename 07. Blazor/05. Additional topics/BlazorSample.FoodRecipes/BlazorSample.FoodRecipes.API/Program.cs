@@ -3,6 +3,7 @@ using Microsoft.EntityFrameworkCore;
 using FluentValidation.AspNetCore;
 using System.Reflection;
 using Microsoft.Extensions.FileProviders;
+using Microsoft.AspNetCore.Authentication.JwtBearer;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -11,6 +12,16 @@ var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddControllers().AddFluentValidation(fv => fv.RegisterValidatorsFromAssembly(Assembly.Load("BlazorSample.FoodRecipes.Shared")));
 builder.Services.AddDbContext<FoodRecipeDbContext>
     (c => c.UseSqlServer(builder.Configuration.GetConnectionString("RecipeCnn")));
+
+builder.Services.AddAuthentication(options =>
+{
+    options.DefaultAuthenticateScheme = JwtBearerDefaults.AuthenticationScheme;
+    options.DefaultChallengeScheme = JwtBearerDefaults.AuthenticationScheme;
+}).AddJwtBearer(options =>
+{
+    options.Authority = "https://dev-8vsblq1qlazedjno.us.auth0.com/";
+    options.Audience = "https://FoodRecipesApi.com";
+});
 
 var app = builder.Build();
 
@@ -28,7 +39,7 @@ app.UseStaticFiles(new StaticFileOptions()
     RequestPath = new Microsoft.AspNetCore.Http.PathString("/Images")
 });
 app.UseHttpsRedirection();
-
+app.UseAuthentication();
 app.UseAuthorization();
 
 app.MapControllers();
