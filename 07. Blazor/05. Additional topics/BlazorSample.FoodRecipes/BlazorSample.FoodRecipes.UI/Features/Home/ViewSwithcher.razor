@@ -1,0 +1,33 @@
+﻿<div>
+    <div class="mb-3">
+        <div class="btn-group">
+            <button @onclick="@(()=>_mode= ViewMode.Card)" type="button" class="btn @(_mode == ViewMode.Card? "btn-primary" : "btn-secondary")">Card</button>
+            <button @onclick="@(()=>_mode= ViewMode.Table)" type="button" class="btn @(_mode == ViewMode.Table? "btn-primary" : "btn-secondary")">Table</button>
+        </div>
+        @if (_mode == ViewMode.Card)
+        {
+            @CardTemplate
+        }
+        else if (_mode == ViewMode.Table)
+        {
+            @TableTemplate
+        }
+
+    </div>
+
+</div>
+
+@code {
+    private enum ViewMode
+    {
+        Card,
+        Table
+    }
+
+    private ViewMode _mode = ViewMode.Card;
+    [Parameter, EditorRequired]
+    public RenderFragment CardTemplate { get; set; }
+
+    [Parameter, EditorRequired]
+    public RenderFragment TableTemplate { get; set; }
+}

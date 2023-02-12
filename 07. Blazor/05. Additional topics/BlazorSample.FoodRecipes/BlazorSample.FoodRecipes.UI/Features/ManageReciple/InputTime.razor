@@ -1,0 +1,47 @@
+﻿@inherits InputBase<int>
+
+<div class="input-group">
+    <input type="number" class="form-control" min="0" max="10" @onchange="SetHours" value="@_hours"/>
+    <span class="input-group-text">Hours</span>
+    <input type="number" class="form-control" min="0" max="59" @onchange="SetMinutes" value="@_minutes" />
+    <span class="input-group-text">Minuts</span>
+</div>
+
+@code {
+    private int _hours;
+    private int _minutes;
+
+    private void SetHours(ChangeEventArgs args)
+    {
+        int.TryParse(args.Value?.ToString(), out _hours);
+        SetCurentValue();
+    }
+    private void SetMinutes(ChangeEventArgs args)
+    {
+        int.TryParse(args.Value?.ToString(), out _minutes);
+        SetCurentValue();
+    }
+
+    private void SetCurentValue()
+    {
+        CurrentValue = (_hours * 60) + _minutes;
+    }
+
+    protected override void OnParametersSet()
+    {
+        if(CurrentValue > 0)
+        {
+            _hours = CurrentValue / 60;
+            _minutes = CurrentValue % 60;
+        }
+        else
+        {
+            _hours = 0;
+            _minutes = 0;
+        }
+    }
+    protected override bool TryParseValueFromString(string value, out int result, out string validationErrorMessage)
+    {
+        throw new NotImplementedException();
+    }
+}

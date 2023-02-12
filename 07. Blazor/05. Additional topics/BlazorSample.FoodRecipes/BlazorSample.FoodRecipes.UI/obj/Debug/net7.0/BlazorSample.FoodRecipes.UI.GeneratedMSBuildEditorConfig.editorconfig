@@ -1,0 +1,85 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = false
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = browser
+build_property.RootNamespace = BlazorSample.FoodRecipes.UI
+build_property.RootNamespace = BlazorSample.FoodRecipes.UI
+build_property.ProjectDir = F:\Source\ProAspNetCore06\07. Blazor\05. Additional topics\BlazorSample.FoodRecipes\BlazorSample.FoodRecipes.UI\
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = F:\Source\ProAspNetCore06\07. Blazor\05. Additional topics\BlazorSample.FoodRecipes\BlazorSample.FoodRecipes.UI
+build_property._RazorSourceGeneratorDebug = 
+
+[F:/Source/ProAspNetCore06/07. Blazor/05. Additional topics/BlazorSample.FoodRecipes/BlazorSample.FoodRecipes.UI/App.razor]
+build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Source/ProAspNetCore06/07. Blazor/05. Additional topics/BlazorSample.FoodRecipes/BlazorSample.FoodRecipes.UI/Features/Home/HomePage.razor]
+build_metadata.AdditionalFiles.TargetPath = RmVhdHVyZXNcSG9tZVxIb21lUGFnZS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Source/ProAspNetCore06/07. Blazor/05. Additional topics/BlazorSample.FoodRecipes/BlazorSample.FoodRecipes.UI/Features/Home/RecipeCard.razor]
+build_metadata.AdditionalFiles.TargetPath = RmVhdHVyZXNcSG9tZVxSZWNpcGVDYXJkLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Source/ProAspNetCore06/07. Blazor/05. Additional topics/BlazorSample.FoodRecipes/BlazorSample.FoodRecipes.UI/Features/Home/RecipeDetail.razor]
+build_metadata.AdditionalFiles.TargetPath = RmVhdHVyZXNcSG9tZVxSZWNpcGVEZXRhaWwucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Source/ProAspNetCore06/07. Blazor/05. Additional topics/BlazorSample.FoodRecipes/BlazorSample.FoodRecipes.UI/Features/Home/RecipeSearch.razor]
+build_metadata.AdditionalFiles.TargetPath = RmVhdHVyZXNcSG9tZVxSZWNpcGVTZWFyY2gucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Source/ProAspNetCore06/07. Blazor/05. Additional topics/BlazorSample.FoodRecipes/BlazorSample.FoodRecipes.UI/Features/Home/SearchFilter.razor]
+build_metadata.AdditionalFiles.TargetPath = RmVhdHVyZXNcSG9tZVxTZWFyY2hGaWx0ZXIucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Source/ProAspNetCore06/07. Blazor/05. Additional topics/BlazorSample.FoodRecipes/BlazorSample.FoodRecipes.UI/Features/Home/SearchPage.razor]
+build_metadata.AdditionalFiles.TargetPath = RmVhdHVyZXNcSG9tZVxTZWFyY2hQYWdlLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Source/ProAspNetCore06/07. Blazor/05. Additional topics/BlazorSample.FoodRecipes/BlazorSample.FoodRecipes.UI/Features/Home/ViewSwithcher.razor]
+build_metadata.AdditionalFiles.TargetPath = RmVhdHVyZXNcSG9tZVxWaWV3U3dpdGhjaGVyLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Source/ProAspNetCore06/07. Blazor/05. Additional topics/BlazorSample.FoodRecipes/BlazorSample.FoodRecipes.UI/Features/ManageReciple/AddRecipePage.razor]
+build_metadata.AdditionalFiles.TargetPath = RmVhdHVyZXNcTWFuYWdlUmVjaXBsZVxBZGRSZWNpcGVQYWdlLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Source/ProAspNetCore06/07. Blazor/05. Additional topics/BlazorSample.FoodRecipes/BlazorSample.FoodRecipes.UI/Features/ManageReciple/FormFieldSet.razor]
+build_metadata.AdditionalFiles.TargetPath = RmVhdHVyZXNcTWFuYWdlUmVjaXBsZVxGb3JtRmllbGRTZXQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Source/ProAspNetCore06/07. Blazor/05. Additional topics/BlazorSample.FoodRecipes/BlazorSample.FoodRecipes.UI/Features/ManageReciple/FormSection.razor]
+build_metadata.AdditionalFiles.TargetPath = RmVhdHVyZXNcTWFuYWdlUmVjaXBsZVxGb3JtU2VjdGlvbi5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Source/ProAspNetCore06/07. Blazor/05. Additional topics/BlazorSample.FoodRecipes/BlazorSample.FoodRecipes.UI/Features/ManageReciple/InputTime.razor]
+build_metadata.AdditionalFiles.TargetPath = RmVhdHVyZXNcTWFuYWdlUmVjaXBsZVxJbnB1dFRpbWUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Source/ProAspNetCore06/07. Blazor/05. Additional topics/BlazorSample.FoodRecipes/BlazorSample.FoodRecipes.UI/Features/ManageReciple/_Imports.razor]
+build_metadata.AdditionalFiles.TargetPath = RmVhdHVyZXNcTWFuYWdlUmVjaXBsZVxfSW1wb3J0cy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Source/ProAspNetCore06/07. Blazor/05. Additional topics/BlazorSample.FoodRecipes/BlazorSample.FoodRecipes.UI/Features/Shared/Layouts/Footer.razor]
+build_metadata.AdditionalFiles.TargetPath = RmVhdHVyZXNcU2hhcmVkXExheW91dHNcRm9vdGVyLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Source/ProAspNetCore06/07. Blazor/05. Additional topics/BlazorSample.FoodRecipes/BlazorSample.FoodRecipes.UI/Features/Shared/Layouts/Header.razor]
+build_metadata.AdditionalFiles.TargetPath = RmVhdHVyZXNcU2hhcmVkXExheW91dHNcSGVhZGVyLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Source/ProAspNetCore06/07. Blazor/05. Additional topics/BlazorSample.FoodRecipes/BlazorSample.FoodRecipes.UI/Features/Shared/Layouts/MainLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = RmVhdHVyZXNcU2hhcmVkXExheW91dHNcTWFpbkxheW91dC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Source/ProAspNetCore06/07. Blazor/05. Additional topics/BlazorSample.FoodRecipes/BlazorSample.FoodRecipes.UI/_Imports.razor]
+build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
