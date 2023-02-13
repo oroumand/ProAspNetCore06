@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\Source\\Samples\\RealTimeWebSamples\\RealTimeWebSamples\\RealTimeWebSamples.Ajax.csproj",
+      "projectUniqueName": "F:\\Source\\ProAspNetCore06\\06. Framework and Tools\\07. SignalR\\RealTimeWebSamples\\RealTimeWebSamples\\RealTimeWebSamples.Ajax.csproj",
       "projectName": "RealTimeWebSamples.Ajax",
-      "projectPath": "F:\\Source\\Samples\\RealTimeWebSamples\\RealTimeWebSamples\\RealTimeWebSamples.Ajax.csproj",
+      "projectPath": "F:\\Source\\ProAspNetCore06\\06. Framework and Tools\\07. SignalR\\RealTimeWebSamples\\RealTimeWebSamples\\RealTimeWebSamples.Ajax.csproj",
       "packagesPath": "C:\\Users\\Alireza\\.nuget\\packages\\",
-      "outputPath": "F:\\Source\\Samples\\RealTimeWebSamples\\RealTimeWebSamples\\obj\\",
+      "outputPath": "F:\\Source\\ProAspNetCore06\\06. Framework and Tools\\07. SignalR\\RealTimeWebSamples\\RealTimeWebSamples\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Alireza\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,7 +28,6 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "F:\\Nuget": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {

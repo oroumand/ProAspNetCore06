@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "AYIPjC5Vu0smJG8O5ibN+paXl2SvQjytrE1iwZhk6c3puwxIciv9WcjXrtxC5Q/1B0KxV0Az7l4Oupqd7uEkHg==",
+  "dgSpecHash": "3UE2+52hk8t9DRGtvp1NmZWvQ8UlMhgnb/wwg+MgUFCv5lOLP8VR08NKmRynBkXwCLYLK70FD4w/3deTA/B3Ew==",
   "success": true,
-  "projectFilePath": "F:\\Source\\Samples\\RealTimeWebSamples\\RealTimeWebSamples.Polling\\RealTimeWebSamples.Polling.csproj",
+  "projectFilePath": "F:\\Source\\ProAspNetCore06\\06. Framework and Tools\\07. SignalR\\RealTimeWebSamples\\RealTimeWebSamples.Polling\\RealTimeWebSamples.Polling.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

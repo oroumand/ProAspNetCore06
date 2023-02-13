@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "d49bIHeB9cgvp9Jv0NlRFp70jI3fxqgN3qP8BPaZOMPZLbPELYL48TVmq719wbyBEAni9C3+F5xD/0poSklArg==",
+  "dgSpecHash": "g/YlcHkjVPr20floitanfTHksn3a+680sneBsZbRjVY9+3/EPSMr3bcvNhp4LxXaMREkJ4AwQCbbTP2e7pbmeQ==",
   "success": true,
-  "projectFilePath": "F:\\Source\\Samples\\RealTimeWebSamples\\RealTimeWebSamples\\RealTimeWebSamples.Ajax.csproj",
+  "projectFilePath": "F:\\Source\\ProAspNetCore06\\06. Framework and Tools\\07. SignalR\\RealTimeWebSamples\\RealTimeWebSamples\\RealTimeWebSamples.Ajax.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

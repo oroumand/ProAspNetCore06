@@ -1,0 +1,29 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="row">
+    <div class="col-3">
+        <input type="button" id="webSocketButtun" value="Load Data"/>
+    </div>
+</div>
+@section Scripts{
+        <script type="text/javascript">
+
+
+            (()=>{
+                document.getElementById("webSocketButtun").addEventListener("click",OpenWebSocket);
+
+                function OpenWebSocket(){
+                const socket = new WebSocket('ws://localhost:5107/Home/CountUntil/10');
+
+                    socket.onmessage = event => {
+                        alert(event.data);
+                    };
+
+                }
+
+   
+            })();
+        </script>
+}

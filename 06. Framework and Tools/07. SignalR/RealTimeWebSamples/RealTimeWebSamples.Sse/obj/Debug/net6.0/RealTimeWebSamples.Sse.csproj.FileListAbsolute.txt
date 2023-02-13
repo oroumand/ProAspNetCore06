@@ -29,3 +29,34 @@ F:\Source\Samples\RealTimeWebSamples\RealTimeWebSamples.Sse\obj\Debug\net6.0\ref
 F:\Source\Samples\RealTimeWebSamples\RealTimeWebSamples.Sse\obj\Debug\net6.0\RealTimeWebSamples.Sse.pdb
 F:\Source\Samples\RealTimeWebSamples\RealTimeWebSamples.Sse\obj\Debug\net6.0\RealTimeWebSamples.Sse.genruntimeconfig.cache
 F:\Source\Samples\RealTimeWebSamples\RealTimeWebSamples.Sse\obj\Debug\net6.0\ref\RealTimeWebSamples.Sse.dll
+F:\Source\ProAspNetCore06\06. Framework and Tools\07. SignalR\RealTimeWebSamples\RealTimeWebSamples.Sse\bin\Debug\net6.0\appsettings.Development.json
+F:\Source\ProAspNetCore06\06. Framework and Tools\07. SignalR\RealTimeWebSamples\RealTimeWebSamples.Sse\bin\Debug\net6.0\appsettings.json
+F:\Source\ProAspNetCore06\06. Framework and Tools\07. SignalR\RealTimeWebSamples\RealTimeWebSamples.Sse\bin\Debug\net6.0\RealTimeWebSamples.Sse.staticwebassets.runtime.json
+F:\Source\ProAspNetCore06\06. Framework and Tools\07. SignalR\RealTimeWebSamples\RealTimeWebSamples.Sse\bin\Debug\net6.0\RealTimeWebSamples.Sse.exe
+F:\Source\ProAspNetCore06\06. Framework and Tools\07. SignalR\RealTimeWebSamples\RealTimeWebSamples.Sse\bin\Debug\net6.0\RealTimeWebSamples.Sse.deps.json
+F:\Source\ProAspNetCore06\06. Framework and Tools\07. SignalR\RealTimeWebSamples\RealTimeWebSamples.Sse\bin\Debug\net6.0\RealTimeWebSamples.Sse.runtimeconfig.json
+F:\Source\ProAspNetCore06\06. Framework and Tools\07. SignalR\RealTimeWebSamples\RealTimeWebSamples.Sse\bin\Debug\net6.0\RealTimeWebSamples.Sse.dll
+F:\Source\ProAspNetCore06\06. Framework and Tools\07. SignalR\RealTimeWebSamples\RealTimeWebSamples.Sse\bin\Debug\net6.0\RealTimeWebSamples.Sse.pdb
+F:\Source\ProAspNetCore06\06. Framework and Tools\07. SignalR\RealTimeWebSamples\RealTimeWebSamples.Sse\obj\Debug\net6.0\RealTimeWebSamples.Sse.csproj.AssemblyReference.cache
+F:\Source\ProAspNetCore06\06. Framework and Tools\07. SignalR\RealTimeWebSamples\RealTimeWebSamples.Sse\obj\Debug\net6.0\RealTimeWebSamples.Sse.GeneratedMSBuildEditorConfig.editorconfig
+F:\Source\ProAspNetCore06\06. Framework and Tools\07. SignalR\RealTimeWebSamples\RealTimeWebSamples.Sse\obj\Debug\net6.0\RealTimeWebSamples.Sse.AssemblyInfoInputs.cache
+F:\Source\ProAspNetCore06\06. Framework and Tools\07. SignalR\RealTimeWebSamples\RealTimeWebSamples.Sse\obj\Debug\net6.0\RealTimeWebSamples.Sse.AssemblyInfo.cs
+F:\Source\ProAspNetCore06\06. Framework and Tools\07. SignalR\RealTimeWebSamples\RealTimeWebSamples.Sse\obj\Debug\net6.0\RealTimeWebSamples.Sse.csproj.CoreCompileInputs.cache
+F:\Source\ProAspNetCore06\06. Framework and Tools\07. SignalR\RealTimeWebSamples\RealTimeWebSamples.Sse\obj\Debug\net6.0\RealTimeWebSamples.Sse.MvcApplicationPartsAssemblyInfo.cache
+F:\Source\ProAspNetCore06\06. Framework and Tools\07. SignalR\RealTimeWebSamples\RealTimeWebSamples.Sse\obj\Debug\net6.0\RealTimeWebSamples.Sse.RazorAssemblyInfo.cache
+F:\Source\ProAspNetCore06\06. Framework and Tools\07. SignalR\RealTimeWebSamples\RealTimeWebSamples.Sse\obj\Debug\net6.0\RealTimeWebSamples.Sse.RazorAssemblyInfo.cs
+F:\Source\ProAspNetCore06\06. Framework and Tools\07. SignalR\RealTimeWebSamples\RealTimeWebSamples.Sse\obj\Debug\net6.0\staticwebassets\msbuild.RealTimeWebSamples.Sse.Microsoft.AspNetCore.StaticWebAssets.props
+F:\Source\ProAspNetCore06\06. Framework and Tools\07. SignalR\RealTimeWebSamples\RealTimeWebSamples.Sse\obj\Debug\net6.0\staticwebassets\msbuild.build.RealTimeWebSamples.Sse.props
+F:\Source\ProAspNetCore06\06. Framework and Tools\07. SignalR\RealTimeWebSamples\RealTimeWebSamples.Sse\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.RealTimeWebSamples.Sse.props
+F:\Source\ProAspNetCore06\06. Framework and Tools\07. SignalR\RealTimeWebSamples\RealTimeWebSamples.Sse\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.RealTimeWebSamples.Sse.props
+F:\Source\ProAspNetCore06\06. Framework and Tools\07. SignalR\RealTimeWebSamples\RealTimeWebSamples.Sse\obj\Debug\net6.0\staticwebassets.pack.json
+F:\Source\ProAspNetCore06\06. Framework and Tools\07. SignalR\RealTimeWebSamples\RealTimeWebSamples.Sse\obj\Debug\net6.0\staticwebassets.build.json
+F:\Source\ProAspNetCore06\06. Framework and Tools\07. SignalR\RealTimeWebSamples\RealTimeWebSamples.Sse\obj\Debug\net6.0\staticwebassets.development.json
+F:\Source\ProAspNetCore06\06. Framework and Tools\07. SignalR\RealTimeWebSamples\RealTimeWebSamples.Sse\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+F:\Source\ProAspNetCore06\06. Framework and Tools\07. SignalR\RealTimeWebSamples\RealTimeWebSamples.Sse\obj\Debug\net6.0\scopedcss\bundle\RealTimeWebSamples.Sse.styles.css
+F:\Source\ProAspNetCore06\06. Framework and Tools\07. SignalR\RealTimeWebSamples\RealTimeWebSamples.Sse\obj\Debug\net6.0\scopedcss\projectbundle\RealTimeWebSamples.Sse.bundle.scp.css
+F:\Source\ProAspNetCore06\06. Framework and Tools\07. SignalR\RealTimeWebSamples\RealTimeWebSamples.Sse\obj\Debug\net6.0\RealTimeWebSamples.Sse.dll
+F:\Source\ProAspNetCore06\06. Framework and Tools\07. SignalR\RealTimeWebSamples\RealTimeWebSamples.Sse\obj\Debug\net6.0\refint\RealTimeWebSamples.Sse.dll
+F:\Source\ProAspNetCore06\06. Framework and Tools\07. SignalR\RealTimeWebSamples\RealTimeWebSamples.Sse\obj\Debug\net6.0\RealTimeWebSamples.Sse.pdb
+F:\Source\ProAspNetCore06\06. Framework and Tools\07. SignalR\RealTimeWebSamples\RealTimeWebSamples.Sse\obj\Debug\net6.0\RealTimeWebSamples.Sse.genruntimeconfig.cache
+F:\Source\ProAspNetCore06\06. Framework and Tools\07. SignalR\RealTimeWebSamples\RealTimeWebSamples.Sse\obj\Debug\net6.0\ref\RealTimeWebSamples.Sse.dll

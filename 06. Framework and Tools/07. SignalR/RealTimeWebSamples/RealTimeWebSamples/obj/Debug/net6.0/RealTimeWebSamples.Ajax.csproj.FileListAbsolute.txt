@@ -29,3 +29,34 @@ F:\Source\Samples\RealTimeWebSamples\RealTimeWebSamples\obj\Debug\net6.0\refint\
 F:\Source\Samples\RealTimeWebSamples\RealTimeWebSamples\obj\Debug\net6.0\RealTimeWebSamples.Ajax.pdb
 F:\Source\Samples\RealTimeWebSamples\RealTimeWebSamples\obj\Debug\net6.0\RealTimeWebSamples.Ajax.genruntimeconfig.cache
 F:\Source\Samples\RealTimeWebSamples\RealTimeWebSamples\obj\Debug\net6.0\ref\RealTimeWebSamples.Ajax.dll
+F:\Source\ProAspNetCore06\06. Framework and Tools\07. SignalR\RealTimeWebSamples\RealTimeWebSamples\bin\Debug\net6.0\appsettings.Development.json
+F:\Source\ProAspNetCore06\06. Framework and Tools\07. SignalR\RealTimeWebSamples\RealTimeWebSamples\bin\Debug\net6.0\appsettings.json
+F:\Source\ProAspNetCore06\06. Framework and Tools\07. SignalR\RealTimeWebSamples\RealTimeWebSamples\bin\Debug\net6.0\RealTimeWebSamples.Ajax.staticwebassets.runtime.json
+F:\Source\ProAspNetCore06\06. Framework and Tools\07. SignalR\RealTimeWebSamples\RealTimeWebSamples\bin\Debug\net6.0\RealTimeWebSamples.Ajax.exe
+F:\Source\ProAspNetCore06\06. Framework and Tools\07. SignalR\RealTimeWebSamples\RealTimeWebSamples\bin\Debug\net6.0\RealTimeWebSamples.Ajax.deps.json
+F:\Source\ProAspNetCore06\06. Framework and Tools\07. SignalR\RealTimeWebSamples\RealTimeWebSamples\bin\Debug\net6.0\RealTimeWebSamples.Ajax.runtimeconfig.json
+F:\Source\ProAspNetCore06\06. Framework and Tools\07. SignalR\RealTimeWebSamples\RealTimeWebSamples\bin\Debug\net6.0\RealTimeWebSamples.Ajax.dll
+F:\Source\ProAspNetCore06\06. Framework and Tools\07. SignalR\RealTimeWebSamples\RealTimeWebSamples\bin\Debug\net6.0\RealTimeWebSamples.Ajax.pdb
+F:\Source\ProAspNetCore06\06. Framework and Tools\07. SignalR\RealTimeWebSamples\RealTimeWebSamples\obj\Debug\net6.0\RealTimeWebSamples.Ajax.csproj.AssemblyReference.cache
+F:\Source\ProAspNetCore06\06. Framework and Tools\07. SignalR\RealTimeWebSamples\RealTimeWebSamples\obj\Debug\net6.0\RealTimeWebSamples.Ajax.GeneratedMSBuildEditorConfig.editorconfig
+F:\Source\ProAspNetCore06\06. Framework and Tools\07. SignalR\RealTimeWebSamples\RealTimeWebSamples\obj\Debug\net6.0\RealTimeWebSamples.Ajax.AssemblyInfoInputs.cache
+F:\Source\ProAspNetCore06\06. Framework and Tools\07. SignalR\RealTimeWebSamples\RealTimeWebSamples\obj\Debug\net6.0\RealTimeWebSamples.Ajax.AssemblyInfo.cs
+F:\Source\ProAspNetCore06\06. Framework and Tools\07. SignalR\RealTimeWebSamples\RealTimeWebSamples\obj\Debug\net6.0\RealTimeWebSamples.Ajax.csproj.CoreCompileInputs.cache
+F:\Source\ProAspNetCore06\06. Framework and Tools\07. SignalR\RealTimeWebSamples\RealTimeWebSamples\obj\Debug\net6.0\RealTimeWebSamples.Ajax.MvcApplicationPartsAssemblyInfo.cache
+F:\Source\ProAspNetCore06\06. Framework and Tools\07. SignalR\RealTimeWebSamples\RealTimeWebSamples\obj\Debug\net6.0\RealTimeWebSamples.Ajax.RazorAssemblyInfo.cache
+F:\Source\ProAspNetCore06\06. Framework and Tools\07. SignalR\RealTimeWebSamples\RealTimeWebSamples\obj\Debug\net6.0\RealTimeWebSamples.Ajax.RazorAssemblyInfo.cs
+F:\Source\ProAspNetCore06\06. Framework and Tools\07. SignalR\RealTimeWebSamples\RealTimeWebSamples\obj\Debug\net6.0\staticwebassets\msbuild.RealTimeWebSamples.Ajax.Microsoft.AspNetCore.StaticWebAssets.props
+F:\Source\ProAspNetCore06\06. Framework and Tools\07. SignalR\RealTimeWebSamples\RealTimeWebSamples\obj\Debug\net6.0\staticwebassets\msbuild.build.RealTimeWebSamples.Ajax.props
+F:\Source\ProAspNetCore06\06. Framework and Tools\07. SignalR\RealTimeWebSamples\RealTimeWebSamples\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.RealTimeWebSamples.Ajax.props
+F:\Source\ProAspNetCore06\06. Framework and Tools\07. SignalR\RealTimeWebSamples\RealTimeWebSamples\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.RealTimeWebSamples.Ajax.props
+F:\Source\ProAspNetCore06\06. Framework and Tools\07. SignalR\RealTimeWebSamples\RealTimeWebSamples\obj\Debug\net6.0\staticwebassets.pack.json
+F:\Source\ProAspNetCore06\06. Framework and Tools\07. SignalR\RealTimeWebSamples\RealTimeWebSamples\obj\Debug\net6.0\staticwebassets.build.json
+F:\Source\ProAspNetCore06\06. Framework and Tools\07. SignalR\RealTimeWebSamples\RealTimeWebSamples\obj\Debug\net6.0\staticwebassets.development.json
+F:\Source\ProAspNetCore06\06. Framework and Tools\07. SignalR\RealTimeWebSamples\RealTimeWebSamples\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+F:\Source\ProAspNetCore06\06. Framework and Tools\07. SignalR\RealTimeWebSamples\RealTimeWebSamples\obj\Debug\net6.0\scopedcss\bundle\RealTimeWebSamples.Ajax.styles.css
+F:\Source\ProAspNetCore06\06. Framework and Tools\07. SignalR\RealTimeWebSamples\RealTimeWebSamples\obj\Debug\net6.0\scopedcss\projectbundle\RealTimeWebSamples.Ajax.bundle.scp.css
+F:\Source\ProAspNetCore06\06. Framework and Tools\07. SignalR\RealTimeWebSamples\RealTimeWebSamples\obj\Debug\net6.0\RealTimeWebSamples.Ajax.dll
+F:\Source\ProAspNetCore06\06. Framework and Tools\07. SignalR\RealTimeWebSamples\RealTimeWebSamples\obj\Debug\net6.0\refint\RealTimeWebSamples.Ajax.dll
+F:\Source\ProAspNetCore06\06. Framework and Tools\07. SignalR\RealTimeWebSamples\RealTimeWebSamples\obj\Debug\net6.0\RealTimeWebSamples.Ajax.pdb
+F:\Source\ProAspNetCore06\06. Framework and Tools\07. SignalR\RealTimeWebSamples\RealTimeWebSamples\obj\Debug\net6.0\RealTimeWebSamples.Ajax.genruntimeconfig.cache
+F:\Source\ProAspNetCore06\06. Framework and Tools\07. SignalR\RealTimeWebSamples\RealTimeWebSamples\obj\Debug\net6.0\ref\RealTimeWebSamples.Ajax.dll
