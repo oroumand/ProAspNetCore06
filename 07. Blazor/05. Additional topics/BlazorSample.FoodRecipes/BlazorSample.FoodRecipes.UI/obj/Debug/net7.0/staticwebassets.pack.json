@@ -21,68 +21,88 @@
       "PackagePath": "staticwebassets\\css\\app.css"
     },
     {
-      "Id": "F:\\Source\\ProAspNetCore06\\07. Blazor\\05. Additional topics\\BlazorSample.FoodRecipes\\BlazorSample.FoodRecipes.UI\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
-      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css"
+      "Id": "F:\\Source\\ProAspNetCore06\\07. Blazor\\05. Additional topics\\BlazorSample.FoodRecipes\\BlazorSample.FoodRecipes.UI\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
     },
     {
-      "Id": "F:\\Source\\ProAspNetCore06\\07. Blazor\\05. Additional topics\\BlazorSample.FoodRecipes\\BlazorSample.FoodRecipes.UI\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
-      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css.map"
+      "Id": "F:\\Source\\ProAspNetCore06\\07. Blazor\\05. Additional topics\\BlazorSample.FoodRecipes\\BlazorSample.FoodRecipes.UI\\wwwroot\\css\\style.min.css",
+      "PackagePath": "staticwebassets\\css\\style.min.css"
     },
     {
-      "Id": "F:\\Source\\ProAspNetCore06\\07. Blazor\\05. Additional topics\\BlazorSample.FoodRecipes\\BlazorSample.FoodRecipes.UI\\wwwroot\\css\\open-iconic\\FONT-LICENSE",
-      "PackagePath": "staticwebassets\\css\\open-iconic"
-    },
-    {
-      "Id": "F:\\Source\\ProAspNetCore06\\07. Blazor\\05. Additional topics\\BlazorSample.FoodRecipes\\BlazorSample.FoodRecipes.UI\\wwwroot\\css\\open-iconic\\ICON-LICENSE",
-      "PackagePath": "staticwebassets\\css\\open-iconic"
-    },
-    {
-      "Id": "F:\\Source\\ProAspNetCore06\\07. Blazor\\05. Additional topics\\BlazorSample.FoodRecipes\\BlazorSample.FoodRecipes.UI\\wwwroot\\css\\open-iconic\\README.md",
-      "PackagePath": "staticwebassets\\css\\open-iconic\\README.md"
-    },
-    {
-      "Id": "F:\\Source\\ProAspNetCore06\\07. Blazor\\05. Additional topics\\BlazorSample.FoodRecipes\\BlazorSample.FoodRecipes.UI\\wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css",
-      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css"
-    },
-    {
-      "Id": "F:\\Source\\ProAspNetCore06\\07. Blazor\\05. Additional topics\\BlazorSample.FoodRecipes\\BlazorSample.FoodRecipes.UI\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot",
-      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.eot"
-    },
-    {
-      "Id": "F:\\Source\\ProAspNetCore06\\07. Blazor\\05. Additional topics\\BlazorSample.FoodRecipes\\BlazorSample.FoodRecipes.UI\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf",
-      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.otf"
-    },
-    {
-      "Id": "F:\\Source\\ProAspNetCore06\\07. Blazor\\05. Additional topics\\BlazorSample.FoodRecipes\\BlazorSample.FoodRecipes.UI\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg",
-      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.svg"
-    },
-    {
-      "Id": "F:\\Source\\ProAspNetCore06\\07. Blazor\\05. Additional topics\\BlazorSample.FoodRecipes\\BlazorSample.FoodRecipes.UI\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf",
-      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.ttf"
-    },
-    {
-      "Id": "F:\\Source\\ProAspNetCore06\\07. Blazor\\05. Additional topics\\BlazorSample.FoodRecipes\\BlazorSample.FoodRecipes.UI\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff",
-      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.woff"
-    },
-    {
-      "Id": "F:\\Source\\ProAspNetCore06\\07. Blazor\\05. Additional topics\\BlazorSample.FoodRecipes\\BlazorSample.FoodRecipes.UI\\wwwroot\\favicon.png",
-      "PackagePath": "staticwebassets\\favicon.png"
-    },
-    {
-      "Id": "F:\\Source\\ProAspNetCore06\\07. Blazor\\05. Additional topics\\BlazorSample.FoodRecipes\\BlazorSample.FoodRecipes.UI\\wwwroot\\icon-192.png",
-      "PackagePath": "staticwebassets\\icon-192.png"
+      "Id": "F:\\Source\\ProAspNetCore06\\07. Blazor\\05. Additional topics\\BlazorSample.FoodRecipes\\BlazorSample.FoodRecipes.UI\\wwwroot\\fevicon.png",
+      "PackagePath": "staticwebassets\\fevicon.png"
     },
     {
       "Id": "F:\\Source\\ProAspNetCore06\\07. Blazor\\05. Additional topics\\BlazorSample.FoodRecipes\\BlazorSample.FoodRecipes.UI\\wwwroot\\images\\Good-food-logo.png",
       "PackagePath": "staticwebassets\\images\\Good-food-logo.png"
     },
     {
+      "Id": "F:\\Source\\ProAspNetCore06\\07. Blazor\\05. Additional topics\\BlazorSample.FoodRecipes\\BlazorSample.FoodRecipes.UI\\wwwroot\\images\\fevicon.png",
+      "PackagePath": "staticwebassets\\images\\fevicon.png"
+    },
+    {
+      "Id": "F:\\Source\\ProAspNetCore06\\07. Blazor\\05. Additional topics\\BlazorSample.FoodRecipes\\BlazorSample.FoodRecipes.UI\\wwwroot\\images\\img.jpg",
+      "PackagePath": "staticwebassets\\images\\img.jpg"
+    },
+    {
+      "Id": "F:\\Source\\ProAspNetCore06\\07. Blazor\\05. Additional topics\\BlazorSample.FoodRecipes\\BlazorSample.FoodRecipes.UI\\wwwroot\\images\\logo.png",
+      "PackagePath": "staticwebassets\\images\\logo.png"
+    },
+    {
       "Id": "F:\\Source\\ProAspNetCore06\\07. Blazor\\05. Additional topics\\BlazorSample.FoodRecipes\\BlazorSample.FoodRecipes.UI\\wwwroot\\images\\preview-xl.jpg",
       "PackagePath": "staticwebassets\\images\\preview-xl.jpg"
     },
     {
+      "Id": "F:\\Source\\ProAspNetCore06\\07. Blazor\\05. Additional topics\\BlazorSample.FoodRecipes\\BlazorSample.FoodRecipes.UI\\wwwroot\\images\\shape-1.png",
+      "PackagePath": "staticwebassets\\images\\shape-1.png"
+    },
+    {
+      "Id": "F:\\Source\\ProAspNetCore06\\07. Blazor\\05. Additional topics\\BlazorSample.FoodRecipes\\BlazorSample.FoodRecipes.UI\\wwwroot\\images\\shape-2.png",
+      "PackagePath": "staticwebassets\\images\\shape-2.png"
+    },
+    {
       "Id": "F:\\Source\\ProAspNetCore06\\07. Blazor\\05. Additional topics\\BlazorSample.FoodRecipes\\BlazorSample.FoodRecipes.UI\\wwwroot\\index.html",
       "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "F:\\Source\\ProAspNetCore06\\07. Blazor\\05. Additional topics\\BlazorSample.FoodRecipes\\BlazorSample.FoodRecipes.UI\\wwwroot\\js\\bundle.js",
+      "PackagePath": "staticwebassets\\js\\bundle.js"
+    },
+    {
+      "Id": "F:\\Source\\ProAspNetCore06\\07. Blazor\\05. Additional topics\\BlazorSample.FoodRecipes\\BlazorSample.FoodRecipes.UI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "F:\\Source\\ProAspNetCore06\\07. Blazor\\05. Additional topics\\BlazorSample.FoodRecipes\\BlazorSample.FoodRecipes.UI\\wwwroot\\lib\\uicons\\css\\bold\\rounded.css",
+      "PackagePath": "staticwebassets\\lib\\uicons\\css\\bold\\rounded.css"
+    },
+    {
+      "Id": "F:\\Source\\ProAspNetCore06\\07. Blazor\\05. Additional topics\\BlazorSample.FoodRecipes\\BlazorSample.FoodRecipes.UI\\wwwroot\\lib\\uicons\\css\\regular\\rounded.css",
+      "PackagePath": "staticwebassets\\lib\\uicons\\css\\regular\\rounded.css"
+    },
+    {
+      "Id": "F:\\Source\\ProAspNetCore06\\07. Blazor\\05. Additional topics\\BlazorSample.FoodRecipes\\BlazorSample.FoodRecipes.UI\\wwwroot\\lib\\uicons\\webfonts\\uicons-bold-rounded.eot",
+      "PackagePath": "staticwebassets\\lib\\uicons\\webfonts\\uicons-bold-rounded.eot"
+    },
+    {
+      "Id": "F:\\Source\\ProAspNetCore06\\07. Blazor\\05. Additional topics\\BlazorSample.FoodRecipes\\BlazorSample.FoodRecipes.UI\\wwwroot\\lib\\uicons\\webfonts\\uicons-bold-rounded.woff",
+      "PackagePath": "staticwebassets\\lib\\uicons\\webfonts\\uicons-bold-rounded.woff"
+    },
+    {
+      "Id": "F:\\Source\\ProAspNetCore06\\07. Blazor\\05. Additional topics\\BlazorSample.FoodRecipes\\BlazorSample.FoodRecipes.UI\\wwwroot\\lib\\uicons\\webfonts\\uicons-bold-rounded.woff2",
+      "PackagePath": "staticwebassets\\lib\\uicons\\webfonts\\uicons-bold-rounded.woff2"
+    },
+    {
+      "Id": "F:\\Source\\ProAspNetCore06\\07. Blazor\\05. Additional topics\\BlazorSample.FoodRecipes\\BlazorSample.FoodRecipes.UI\\wwwroot\\lib\\uicons\\webfonts\\uicons-regular-rounded.eot",
+      "PackagePath": "staticwebassets\\lib\\uicons\\webfonts\\uicons-regular-rounded.eot"
+    },
+    {
+      "Id": "F:\\Source\\ProAspNetCore06\\07. Blazor\\05. Additional topics\\BlazorSample.FoodRecipes\\BlazorSample.FoodRecipes.UI\\wwwroot\\lib\\uicons\\webfonts\\uicons-regular-rounded.woff",
+      "PackagePath": "staticwebassets\\lib\\uicons\\webfonts\\uicons-regular-rounded.woff"
+    },
+    {
+      "Id": "F:\\Source\\ProAspNetCore06\\07. Blazor\\05. Additional topics\\BlazorSample.FoodRecipes\\BlazorSample.FoodRecipes.UI\\wwwroot\\lib\\uicons\\webfonts\\uicons-regular-rounded.woff2",
+      "PackagePath": "staticwebassets\\lib\\uicons\\webfonts\\uicons-regular-rounded.woff2"
     },
     {
       "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.BlazorSample.FoodRecipes.UI.Microsoft.AspNetCore.StaticWebAssets.props",

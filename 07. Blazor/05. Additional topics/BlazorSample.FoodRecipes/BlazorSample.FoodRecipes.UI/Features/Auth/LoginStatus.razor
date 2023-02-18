@@ -2,13 +2,13 @@
 @inject SignOutSessionStateManager sessionMan
 <AuthorizeView>
     <Authorized>
-        <div>
+        <li>
             Hello @context.User.Identity.Name
             <a href="#" @onclick="logout">Logout</a>
-        </div>
+        </li>
     </Authorized>
     <NotAuthorized>
-        <a href="authentication/login">Login</a>
+        <li class="nav-item"><a href="authentication/login" class="nav-link" aria-current="page">Login</a></li>
     </NotAuthorized>
 </AuthorizeView>
 @code {
