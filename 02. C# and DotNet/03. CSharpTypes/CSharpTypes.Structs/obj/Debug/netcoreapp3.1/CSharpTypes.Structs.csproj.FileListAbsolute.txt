@@ -1,5 +1,0 @@
-C:\Users\Alireza\source\repos\CSharpTypes\CSharpTypes.Structs\obj\Debug\netcoreapp3.1\CSharpTypes.Structs.csproj.AssemblyReference.cache
-C:\Users\Alireza\source\repos\CSharpTypes\CSharpTypes.Structs\obj\Debug\netcoreapp3.1\CSharpTypes.Structs.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Alireza\source\repos\CSharpTypes\CSharpTypes.Structs\obj\Debug\netcoreapp3.1\CSharpTypes.Structs.AssemblyInfoInputs.cache
-C:\Users\Alireza\source\repos\CSharpTypes\CSharpTypes.Structs\obj\Debug\netcoreapp3.1\CSharpTypes.Structs.AssemblyInfo.cs
-C:\Users\Alireza\source\repos\CSharpTypes\CSharpTypes.Structs\obj\Debug\netcoreapp3.1\CSharpTypes.Structs.csproj.CoreCompileInputs.cache

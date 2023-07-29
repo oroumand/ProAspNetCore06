@@ -1,8 +1,0 @@
-{
-  "profiles": {
-    "02.Begining.TopLevelStatement": {
-      "commandName": "Project",
-      "commandLineArgs": "1 2 3 4 5"
-    }
-  }
-}
